@@ -1,24 +1,24 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+title: Trina is Artsy
+email: "trinaisartsy@gmail.com"
+description: ""
+url: "http://trina.coffee"
+baseurl: "/"
+facebook_username: "trinaisartsy"
+twitter_username: "trinaisartsy"
+instagram_username: "trinaisartsy"
+github_username:  "trinaisartsy"
+deviantart_username: "trinaisartsy"
+flickr_username: "trinaisartsy"
+discus_shortname: "trinaisartsy"
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Trina
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Arts, crafts, and posts, oh my!
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "/gallery/"  
+  - JOURNAL: "/journal/"
+  - ABOUT: "/about/"
 
 # All translation keys
 translations:
