@@ -4,7 +4,7 @@ title:      "Alice in Wonderland"
 subtitle:   "Lewis Carroll"
 active: journal
 image:
-  feature: "pc001.jpg"
+  feature: "art/Skull%20Man.jpg"
 date:       2016-03-25
 header-img: "art/Skull%20Man.jpg"
 tags: [tag01, tag02]
