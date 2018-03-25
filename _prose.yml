@@ -7,6 +7,10 @@ prose:
 
   metadata:
     _art:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post Title"
       - name: "image"
         field:
           element: "text"
