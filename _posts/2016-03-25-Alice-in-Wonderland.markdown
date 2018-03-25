@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Alice in Wonderland TEST
-subtitle: Lewis Carroll
+title: The Seashell Windchime
+subtitle: Aka The Bone Chime
 active: journal
-image: art/Skull%20Man.jpg
-header-img: art/Skull%20Man.jpg
+image: art/BoneChime1.jpg
+header-img: art/BoneChime1.jpg
 tags:
   - local
   - thing
   - fun
   - whatever
 categories:
-  - tutorials
   - local
+  - crafts
 published: true
 ---
 ### _AKA "The Bone Chime"_
@@ -93,45 +93,5 @@ The shell bone wind chime posing outdoors with an unfortunate duo... a pair of s
 
 
  I used a lot of difference media to create the shine itself. Pretty much anything I could get my hands on that reminded me of youth, wonderment, and an overblown sense of entitlement. Mainly just old jewelry and various string, though. I loved adding the layers of stuff - I wanted it encrusted with shiny whimsical trinkets. Also, the doors on the shrine are totally functional. I wanted to be able to display this piece as "reserved" or "out in the open."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-By the way, on the subject of shrines, I'm obsessed with them. There are so many beautiful examples out there of artist shrines that inspired me a lot. I love the idea of inserting symbols and relics into a shrine that are significant to only you, making them ultra personal and kind of "secretive" works of art for the viewer to decipher on their own.  Here are some amazing examples of artist shrines that embody those ideals. Some of their meanings are more obvious than others.
-
-
- By Jones Moore 
-
-By Mai-Liss
-
-By Collette Bain 
-
-By Cindy La Ferle
-
-Check out those artist pages for even more examples of shrines. Amazing work by talented people. Also, if this has got you curious on how to make your very own personal shrine, here are a few tutorials to get you started!
-
-
-Shadow box shrines made with dollar store frames by Cut Out and Keep
-
-Paper Shrine Template by Stampers Anonymous 
-
-
-Make a Gratitude Shrine by Crizmac
 
 
