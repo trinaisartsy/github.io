@@ -16,6 +16,8 @@ published: true
 On a random note, I fondly nicknamed  
 my set of fav. paintbrushes my "A-Team"
 
+_Originally Published April 2012_
+
 Today I figured I'd make a little post about my "traveling" painting kit. It's basically all my favorite paintbrushes and tools packed into one box that I can take with me anywhere. No biggie... most artists have a version of this. However, I have a very special ongoing project involving my paint supplies that I couldn't help but share with you guys... It's a _masterpiece_ in the making!  
   
 
