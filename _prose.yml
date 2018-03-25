@@ -3,6 +3,15 @@ prose:
   siteurl: 'https://trina.coffee'
  # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
+  
+
+  metadata:
+    _art:
+      - name: "image"
+        field:
+          element: "text"
+          label: "relative path to image"
+
   ignore:
     - index.md
     - _config.yml
