@@ -27,8 +27,9 @@ hello
 
    
 				
-{% for image in site.static_files %}
-    {% if image.path contains 'art/media/' limit:33  %}			
+{% for image in site.static_files limit:33 %}
+				hello!
+    {% if image.path contains 'art/media/' %}			
 
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
