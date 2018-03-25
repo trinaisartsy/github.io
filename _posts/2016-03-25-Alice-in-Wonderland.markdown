@@ -1,97 +1,70 @@
 ---
 layout: post
-title: The Seashell Windchime
-subtitle: Aka The Bone Chime
+title: My Hideous Paint Palette
+subtitle: The Horror!
 active: journal
-image: art/BoneChime1.jpg
-header-img: art/BoneChime1.jpg
-tags:
-  - local
-  - thing
-  - fun
-  - whatever
+image: 'art/IMG_3020[1].JPG'
+header-img: 'art/IMG_3020[1].JPG'
+tags: null
 categories:
   - local
   - crafts
 published: true
 ---
-### _AKA "The Bone Chime"_
-_Originally Published 8 / 13_
-  
-I am excited to finally reveal a brand new wind chime! I created this one out of sea shells and drift wood that I found at a recent trip to Charleston's own Folly Beach this summer. I call it my "Bone Chime" because the sound of the shells kind of sounds like bones clanging up against each other... not like I would know what that sounds like or anything.  
+[![](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.JPG)](http://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s1600/IMG_3013.JPG)
+
+On a random note, I fondly nicknamed  
+my set of fav. paintbrushes my "A-Team"
+
+Today I figured I'd make a little post about my "traveling" painting kit. It's basically all my favorite paintbrushes and tools packed into one box that I can take with me anywhere. No biggie... most artists have a version of this. However, I have a very special ongoing project involving my paint supplies that I couldn't help but share with you guys... It's a _masterpiece_ in the making!  
   
 
-[![](https://1.bp.blogspot.com/-VXyG_l67P44/UhrgD2Msn7I/AAAAAAAAC0M/UM1RcEWnSQ0/s640/BoneChime1.jpg)](http://1.bp.blogspot.com/-VXyG_l67P44/UhrgD2Msn7I/AAAAAAAAC0M/UM1RcEWnSQ0/s1600/BoneChime1.jpg)
+[![](https://3.bp.blogspot.com/-mreWfND9jzM/T4os1IqXU7I/AAAAAAAAA2g/LS8MsP3dVjE/s640/IMG_3020.JPG)](http://3.bp.blogspot.com/-mreWfND9jzM/T4os1IqXU7I/AAAAAAAAA2g/LS8MsP3dVjE/s1600/IMG_3020.JPG)
 
-**"The Bone Chime"**  
-  
+BEHOLD! My super gnarly paint palette, proudly never washed.
 
-[![](https://4.bp.blogspot.com/-YeUWEd5LwUY/UhrgC70vJGI/AAAAAAAAC0A/X5ihdHy5JVk/s320/DSCF3657.JPG)](http://4.bp.blogspot.com/-YeUWEd5LwUY/UhrgC70vJGI/AAAAAAAAC0A/X5ihdHy5JVk/s1600/DSCF3657.JPG)
+I always get a lot of comments on this thing. Most people find it gross.. I can't imagine why!  
+  
+It all started a few years ago while surfing the net. I discovered illustrator [Will Terry's blog post](http://willterry.blogspot.com/2009/04/paint-pallet.html) about a paint palette he's been using for _the last 20 years_. This thing is truly inspiring, see for yourself:  
 
-  
+[![](https://2.bp.blogspot.com/_uUefUsx5ZJ4/SfQSWffyJ-I/AAAAAAAAAQc/VY-Z6NwdPt4/s320/paintpallet2.jpg)](http://2.bp.blogspot.com/_uUefUsx5ZJ4/SfQSWffyJ-I/AAAAAAAAAQc/VY-Z6NwdPt4/s320/paintpallet2.jpg)
 
-  
-I was fascinated by the variety of sea shells available at Folly Beach this summer. There were so many of them to choose from, in all sorts of different shapes and sizes. At the time, I wasn't quite sure what project I was going to do with them, but I was particularly attracted to the shells with holes in them. It was like these shells were created especially for artists- all ready for neatly stringing through wire for jewelry making. Or perhaps, like in my case, even making a wind chime.  
-  
-I wanted to find out how these "magical" holes turned up in those shells in the first place.  I figured they were formed by being worn down by the ocean or as a natural process for their species. **Boy, how naive I was.**  
-  
-  
-  
+Will named his palette Benjamin. And about the mountain-like shape it's taking, he says, "That arch you see was at the request of my children constantly nagging me to sculpt some form into him - that took about 9 months."
 
-[![](https://4.bp.blogspot.com/-buWSdZQxAfw/UhrgEBcgSkI/AAAAAAAAC0Q/wVDFUA4JHmM/s400/DSCF3658.JPG)](http://4.bp.blogspot.com/-buWSdZQxAfw/UhrgEBcgSkI/AAAAAAAAC0Q/wVDFUA4JHmM/s1600/DSCF3658.JPG)
+After seeing this post, I decided that I would start "growing" my own paint palette. By comparison, I still have _a lot_ more layers still to build up before I'm anywhere near Terry's level. But it's definitely something to work towards. For the record, my palette is probably about three years old now.  
 
-Other shells had their inhabitants plucked out by birds-  
-these shells had jagged chunks missing instead  
-of the perfect and uniform bores of the moon snails.
+[![](https://3.bp.blogspot.com/-KNYXWbOOckA/T4ovCuGMBBI/AAAAAAAAA3Q/CZWveO7TzM4/s640/IMG_3024.JPG)](http://3.bp.blogspot.com/-KNYXWbOOckA/T4ovCuGMBBI/AAAAAAAAA3Q/CZWveO7TzM4/s1600/IMG_3024.JPG)
 
-After doing a little research, I find it kind of ironic that something beautiful can be made out of something so brutal.  
-  
-Here's a brief explanation by [M. Paul Monfils](http://www.seashell-collector.com/beginners/faq-f46/page_926.html)-  
-  
-"Such holes are caused by predatory snails, usually in the family Naticidae (**commonly called "moon snails"**)... They use their radula, a sort of tongue covered _with tiny toothlike projections, to rasp a hole in the \[shell,\] allowing them to insert their proboscis and feed on the soft parts..._"  
-  
-I read on to discover that [this process is also painfully slow](http://butterflykingdom.com/articles/archives/seashells.html)-  
-  
-"A shell two millimeters thick (approximately the distance across the top of the letter w) can take **eight hours** to penetrate..."  
+You can see the layers slowly emerging. Also, in its defense, it looks a lot grimier than it actually is. I use india ink often, so there's this lovely blotchy black glaze all over everything..
+
   
   
   
 
-[![](https://4.bp.blogspot.com/-3VR9eF-qJ90/UhrgFxhKqkI/AAAAAAAAC0o/2ES8BxZ_l0g/s400/BoneChime2.png)](http://4.bp.blogspot.com/-3VR9eF-qJ90/UhrgFxhKqkI/AAAAAAAAC0o/2ES8BxZ_l0g/s1600/BoneChime2.png)
-
-  
-
-  
-
-According to these facts, not only were the shells eaten alive, but they were practically tortured by the moon snails in the long, drawn out process of being devoured.
-
-  
-
-Knowing this morbid fact about the shells made me feel somewhat remorseful for using them in such a whimsical way. But at the same time, I felt it had given these poor creatures some sort of extra purpose besides being a small snack for a snail. 
-
-  
-
-In a way, this truly is a bone wind chime because it is made from the "bones" of the unfortunate mollusks that didn't get to continue living their little clammy lives.
+[![](https://2.bp.blogspot.com/-o4Pe3Jqytus/T4tXD15oe9I/AAAAAAAAA3Y/DWOV_QBzFgo/s400/IMG_3028.JPG)](http://2.bp.blogspot.com/-o4Pe3Jqytus/T4tXD15oe9I/AAAAAAAAA3Y/DWOV_QBzFgo/s1600/IMG_3028.JPG)
 
   
   
-
-
-[![](https://3.bp.blogspot.com/-RuI9JsdcLyA/Uhrsg8Al2xI/AAAAAAAAC04/jFOuvixbaIs/s400/DSCF3664.JPG)](http://3.bp.blogspot.com/-RuI9JsdcLyA/Uhrsg8Al2xI/AAAAAAAAC04/jFOuvixbaIs/s1600/DSCF3664.JPG)
-
-Unconventional drift wood was used for the base of this wind chime.
-
-On a more positive note, I also found this beautiful piece of "drift wood" at Folly as well. I guess _technically_ it's drift wood- the beach didn't have much to offer when it came to traditional pieces of wood. This is actually a shard of palmetto leaf, which are plentiful around the Lowcountry.  When I found it, I thought it was a piece of a wooden dock that had some how washed up on the beach. The surface of the branch's pale white color looks like it has been hand painted. I find it kind of beautiful how nature finds ways to mimic the artistic process, even if it's sort of harsh about it some times.  
+  
+  
+  
+Here's the palette from the bottom. As you can see, I've completely filled up the original "wells" to the top, but evidence of their existence still remains underneath.  
+  
+  
+  
+  
   
   
 
-[![](https://2.bp.blogspot.com/-1S4idtlD3jA/UhrgFdOl6tI/AAAAAAAAC0Y/y1DbBm0IapI/s640/DSCF3665.JPG)](http://2.bp.blogspot.com/-1S4idtlD3jA/UhrgFdOl6tI/AAAAAAAAC0Y/y1DbBm0IapI/s1600/DSCF3665.JPG)
+[![](https://1.bp.blogspot.com/-CXsD9eDekGw/T4os6Tmn8oI/AAAAAAAAA3A/wwM5tRAN2FE/s640/IMG_3027.JPG)](http://1.bp.blogspot.com/-CXsD9eDekGw/T4os6Tmn8oI/AAAAAAAAA3A/wwM5tRAN2FE/s1600/IMG_3027.JPG)
 
-The shell bone wind chime posing outdoors with an unfortunate duo... a pair of snails.
+GEROSS!! And by gross I mean.. **AWESOME**.
 
-
-
-
- I used a lot of difference media to create the shine itself. Pretty much anything I could get my hands on that reminded me of youth, wonderment, and an overblown sense of entitlement. Mainly just old jewelry and various string, though. I loved adding the layers of stuff - I wanted it encrusted with shiny whimsical trinkets. Also, the doors on the shrine are totally functional. I wanted to be able to display this piece as "reserved" or "out in the open."
-
-
+I am often questioned about how I am able to use this thing without "mixing up my colors." I actually don't have this problem with my palette at all. Since I use mostly acrylic based paints, they don't run after drying. I just keep building layers upon layers on top of the older paint, like some sort of crazed mad scientist of paints.   
+  
+  
+Not all artists can have a paint palette as monstrous as this one, it certainly isn't for the "_Faint of heART_" (get it?)  
+  
+[![](https://1.bp.blogspot.com/-MHKMtU_BfLk/T4tilV3lreI/AAAAAAAAA3g/Bl3wRTHK6jU/s320/IMG_3021.JPG)](http://1.bp.blogspot.com/-MHKMtU_BfLk/T4tilV3lreI/AAAAAAAAA3g/Bl3wRTHK6jU/s1600/IMG_3021.JPG) It requires you to never clean your paint palette, and serves as a valuable lesson in wastefulness. It's incredible to see how much left over paint will accumulate in time- seemingly wasted and unused. But a benefit of creating a crazy palette like this is that you have a chance to sort of build something completely new and unusual out of something that would otherwise be washed down the drain. Plus, it's a testament to your journey as an artist.  
+  
+Like Will Terry mentioned in his blog post- "_\[My Palette has\] been to Maryland, California, technically Nevada and idaho, but mostly he's lived here in Utah. Like I said before of the thousands of paintings I've done he's got parts of all of them in him._"
