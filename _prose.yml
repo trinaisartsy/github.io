@@ -16,6 +16,7 @@ prose:
           element: "text"
           label: "Price (empty to disable)"
       - name: "layout"
+        field:
           element: "hidden"
           value: "image"
   ignore:
