@@ -2,7 +2,7 @@
 title: Trina is Artsy
 email: "trinaisartsy@gmail.com"
 description: ""
-url: "http://trina.local"
+url: "http://trina.coffee"
 baseurl: ""
 facebook_username: "trinaisartsy"
 twitter_username: "trinaisartsy"
@@ -11,9 +11,12 @@ github_username:  "trinaisartsy"
 deviantart_username: "trinaisartsy"
 flickr_username: "trinaisartsy"
 discus_shortname: "trinaisartsy"
+paypal: "ER3YV7DCSRWZU"
 share: true
 collections:
-- art
+  art:
+    output: true
+
 
 # Owner/author information
 owner:

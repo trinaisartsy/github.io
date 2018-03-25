@@ -3,13 +3,6 @@ layout: home
 main-title: "Trina is Artsy"
 subtitle: "and she can prove it!"
 description: "Photography and more"
-images:
- - image_path: /img/slider/home01.jpg
-   gallery-folder: /img/slider/
- - image_path: /img/slider/home02.jpg
-   gallery-folder: /img/slider/
- - image_path: /img/slider/home03.jpg
-   gallery-folder: /img/slider/
 ---
 
 
@@ -54,18 +47,22 @@ images:
 
 				<canvas id="kenburns"></canvas>
 				
-{% for image in page.images %}  	
+        {% for image in site.static_files %}
+        
+                {% if image.path contains 'art/' %}	
+        
 
-				<figure class="gallery-item">
-					<header class='gallery-icon'>
-
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-	
-				</header>	
-				</figure>
-
-{% endfor %}
+                    <figure class="gallery-item">
+                      <header class='gallery-icon'>
+            
+                      <a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}">
+                      <img onclick="alert('boom')" src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
+                        
+                      </header>	
+                    </figure>
+         
+                {% endif %}
+        {% endfor %}
 
 				</div>
 			<!-- END WYSIWYG -->

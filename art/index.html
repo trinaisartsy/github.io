@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Trina"
-description: "masonry"
+description: "some of my favorite pieces"
 active: gallery
 header-img: "art/forshortening.png"
 ---
@@ -27,7 +27,7 @@ header-img: "art/forshortening.png"
 						{% if image.path contains post.image %}	
 							<figure class="gallery-item">
 								<header class='gallery-icon'>
-									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ post.title }}" data-caption="{{ post.content }}">
+									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ post.title }}" data-caption=" <a href='{{ post.url }}'><b>Learn More</b></a>">
 									<img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
 								</header>	
 								<figcaption class='gallery-caption'>
