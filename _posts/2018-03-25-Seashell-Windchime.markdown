@@ -1,5 +1,18 @@
 ---
 published: true
+layout: post
+subtitle: Aka The Bone Chime
+active: journal
+image: art/BoneChime1.jpg
+header-img: art/BoneChime1.jpg
+tags:
+  - local
+  - thing
+  - fun
+  - whatever
+categories:
+  - local
+  - crafts
 ---
 ### _AKA "The Bone Chime"_
 _Originally Published 8 / 13_
