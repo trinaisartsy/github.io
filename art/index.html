@@ -20,11 +20,11 @@ header-img: "art/forshortening.png"
 			<div class="gallery masonry-gallery">
 				
 			{% for image in site.static_files %}
-
 				{% if image.path contains 'art/' %}	
+					{% assign rendered = false %}
 					{% for post in site.art %}
-						{% assign rendered = false %}
 						{% if image.path contains post.image %}	
+							{% assign rendered = image.path %}
 							<figure class="gallery-item">
 								<header class='gallery-icon'>
 									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ post.title }}" data-caption=" <a href='{{ post.url }}'><b>Learn More</b></a>">
@@ -36,22 +36,23 @@ header-img: "art/forshortening.png"
 									</div>
 								</figcaption>
 							</figure>
-							{% assign rendered = true %}
 						{% endif %}
 					{% endfor %}
-						{% if rendered == false %}	
-							<figure class="gallery-item">
-								<header class='gallery-icon'>
-									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="" data-caption="">
-									<img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
-								</header>	
-								<figcaption class='gallery-caption'>
-									<div class="entry-summary" id="{{ image.path }}">
-										<h3>Zoom</h3>							
-									</div>
-								</figcaption>
-							</figure>
-						{% endif %}
+
+					{% if rendered != image.path %}	
+						<figure class="gallery-item">
+							<header class='gallery-icon'>
+								<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="" data-caption="">
+								<img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
+							</header>	
+							<figcaption class='gallery-caption'>
+								<div class="entry-summary" id="{{ image.path }}">
+									<h3>Zoom</h3>							
+								</div>
+							</figcaption>
+						</figure>
+					{% endif %}
+			
 				{% endif %}
 			{% endfor %}
 

@@ -48,10 +48,7 @@ description: "Photography and more"
 				<canvas id="kenburns"></canvas>
 				
         {% for image in site.static_files %}
-        
-                {% if image.path contains 'art/' %}	
-        
-
+          {% if image.path contains 'art/' %}	
                     <figure class="gallery-item">
                       <header class='gallery-icon'>
             
@@ -60,8 +57,7 @@ description: "Photography and more"
                         
                       </header>	
                     </figure>
-         
-                {% endif %}
+          {% endif %}
         {% endfor %}
 
 				</div>
