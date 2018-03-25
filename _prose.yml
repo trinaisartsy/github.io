@@ -14,10 +14,10 @@ prose:
       - name: "price"
         field: 
           element: "text"
-          label: Price (empty to disable)
+          label: "Price (empty to disable)"
       - name: "layout"
           element: "hidden"
-          value: image
+          value: "image"
   ignore:
     - index.md
     - _config.yml
