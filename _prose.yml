@@ -8,3 +8,25 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /art
+    - /about
+    - /css
+    - /fonts
+    - /img
+    - /js
+    - /media
+    - /newsletter
+    - /weblog
+    - /.gitignore
+    - /CNAME
+    - /Gruntfile.js
+    - /LICENSE
+    - /_prose.yml
+    - /bower.json
+    - /favicon.ico
+    - /feed.xml
+    - /logo.png
+    - /package.json
+    - /search.html
+    - /search.json
+ 
