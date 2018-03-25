@@ -5,12 +5,12 @@ description: ""
 url: "http://trina.coffee"
 baseurl: ""
 facebook_username: "trinaisartsy"
-twitter_username: "trinaisartsy"
+twitter_username: "trina_is_artsy"
 instagram_username: "trinaisartsy"
-github_username:  "trinaisartsy"
-deviantart_username: "trinaisartsy"
-flickr_username: "trinaisartsy"
-discus_shortname: "trinaisartsy"
+# github_username:  "trinaisartsy"
+# deviantart_username: "trinaisartsy"
+flickr_username: "trinaisartsyfartsy"
+discus_shortname: "trinalyn"
 paypal: "ER3YV7DCSRWZU"
 share: true
 collections:
@@ -34,12 +34,14 @@ owner:
 comments :
   provider : disqus
   disqus :
-    short_name : ""
+    short_name : "trinalyn"
 
 # Internal nav
 nav:
   - GALLERY: "/art/"  
-  - JOURNAL: "/journal/"
+  - BLOG: "/blog/"
+  - TUTORIALS: "/tutorials/"
+  - LOCAL: "/local/"
   - ABOUT: "/about/"
 
 # All translation keys
@@ -57,10 +59,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
+paginate_path: "/blog/page:num/"
+permalink: "/blog/:title/"
+categories_path: "/blog/category/"
+tags_path: "/blog/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
