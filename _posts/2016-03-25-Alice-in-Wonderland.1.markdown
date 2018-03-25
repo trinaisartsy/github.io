@@ -1,13 +1,16 @@
 ---
-layout:     post
-title:      "Green Horn Shrine"
-subtitle:   "Do i need a subtitle?"
+layout: post
+title: Green Horn Shrine
+subtitle: Do i need a subtitle?
 active: journal
-image: "art/Skull%20Man.jpg"
-date:       2016-08-31
-header-img: "art/Skull%20Man.jpg"
+image: art/Skull%20Man.jpg
+date: {}
+header-img: art/Skull%20Man.jpg
 tags: local thing fun whatever
-categories: [tutorials, local]
+categories:
+  - tutorials
+  - local
+published: true
 ---
 I don't do many sculptural pieces but sometimes I get inspired by weird objects that I find, similar to when I made that Junk Wind Chime with an old crushed beer can. I don't know why I get these urges to make things with discarded junk, I suppose it's the pack rat in me that hates to see "interesting" things get thrown away. Anyways, this project started out as a hollowed out styrofoam block. "Perfect shape for a shrine!" I thought. I also knew the perfect thing to honor - my fleeting youth. I had just moved out of my parents house again and I was feeling both horribly naive and painfully aged at the same time. What a strange feeling it is, to have to be an adult but still feel like a baby! And so I dedicated my shrine to that.
 
