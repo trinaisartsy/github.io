@@ -1,3 +1,10 @@
 
+---
+title: "The Cheshire Cat"
+image: art/cheshirecat.jpg
+Price: 400
+homepage: true
+layout: image
 
-This is a test
+---
+THis is a test
