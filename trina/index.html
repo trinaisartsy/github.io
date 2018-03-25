@@ -34,9 +34,7 @@ images:
 			<div class="gallery masonry-gallery">
 hello
 	{% for item in site.art limit:33 %}
-	{!-- % if item.url contains 'articles' and item.url != '/pizza/' and item.url != '/pizza/articles/' % --}
-	<li><a href="{{ item.url }}">{{ item.headline }}</a></li>
-	{!-- % endif % --}
+		<li><a href="{{ item.url }}">{{ item.headline }}</a></li>
 	{% endfor %}
 				
 bye				
