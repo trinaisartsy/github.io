@@ -2,8 +2,8 @@
 title: Trina is Artsy
 email: "trinaisartsy@gmail.com"
 description: ""
-url: "http://trina.coffee"
-baseurl: "/"
+url: "http://trina.local"
+baseurl: ""
 facebook_username: "trinaisartsy"
 twitter_username: "trinaisartsy"
 instagram_username: "trinaisartsy"
@@ -35,7 +35,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "/gallery/"  
+  - GALLERY: "/art/"  
   - JOURNAL: "/journal/"
   - ABOUT: "/about/"
 
@@ -46,7 +46,7 @@ translations:
 
 # Server
 destination:      	 ./_site
-port:             	 4000
+port:             	 80
 
 
 # Build settings

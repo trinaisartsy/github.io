@@ -3,8 +3,7 @@ layout: page
 title: "Trina"
 description: "masonry"
 active: gallery
-header-img: "img/gallery-bg.jpg"
-album-title: "my 1st album"
+header-img: "art/forshortening.png"
 ---
 
 <html class="no-js" lang="en">
@@ -17,37 +16,44 @@ album-title: "my 1st album"
 	<section id="content" role="main">
 		<div class="wrapper">
 	<br><br>
-			<h2>{{page.album-title}}</h2>
-
-
 			<!-- Gallery __-->
 			<div class="gallery masonry-gallery">
-hello
-	
-
-   
 				
-{% for image in site.static_files limit:33 %}
-				{{ image.path }}
-    {% if image.path contains 'art/media/' %}			
+			{% for image in site.static_files %}
 
-				<figure class="gallery-item">
-					<header class='gallery-icon'>
-
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ image.path }}" data-caption="{{ image.path }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
-						
-					</header>	
-					<figcaption class='gallery-caption'>
-						<div class="entry-summary" id="{{ image.path }}">
-							<h3>{{image.caption}}</h3>
-							
-						</div>
-					</figcaption>
-				</figure>
-				
-    {% endif %}
-{% endfor %}
+				{% if image.path contains 'art/' %}	
+					{% for post in site.art %}
+						{% assign rendered = false %}
+						{% if image.path contains post.image %}	
+							<figure class="gallery-item">
+								<header class='gallery-icon'>
+									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ post.title }}" data-caption="{{ post.content }}">
+									<img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
+								</header>	
+								<figcaption class='gallery-caption'>
+									<div class="entry-summary" id="{{ image.path }}">
+										<h3>{{post.title}}</h3>
+									</div>
+								</figcaption>
+							</figure>
+							{% assign rendered = true %}
+						{% endif %}
+					{% endfor %}
+						{% if rendered == false %}	
+							<figure class="gallery-item">
+								<header class='gallery-icon'>
+									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="" data-caption="">
+									<img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
+								</header>	
+								<figcaption class='gallery-caption'>
+									<div class="entry-summary" id="{{ image.path }}">
+										<h3>Zoom</h3>							
+									</div>
+								</figcaption>
+							</figure>
+						{% endif %}
+				{% endif %}
+			{% endfor %}
 
 			</div>
 
