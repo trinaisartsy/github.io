@@ -7,8 +7,7 @@ image: "art/Skull%20Man.jpg"
 date:       2016-03-25
 header-img: "art/Skull%20Man.jpg"
 tags: [local, thing, fun, whatever]
-categories: [tutorials, cat02]
-comments: false
+categories: [tutorials, local]
 ---
 This is a test!
 
