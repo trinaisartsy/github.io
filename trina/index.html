@@ -5,16 +5,6 @@ description: "masonry"
 active: gallery
 header-img: "img/gallery-bg.jpg"
 album-title: "my 1st album"
-images:
- - image_path: /gallery/archive/g01/bg1.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
- - image_path: /gallery/archive/g01/bg2.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
- - image_path: /gallery/archive/g01/bg3.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
 ---
 
 <html class="no-js" lang="en">
@@ -43,14 +33,14 @@ bye
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.image }}" class="popup"  title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+<a href="{{ site.url }}{{ site.baseurl }}{{ image.image }}" class="popup"  title="{{ image.caption }}" data-caption="{{ image.caption }}">
 <img src="{{ site.url }}{{ site.baseurl }}{{ image.image }}"></a>
 						
 					</header>	
 					<figcaption class='gallery-caption'>
 						<div class="entry-summary" id="{{ image.caption }}">
 							<h3>{{image.caption}}</h3>
-							<p>{{image.copyright}}</p>
+							
 						</div>
 					</figcaption>
 				</figure>
