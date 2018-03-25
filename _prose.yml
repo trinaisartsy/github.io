@@ -11,7 +11,13 @@ prose:
         field:
           element: "text"
           label: "relative path to image"
-
+      - name: "price"
+        field: 
+          element: "text"
+          label: Price (empty to disable)
+      - name: "layout"
+          element: "hidden"
+          value: image
   ignore:
     - index.md
     - _config.yml
