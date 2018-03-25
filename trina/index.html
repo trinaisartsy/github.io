@@ -24,27 +24,28 @@ album-title: "my 1st album"
 			<div class="gallery masonry-gallery">
 hello
 	
-		<li><a href="{{ item.url }}">{{ item.headline }}</a></li>
-	
+
+   
 				
-bye				
-{% for image in site.art limit:33 %}  		
+{% for image in site.static_files %}
+    {% if image.path contains 'art/media/' limit:33  %}			
 
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.image }}" class="popup"  title="{{ image.caption }}" data-caption="{{ image.caption }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image }}"></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ image.path }}" data-caption="{{ image.path }}">
+<img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
 						
 					</header>	
 					<figcaption class='gallery-caption'>
-						<div class="entry-summary" id="{{ image.caption }}">
+						<div class="entry-summary" id="{{ image.path }}">
 							<h3>{{image.caption}}</h3>
 							
 						</div>
 					</figcaption>
 				</figure>
 				
+    {% endif %}
 {% endfor %}
 
 			</div>
