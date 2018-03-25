@@ -1,5 +1,5 @@
 prose:
-  rooturl: '/'
+  rooturl: ''
   siteurl: 'https://trina.coffee'
  # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
