@@ -12,6 +12,8 @@ deviantart_username: "trinaisartsy"
 flickr_username: "trinaisartsy"
 discus_shortname: "trinaisartsy"
 share: true
+collections:
+- art
 
 # Owner/author information
 owner:
