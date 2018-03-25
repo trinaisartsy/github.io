@@ -1,6 +1,6 @@
 ---
 layout: image
-published: false
+published: true
 image: art/Blue Girl.jpg
 price: '20'
 title: Blue Girl
