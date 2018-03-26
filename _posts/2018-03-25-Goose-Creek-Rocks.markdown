@@ -4,7 +4,7 @@ title: Goose Creek Rocks - How To Paint Rocks for Beginners
 subtitle: How to get started painting rocks!
 active: journal
 image: art/IMG_0738.JPG
-date: {}
+date: 2018-03-10T00:00:00.000Z
 header-img: art/IMG_0738.JPG
 tags:
   - local
