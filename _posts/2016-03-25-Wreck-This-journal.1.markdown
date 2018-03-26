@@ -16,7 +16,7 @@ categories:
   - local
 published: true
 ---
-_Originally published 4 / 12_
+_Classic Post. Originally published 4 / 12_
 
 I admit it folks, I've hopped on the bandwagon. I am officially a Wreck This Journal junkie.  
   
