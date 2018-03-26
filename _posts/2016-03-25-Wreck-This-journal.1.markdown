@@ -4,7 +4,7 @@ title: Wreck This Journal!
 subtitle: The post that started it all
 active: journal
 image: art/WTJCoverchanges.gif
-date: 2016-03-25T00:00:00.000Z
+date: {}
 header-img: art/Skull%20Man.jpg
 tags:
   - local
@@ -16,6 +16,8 @@ categories:
   - local
 published: true
 ---
+_Originally published 4 / 12_
+
 I admit it folks, I've hopped on the bandwagon. I am officially a Wreck This Journal junkie.  
   
 
