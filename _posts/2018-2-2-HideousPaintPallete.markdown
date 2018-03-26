@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Hideous Paint Palette
+title: 'Classic Repost: My Hideous Paint Palette'
 subtitle: The Horror!
 active: journal
 image: 'art/IMG_3020[1].JPG'
@@ -9,6 +9,7 @@ tags: null
 categories:
   - local
   - crafts
+  - classic
 published: true
 ---
 [![](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.JPG)](http://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s1600/IMG_3013.JPG)
