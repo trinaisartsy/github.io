@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Classic Repost: My Hideous Paint Palette'
+title: 2018-03-25-stupidfuckingshit.markdown
 subtitle: The Horror!
 active: journal
 image: 'art/IMG_3020[1].JPG'
