@@ -5,11 +5,10 @@ subtitle: The Horror!
 active: journal
 image: 'art/IMG_3020[1].JPG'
 header-img: 'art/IMG_3020[1].JPG'
-tags: null
+tags:
+  - artsy fartsy stuff
 categories:
-  - local
-  - crafts
-  - classic
+  - artist
 published: true
 ---
 [![](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.JPG)](http://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s1600/IMG_3013.JPG)
