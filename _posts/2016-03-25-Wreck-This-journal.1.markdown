@@ -3,7 +3,7 @@ layout: post
 title: Wreck This Journal!
 subtitle: The post that started it all
 active: journal
-image: art/Skull%20Man.jpg
+image: art/WTJCoverchanges.gif
 date: 2016-03-25T00:00:00.000Z
 header-img: art/Skull%20Man.jpg
 tags:
@@ -21,7 +21,6 @@ I admit it folks, I've hopped on the bandwagon. I am officially a Wreck This Jou
 
 [![](https://1.bp.blogspot.com/-CWVjmHWQfew/T354eLE4DGI/AAAAAAAAAxs/ZsRZ4SCn6Kk/s320/IMG_2529.JPG)](http://1.bp.blogspot.com/-CWVjmHWQfew/T354eLE4DGI/AAAAAAAAAxs/ZsRZ4SCn6Kk/s1600/IMG_2529.JPG)
 
-Wreck this bible!
 
 If you didn't know yet, there is this book out there by [Keri Smith](http://www.kerismith.com/) that demands that you completely (yet artistically) trash it. Each page contains a series of directions on what to do with the book next in order to "_wreck_" it... all sorts of zany things from coloring outside the lines to making a drawing with pieces of hair. The book is slowly gaining a cult following. If you search the net, there are thousands of pictures and examples of very cool ways to complete the different pages.  
   
