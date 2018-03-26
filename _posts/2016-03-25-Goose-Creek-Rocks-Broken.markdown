@@ -3,9 +3,9 @@ layout: post
 title: Goose Creek Rocks
 subtitle: Lewis Carroll
 active: journal
-image: art/Skull%20Man.jpg
+image: art/IMG_0738.JPG
 date: {}
-header-img: art/Skull%20Man.jpg
+header-img: art/IMG_0738.JPG.jpg
 tags:
   - local
   - thing
