@@ -9,7 +9,9 @@ tags:
   - wreck this journal
   - wtj
   - keri smith
-categories: '-Wreck This Journal'
+categories: 
+  - Wreck This Journal
+  - blog
 ---
 Wreck This Journal![]({{site.baseurl}}/art/WTJCoverchanges.gif)
 I admit it folks, I've hopped on the bandwagon. I am officially a Wreck This Journal junkie.  

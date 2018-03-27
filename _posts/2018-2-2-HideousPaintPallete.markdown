@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 2018-03-25-stupidfuckingshit.markdown
+title: The Hideous Paint Palette
 subtitle: The Horror!
 active: journal
 image: 'art/IMG_3020[1].JPG'
-header-img: 'art/IMG_3020[1].JPG'
+header-img: media/IMG_3024.JPG
 tags:
   - artsy fartsy stuff
 categories:
-  - artist
+  - blog
 published: true
 ---
-[![](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.JPG)](http://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s1600/IMG_3013.JPG)
+[![](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.JPG)](http://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s1600/IMG_3013.JPG){: class="small right" }
 
 On a random note, I fondly nicknamed  
 my set of fav. paintbrushes my "A-Team"
@@ -21,7 +21,7 @@ _Originally Published April 2012_
 Today I figured I'd make a little post about my "traveling" painting kit. It's basically all my favorite paintbrushes and tools packed into one box that I can take with me anywhere. No biggie... most artists have a version of this. However, I have a very special ongoing project involving my paint supplies that I couldn't help but share with you guys... It's a _masterpiece_ in the making!  
   
 
-[![](https://3.bp.blogspot.com/-mreWfND9jzM/T4os1IqXU7I/AAAAAAAAA2g/LS8MsP3dVjE/s640/IMG_3020.JPG)](http://3.bp.blogspot.com/-mreWfND9jzM/T4os1IqXU7I/AAAAAAAAA2g/LS8MsP3dVjE/s1600/IMG_3020.JPG)
+[![](https://3.bp.blogspot.com/-mreWfND9jzM/T4os1IqXU7I/AAAAAAAAA2g/LS8MsP3dVjE/s640/IMG_3020.JPG)](http://3.bp.blogspot.com/-mreWfND9jzM/T4os1IqXU7I/AAAAAAAAA2g/LS8MsP3dVjE/s1600/IMG_3020.JPG){: class="full" }
 
 BEHOLD! My super gnarly paint palette, proudly never washed.
 
@@ -29,13 +29,13 @@ I always get a lot of comments on this thing. Most people find it gross.. I can'
   
 It all started a few years ago while surfing the net. I discovered illustrator [Will Terry's blog post](http://willterry.blogspot.com/2009/04/paint-pallet.html) about a paint palette he's been using for _the last 20 years_. This thing is truly inspiring, see for yourself:  
 
-[![](https://2.bp.blogspot.com/_uUefUsx5ZJ4/SfQSWffyJ-I/AAAAAAAAAQc/VY-Z6NwdPt4/s320/paintpallet2.jpg)](http://2.bp.blogspot.com/_uUefUsx5ZJ4/SfQSWffyJ-I/AAAAAAAAAQc/VY-Z6NwdPt4/s320/paintpallet2.jpg)
+[![](https://2.bp.blogspot.com/_uUefUsx5ZJ4/SfQSWffyJ-I/AAAAAAAAAQc/VY-Z6NwdPt4/s320/paintpallet2.jpg)](http://2.bp.blogspot.com/_uUefUsx5ZJ4/SfQSWffyJ-I/AAAAAAAAAQc/VY-Z6NwdPt4/s320/paintpallet2.jpg){: class="left" }
 
 Will named his palette Benjamin. And about the mountain-like shape it's taking, he says, "That arch you see was at the request of my children constantly nagging me to sculpt some form into him - that took about 9 months."
 
 After seeing this post, I decided that I would start "growing" my own paint palette. By comparison, I still have _a lot_ more layers still to build up before I'm anywhere near Terry's level. But it's definitely something to work towards. For the record, my palette is probably about three years old now.  
 
-[![](https://3.bp.blogspot.com/-KNYXWbOOckA/T4ovCuGMBBI/AAAAAAAAA3Q/CZWveO7TzM4/s640/IMG_3024.JPG)](http://3.bp.blogspot.com/-KNYXWbOOckA/T4ovCuGMBBI/AAAAAAAAA3Q/CZWveO7TzM4/s1600/IMG_3024.JPG)
+[![](https://3.bp.blogspot.com/-KNYXWbOOckA/T4ovCuGMBBI/AAAAAAAAA3Q/CZWveO7TzM4/s640/IMG_3024.JPG)](http://3.bp.blogspot.com/-KNYXWbOOckA/T4ovCuGMBBI/AAAAAAAAA3Q/CZWveO7TzM4/s1600/IMG_3024.JPG){: class="full" }
 
 You can see the layers slowly emerging. Also, in its defense, it looks a lot grimier than it actually is. I use india ink often, so there's this lovely blotchy black glaze all over everything..
 
@@ -43,7 +43,7 @@ You can see the layers slowly emerging. Also, in its defense, it looks a lot gri
   
   
 
-[![](https://2.bp.blogspot.com/-o4Pe3Jqytus/T4tXD15oe9I/AAAAAAAAA3Y/DWOV_QBzFgo/s400/IMG_3028.JPG)](http://2.bp.blogspot.com/-o4Pe3Jqytus/T4tXD15oe9I/AAAAAAAAA3Y/DWOV_QBzFgo/s1600/IMG_3028.JPG)
+[![](https://2.bp.blogspot.com/-o4Pe3Jqytus/T4tXD15oe9I/AAAAAAAAA3Y/DWOV_QBzFgo/s400/IMG_3028.JPG)](http://2.bp.blogspot.com/-o4Pe3Jqytus/T4tXD15oe9I/AAAAAAAAA3Y/DWOV_QBzFgo/s1600/IMG_3028.JPG){: class="full" }
 
   
   
@@ -58,7 +58,7 @@ Here's the palette from the bottom. As you can see, I've completely filled up th
   
   
 
-[![](https://1.bp.blogspot.com/-CXsD9eDekGw/T4os6Tmn8oI/AAAAAAAAA3A/wwM5tRAN2FE/s640/IMG_3027.JPG)](http://1.bp.blogspot.com/-CXsD9eDekGw/T4os6Tmn8oI/AAAAAAAAA3A/wwM5tRAN2FE/s1600/IMG_3027.JPG)
+[![](https://1.bp.blogspot.com/-CXsD9eDekGw/T4os6Tmn8oI/AAAAAAAAA3A/wwM5tRAN2FE/s640/IMG_3027.JPG)](http://1.bp.blogspot.com/-CXsD9eDekGw/T4os6Tmn8oI/AAAAAAAAA3A/wwM5tRAN2FE/s1600/IMG_3027.JPG){: class="small right" }
 
 GEROSS!! And by gross I mean.. **AWESOME**.
 
@@ -67,6 +67,6 @@ I am often questioned about how I am able to use this thing without "mixing up m
   
 Not all artists can have a paint palette as monstrous as this one, it certainly isn't for the "_Faint of heART_" (get it?)  
   
-[![](https://1.bp.blogspot.com/-MHKMtU_BfLk/T4tilV3lreI/AAAAAAAAA3g/Bl3wRTHK6jU/s320/IMG_3021.JPG)](http://1.bp.blogspot.com/-MHKMtU_BfLk/T4tilV3lreI/AAAAAAAAA3g/Bl3wRTHK6jU/s1600/IMG_3021.JPG) It requires you to never clean your paint palette, and serves as a valuable lesson in wastefulness. It's incredible to see how much left over paint will accumulate in time- seemingly wasted and unused. But a benefit of creating a crazy palette like this is that you have a chance to sort of build something completely new and unusual out of something that would otherwise be washed down the drain. Plus, it's a testament to your journey as an artist.  
+[![](https://1.bp.blogspot.com/-MHKMtU_BfLk/T4tilV3lreI/AAAAAAAAA3g/Bl3wRTHK6jU/s320/IMG_3021.JPG)](http://1.bp.blogspot.com/-MHKMtU_BfLk/T4tilV3lreI/AAAAAAAAA3g/Bl3wRTHK6jU/s1600/IMG_3021.JPG){: class="full" } It requires you to never clean your paint palette, and serves as a valuable lesson in wastefulness. It's incredible to see how much left over paint will accumulate in time- seemingly wasted and unused. But a benefit of creating a crazy palette like this is that you have a chance to sort of build something completely new and unusual out of something that would otherwise be washed down the drain. Plus, it's a testament to your journey as an artist.  
   
 Like Will Terry mentioned in his blog post- "_\[My Palette has\] been to Maryland, California, technically Nevada and idaho, but mostly he's lived here in Utah. Like I said before of the thousands of paintings I've done he's got parts of all of them in him._"

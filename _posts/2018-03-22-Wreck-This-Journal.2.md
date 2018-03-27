@@ -8,6 +8,7 @@ header-img: art/WTJCoverchanges.gif
 tags: '-wtj -wreck this journal -keri smith'
 categories:
   - Wreck This Journal
+  - blog
 ---
 ![TrinaLYnGooseCreekRocks.jpg]({{site.baseurl}}/media/TrinaLYnGooseCreekRocks.jpg)
 

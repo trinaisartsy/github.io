@@ -1,5 +1,5 @@
 ---
 layout: "blog_list"
-category: "local"
+category: "blog"
 header-img: "art/misc-bg.jpg"
 ---

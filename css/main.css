@@ -406,3 +406,26 @@ body {
  color: black;
 }
 
+article img {
+  padding: 10px; 
+}
+
+article .small {
+  max-width: 400px;
+}
+
+article .left {
+  float: left;
+}
+
+article .right {
+  float: right;
+}
+
+article .clear {
+  clear: all;
+} 
+
+article .full img {
+  width: 100%;
+} 
