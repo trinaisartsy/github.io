@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 20px;
   color: #eee;
-  background-color: #000;
+  background-color: rgba(15, 15, 15);
 }
 p {
   line-height: 1.5;
@@ -411,12 +411,30 @@ article img {
 }
 
 article .small {
-  max-width: 400px;
+  max-width: 30%;
 }
+
+article .medium img {
+  width: 50%;
+}
+
+article .large img {
+  width: 70%;
+}
+
+
+article .full img {
+  width: 100%;
+} 
 
 article .left {
   float: left;
 }
+
+article .center img {
+  margin: 0 auto;
+}
+
 
 article .right {
   float: right;
@@ -426,6 +444,3 @@ article .clear {
   clear: all;
 } 
 
-article .full img {
-  width: 100%;
-} 
