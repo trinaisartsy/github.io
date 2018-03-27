@@ -9,7 +9,7 @@ tags: '-tutorial -play doh -salt dough'
 categories:
   - blog
 ---
-![]({{site.baseurl}}/art/IMG_0594.JPG){: class="small right" }
+![]({{site.baseurl}}/art/IMG_0594.JPG){: class="medium center" }
 So I have a confession to make, I'm obsessed with something weird again, and this time it's Play Doh.
 
   
