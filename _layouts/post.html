@@ -210,6 +210,18 @@ image: {
       });
 });
     </script>
+<!-- adds the lightbox and some formatting clean-up -->
+<script type="text/javascript">
+    $( "article img" ).each(function() {
+        $( this ).parent('a')
+            .addClass( "popup" )
+            .attr('data-caption', '')
+            .attr('title', $(this).attr('alt'))
+    });
+
+    
+
+</script>
 
 <script src="{{ site.baseurl }}/js/retina.min.js"></script>
 <!-- include Masonry -->

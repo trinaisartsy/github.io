@@ -11,7 +11,7 @@ categories:
   - blog
 published: true
 ---
-[![](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.JPG)](http://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s1600/IMG_3013.JPG){: class="small right" }
+[![This is a test of the captions](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.JPG)](http://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s1600/IMG_3013.JPG){: class="small right" }
 
 On a random note, I fondly nicknamed  
 my set of fav. paintbrushes my "A-Team"
