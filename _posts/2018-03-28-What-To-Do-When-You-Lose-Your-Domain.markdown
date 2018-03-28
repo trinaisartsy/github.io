@@ -29,9 +29,10 @@ You might have some options if your domain name just expired or if you have a tr
 
 ## Not all may be lost. #
 
-If you still have access to all your content, "remaster" articles and artworks and re release the content as something new. It's new if someone hasn't read it yet, and there's still millions of eyes out there that haven't been exposed to your work yet. 
-
 If you suffered an unexpected mass deletion of content, Way Back Machine might be a way to access it. One of my favorite blogs Art for Housewives ran into trouble when one day their blog was removed from the host servers without notice. Years of content had presumably been lost. I suggested to her that she check the Way Back Machine archives and sure enough, she was able to recover all previously written text, and most images. I can only hope the same can be said for your content as well, it's definitely worth a try.
+
+
+If you still have access to all your content, "remaster" articles and artworks and re release the content as something new. It's new if someone hasn't read it yet, and there's still millions of eyes out there that haven't been exposed to your work yet. 
 
 
 ## Start over and be consistent this time. #
@@ -42,8 +43,6 @@ My biggest regret is not keeping up with my blog more consistently. If I were on
 ## Don't put all your eggs in one basket. #
 
 This is especially relevant for building communities around your work. Have Twitter, Facebook, Youtube, Instagram, ect. accounts set up and running so you can always communicate with your fans, even during the dark times like a domain name transfer. And try to keep your brand as consistent as possible- having the same names and logos for all your social media helps 
- 
-Also, redirect links are your friend. If you can get your old website links to redirect to your new website, all might not be lost. It really depends on what platform you're using if this will work or not.
  
 
 ## Make sure the domain info is in YOUR name this time. #
