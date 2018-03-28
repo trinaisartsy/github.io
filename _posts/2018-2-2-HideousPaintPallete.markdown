@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Hideous Paint Palette
+title: Classic Post No. 1 - The Hideous Paint Palette
 subtitle: The Horror!
 active: journal
 image: 'art/IMG_3020[1].JPG'
@@ -9,12 +9,9 @@ tags:
   - artsy fartsy stuff
 categories:
   - blog
-published: true
+published: false
 ---
-[![This is a test of the captions](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.JPG)](http://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s1600/IMG_3013.JPG){: class="small right" }
-
-On a random note, I fondly nicknamed  
-my set of fav. paintbrushes my "A-Team"
+[![My hideous paint palette](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.JPG)](http://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s1600/IMG_3013.JPG){: class="small right" }
 
 _Originally Published April 2012_
 
