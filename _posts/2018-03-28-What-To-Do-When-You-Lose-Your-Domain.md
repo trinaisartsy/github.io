@@ -1,9 +1,18 @@
 ---
-published: false
+published: true
+layout: post
+subtitle: aka A Letter To My Future Self
+active: journal
+image: art/IMG_20170417_124005414.jpg
+header-img: art/IMG_20170417_124005414.jpg
+tags:
+  - artsy fartsy stuff
+categories:
+  - blog
+  - tutorials
 ---
 
-[angry manic face image center large]
-
+![]({{site.baseurl}}/art/IMG_20170417_124005414.jpg)
  
 So, you're a content creator and let your website's domain name expire. Or, your blog has been unexpectedly deleted, or you've lost access to it. Maybe you were using it for years. Maybe it had tons of back links and SEO. But now it's gone. You dun goofed, and consequences will never be the same.
 
@@ -59,5 +68,4 @@ At the end of the day, it's all just stuff and things. They don't matter as 
 
 Anyways... long story short....
 
-#Welcome to my new blog! 
-
+#Welcome to my new blog!
