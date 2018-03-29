@@ -17,10 +17,11 @@ So, you're a content creator and let your website's domain name expire. Or, your
 
 Hey, that was me. I had sunk 3-4 years into my blog under a .com domain, spending hours tweeting and pinning and posting to promote it. But then the domain expired and I didn't know how to renew it. Someone bought my domain from under me and now it's a blank page, presumably where ads would load if it wasn't so glitchy. While my posts were preserved through blogspot and the website still technically exists, in my eyes I had lost everything. All my business cards had my old website on it, my resume, tons of internet posts. And now it will absolutely have to be changed. I've spent the last year ruminating and stewing about it instead of writing, almost out of spite for myself. But I've finally come to some conclusions and I'd like to share them with you, too. 
  
-
+ 
 
 # What can do you do now that you've screwed up? #
  
+ 
 
 ## First of all, check out your options. #
 
