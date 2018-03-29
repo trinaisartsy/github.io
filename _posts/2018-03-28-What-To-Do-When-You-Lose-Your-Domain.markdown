@@ -30,7 +30,7 @@ You might have some options if your domain name just expired or if you have a tr
 
 ## Not all may be lost. #
 
-If you suffered an unexpected mass deletion of content, Way Back Machine might be a way to access it. One of my favorite blogs Art for Housewives ran into trouble when one day their blog was removed from the host servers without notice. Years of content had presumably been lost. I suggested to her that she check the Way Back Machine archives and sure enough, she was able to recover all previously written text, and most images. I can only hope the same can be said for your content as well, it's definitely worth a try.
+If you suffered an unexpected mass deletion of content, Way Back Machine might be a way to access it. One of my favorite blogs [Art for Housewives](artforhousewives.wordpress.com "Art for Housewives Blog (Do Recommend!)") ran into trouble when one day their blog was removed from the host servers without notice. Years of content had presumably been lost. I suggested to her that she check the Way Back Machine archives and sure enough, she was able to recover all previously written text, and most images. I can only hope the same can be said for your content as well, it's definitely worth a try.
 
 
 If you still have access to all your content, "remaster" articles and artworks and re release the content as something new. It's new if someone hasn't read it yet, and there's still millions of eyes out there that haven't been exposed to your work yet. 
