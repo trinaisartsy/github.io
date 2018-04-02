@@ -1,5 +1,15 @@
 ---
-published: false
+published: true
+layout: post
+subtitle: Taking your first drink and draw class.
+active: journal
+image: art/the_usual_suspects__by_space_monkey.jpg
+header-img: art/the_usual_suspects__by_space_monkey.jpg
+tags:
+  - tutorials
+categories:
+  - blog
+  - tutorial
 ---
   
 
