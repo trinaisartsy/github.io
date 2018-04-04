@@ -9,7 +9,7 @@ header-img: "art/7979755845_508af4de3b_o.jpg"
     {% if site.categories[page.category] %}
         {% for post in site.categories[page.category] %}
         <br clear="all">
-        <a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
+        <a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
         <span class="meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</span>
         
         <p>{{ post.excerpt }}</p>
