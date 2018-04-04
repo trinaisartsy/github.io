@@ -4,7 +4,7 @@ category: "services"
 header-img: "art/IMG_0738.webp"
 ---
 
-Services
+Visual Arts Tutoring Services
 ------------------------------------------------
 
   
