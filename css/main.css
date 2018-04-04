@@ -444,3 +444,6 @@ article .clear {
   clear: all;
 } 
 
+.wrapper h2, .wrapper .entry-summary  {
+  text-shadow: 2px 2px 2px black;
+}
