@@ -4,7 +4,7 @@ category: "services"
 header-img: "art/IMG_0738.webp"
 ---
 
-Class Availability: Currently Booking Now (2018)
+Services
 ------------------------------------------------
 
   
