@@ -13,6 +13,8 @@ flickr_username: "trinaisartsyfartsy"
 discus_shortname: "trinalyn"
 paypal: "ER3YV7DCSRWZU"
 share: true
+excerpt_separator: "<!--more-->"
+
 collections:
   art:
     output: true
