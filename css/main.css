@@ -176,10 +176,16 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
-  .intro-header .page-heading h1 {
+  .intro-header .page-heading h1, {
     font-size: 80px;
-    text-shadow: 1px 1px 4px #000;
   }
+  
+  .intro-header .site-heading h1,
+  .intro-header .page-heading h1,
+  .wrapper h2, 
+  .wrapper .entry-summary  {
+    text-shadow: 2px 2px 2px black;  
+  } 
 }
 .intro-header .post-heading h1 {
   font-size: 35px;
@@ -443,7 +449,3 @@ article .right {
 article .clear {
   clear: all;
 } 
-
-.wrapper h2, .wrapper .entry-summary  {
-  text-shadow: 2px 2px 2px black;
-}
