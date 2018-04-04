@@ -3,8 +3,8 @@ published: false
 layout: post
 subtitle: Part Two!
 active: journal
-image: art/WTJCoverchanges.gif
-header-img: art/WTJCoverchanges.gif
+image: art/WTJCoverchanges.webp
+header-img: art/WTJCoverchanges.webp
 tags: '-wtj -wreck this journal -keri smith'
 categories:
   - Wreck This Journal

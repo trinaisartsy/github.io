@@ -3,8 +3,8 @@ published: false
 layout: post
 subtitle: The post that started it all!
 active: journal
-image: art/WTJCoverchanges.gif
-header-img: art/WTJCoverchanges.gif
+image: art/WTJCoverchanges.webp
+header-img: art/WTJCoverchanges.webp
 tags:
   - wreck this journal
   - wtj
@@ -13,7 +13,7 @@ categories:
   - Wreck This Journal
   - blog
 ---
-Wreck This Journal![]({{site.baseurl}}/art/WTJCoverchanges.gif)
+Wreck This Journal![]({{site.baseurl}}/art/WTJCoverchanges.webp)
 I admit it folks, I've hopped on the bandwagon. I am officially a Wreck This Journal junkie.  
 If you didn't know yet, there is this book out there by [Keri Smith](http://www.kerismith.com/) that demands that you completely (yet artistically) trash it. Each page contains a series of directions on what to do with the book next in order to "_wreck_" it... all sorts of zany things from coloring outside the lines to making a drawing with pieces of hair. The book is slowly gaining a cult following. If you search the net, there are thousands of pictures and examples of very cool ways to complete the different pages.   
 
@@ -147,11 +147,11 @@ A tiny Jack Skellington sticker.
 Some of my friends have also caught the "Wreck Bug." I love seeing how others interpret the directions in this book. It gives anyone a chance to be creative without the fear of making mistakes. My pal Tiffany recently got a WTJ and has especially been inspired:  
   
 
-[![](https://2.bp.blogspot.com/-PTS2fB4i5iw/T3-x3bDTvMI/AAAAAAAAAz8/knoe02zpCbs/s640/tiff1.png)](http://2.bp.blogspot.com/-PTS2fB4i5iw/T3-x3bDTvMI/AAAAAAAAAz8/knoe02zpCbs/s1600/tiff1.png)
+[![](https://2.bp.blogspot.com/-PTS2fB4i5iw/T3-x3bDTvMI/AAAAAAAAAz8/knoe02zpCbs/s640/tiff1.webp)](http://2.bp.blogspot.com/-PTS2fB4i5iw/T3-x3bDTvMI/AAAAAAAAAz8/knoe02zpCbs/s1600/tiff1.webp)
 
 Check out all the supplies she got to work with! WTJ should always be worked on with this kind of childhood exuberance.
 
-[![](https://1.bp.blogspot.com/-ql5QhdlCPss/T3-yplkgUEI/AAAAAAAAA0E/H33D2oqaDsQ/s640/tiff1.png)](http://1.bp.blogspot.com/-ql5QhdlCPss/T3-yplkgUEI/AAAAAAAAA0E/H33D2oqaDsQ/s1600/tiff1.png)
+[![](https://1.bp.blogspot.com/-ql5QhdlCPss/T3-yplkgUEI/AAAAAAAAA0E/H33D2oqaDsQ/s640/tiff1.webp)](http://1.bp.blogspot.com/-ql5QhdlCPss/T3-yplkgUEI/AAAAAAAAA0E/H33D2oqaDsQ/s1600/tiff1.webp)
 
 She's using this book to "break" the habits of the common OCD idea that things must always be perfect. I think this is the most important aspect of  Wreck This Journal- learning to loosen up and appreciate things for the way they are.
 
