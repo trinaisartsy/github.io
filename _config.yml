@@ -41,7 +41,6 @@ nav:
   - GALLERY: "/art/"  
   - BLOG: "/blog/"
   - TUTORIALS: "/tutorials/"
-  - LOCAL: "/local/"
   - ABOUT: "/about/"
 
 # All translation keys
