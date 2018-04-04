@@ -15,7 +15,7 @@ categories:
 
   
 
-[![](https://2.bp.blogspot.com/-Zkzb0SgV77Q/WsJIbz7J8uI/AAAAAAAALbQ/AJ151y6oupMgO50mut-DGkTApwf30_LiQCLcBGAs/s320/16831085_1300769456682379_1155257373786239318_n.webp)](https://2.bp.blogspot.com/-Zkzb0SgV77Q/WsJIbz7J8uI/AAAAAAAALbQ/AJ151y6oupMgO50mut-DGkTApwf30_LiQCLcBGAs/s1600/16831085_1300769456682379_1155257373786239318_n.webp)
+[![](https://2.bp.blogspot.com/-Zkzb0SgV77Q/WsJIbz7J8uI/AAAAAAAALbQ/AJ151y6oupMgO50mut-DGkTApwf30_LiQCLcBGAs/s320/16831085_1300769456682379_1155257373786239318_n.webp)](https://2.bp.blogspot.com/-Zkzb0SgV77Q/WsJIbz7J8uI/AAAAAAAALbQ/AJ151y6oupMgO50mut-DGkTApwf30_LiQCLcBGAs/s1600/16831085_1300769456682379_1155257373786239318_n.webp){: class="left" }
 
 So, you're thinking about taking a drink and paint class?
 
