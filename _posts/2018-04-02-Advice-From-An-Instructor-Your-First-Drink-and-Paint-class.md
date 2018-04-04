@@ -23,7 +23,7 @@ I spent over a year as an art instructor at a popular drink and paint studio in 
   
 But, I can confidently say that I never let a painter walk out of the studio without a smile on their face. So, before you walk in to your first drink and paint class as a neurotic mess and give your artist a big headache, let me try to work some of my "artsy magic" with this advice to make your experience at a drink and paint studio go more smoothly for everyone.  
   
-  
+<!--more-->
   
   
   
