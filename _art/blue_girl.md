@@ -1,7 +1,7 @@
 ---
 layout: image
 published: true
-image: art/Blue Girl.jpg
+image: art/Blue Girl.webp
 price: '20'
 title: Blue Girl
 ---

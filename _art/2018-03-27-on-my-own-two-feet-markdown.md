@@ -2,7 +2,7 @@
 layout: image
 published: false
 title: On-My-Own-Two-Feet.markdown
-image: art/Feetsies.jpg
+image: art/Feetsies.webp
 ---
 This piece really has a presence in real life. It's modeled directly from observation of my own feet and was done with acrylics and india ink. My favorite part is the harsh texture of the surface. I achieved this by piecing burlap scraps onto particle board. Everything besides the glue and paint were sourced from recylced materials.
 

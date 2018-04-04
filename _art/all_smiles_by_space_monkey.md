@@ -1,6 +1,6 @@
 ---
 title: trina and doug
-image: art/All_Smiles_by_space_monkey.jpg
+image: art/All_Smiles_by_space_monkey.webp
 price: 199.99
 layout: image
 ---
