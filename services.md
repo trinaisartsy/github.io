@@ -13,7 +13,7 @@ Services
 
 -------
 
-### College Bound Students: AP Art Portfolio Prep
+### College Bound Students: AP Art Portfolio Prep (2D-Design and Drawing)
 
 _Contact for Pricing Info_
 
@@ -29,7 +29,7 @@ Students will bring their current portfolio for review. We will analyze the requ
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### School of the Arts Portfolio / Audition Prep
+### School of the Arts Portfolio / Audition Prep (Visual Arts)
 
 _Contact for Pricing Info_
 
