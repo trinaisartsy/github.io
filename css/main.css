@@ -413,40 +413,40 @@ body {
  color: black;
 }
 
-article img {
+article img, #post-content img {
   padding: 10px; 
 }
 
-article .small {
+article .small, #post-content .small {
   max-width: 30%;
 }
 
-article .medium img {
+article .medium img, #post-content .medium img {
   width: 50%;
 }
 
-article .large img {
+article .large img, #post-content .large img {
   width: 70%;
 }
 
 
-article .full img {
+article .full img, #post-content .full img {
   width: 100%;
 } 
 
-article .left {
+article .left, #post-content .left {
   float: left;
 }
 
-article .center img {
+article .center img, #post-content .center img {
   margin: 0 auto;
 }
 
 
-article .right {
+article .right, #post-content .right {
   float: right;
 }
 
-article .clear {
+article .clear, #post-content .clear {
   clear: all;
 } 
