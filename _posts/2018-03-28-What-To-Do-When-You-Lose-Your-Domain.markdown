@@ -3,8 +3,8 @@ published: true
 layout: post
 subtitle: aka A Letter To My Future Self
 active: journal
-image: art/IMG_20170417_124005414.jpg
-header-img: art/IMG_20170417_124005414.jpg
+image: art/IMG_20170417_124005414.webp
+header-img: art/IMG_20170417_124005414.webp
 tags:
   - tutorials
   - advice
@@ -12,7 +12,7 @@ categories:
   - blog
   - tutorials
 ---
- ![]({{site.baseurl}}/media/IMG_20170417_124005414.jpg){: class small left } 
+ ![]({{site.baseurl}}/media/IMG_20170417_124005414.webp){: class small left } 
 So, you're a content creator and let your website's domain name expire. Or, your blog has been unexpectedly deleted, or you've lost access to it. Maybe you were using it for years. Maybe it had tons of back links and SEO. But now it's gone. You dun goofed, and consequences will never be the same.
 
 Hey, that was me. I had sunk 3-4 years into my blog under a .com domain, spending hours tweeting and pinning and posting to promote it. But then the domain expired and I didn't know how to renew it. Someone bought my domain from under me and now it's a blank page, presumably where ads would load if it wasn't so glitchy. While my posts were preserved through blogspot and the website still technically exists, in my eyes I had lost everything. All my business cards had my old website on it, my resume, tons of internet posts. And now it will absolutely have to be changed. I've spent the last year ruminating and stewing about it instead of writing, almost out of spite for myself. But I've finally come to some conclusions and I'd like to share them with you, too. 
