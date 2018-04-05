@@ -16,10 +16,10 @@ published: true
 _Originally Published April 2012_
 
 Today I figured I'd make a little post about my "traveling" painting kit. It's basically all my favorite paintbrushes and tools packed into one box that I can take with me anywhere. No biggie... most artists have a version of this. However, I have a very special ongoing project involving my paint supplies that I couldn't help but share with you guys... It's a _masterpiece_ in the making!  
-  
+<!--more-->  
 
 [![](https://3.bp.blogspot.com/-mreWfND9jzM/T4os1IqXU7I/AAAAAAAAA2g/LS8MsP3dVjE/s640/IMG_3020.webp)](http://3.bp.blogspot.com/-mreWfND9jzM/T4os1IqXU7I/AAAAAAAAA2g/LS8MsP3dVjE/s1600/IMG_3020.webp){: class="full" }
-<!--more-->
+
 BEHOLD! My super gnarly paint palette, proudly never washed.
 
 I always get a lot of comments on this thing. Most people find it gross.. I can't imagine why!  
