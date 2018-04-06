@@ -31,7 +31,7 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 1\. First of all, You are brave for putting yourself out there.
 ---------------------------------------------------------------
 
-[![](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s320/22007592_531506623853047_3592575859605165402_n.webp)](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s1600/22007592_531506623853047_3592575859605165402_n.webp)There is definitely an amount of vulnerability that comes with putting yourself in a new situation where you have to learn something on the fly. It can be scary stepping into the unknown.  
+[![](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s320/22007592_531506623853047_3592575859605165402_n.webp)](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s1600/22007592_531506623853047_3592575859605165402_n.webp) {: class="left" } There is definitely an amount of vulnerability that comes with putting yourself in a new situation where you have to learn something on the fly. It can be scary stepping into the unknown.  
   
  I try to imagine myself in the shoes of a first time painter. A newbie still has to learn the ropes- and it may have been years since you last painted, for some their last time was in grade school or earlier! It takes bravery to try something again after that long. Give yourself a chance to try again without worrying too much about failure, and don't be afraid to ask questions!  
   
