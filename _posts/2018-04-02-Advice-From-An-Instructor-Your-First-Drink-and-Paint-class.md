@@ -45,7 +45,7 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 2\. Your painting doesn't have to turn out exactly like the example
 -------------------------------------------------------------------
 
-[![](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s320/22046950_531505847186458_7576332721415401439_n.webp)](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s1600/22046950_531505847186458_7576332721415401439_n.webp)
+[![](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s320/22046950_531505847186458_7576332721415401439_n.webp)](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s1600/22046950_531505847186458_7576332721415401439_n.webp) {: class="left" }
 
 A lot of people get caught up in the idea that their painting has to look EXACTLY like the example they're copying from, and frankly that's just setting themselves up for trouble. I always tell painters this: If you could copy the painting exactly, you would have to literally be a copy machine. And you are not a machine, you're a human. You can't capture lightning in a bottle, but you can most certainly create your own light.  
   
@@ -65,7 +65,7 @@ Don't bring your genuine Louis Vuitton purse and expect paint not to get on it! 
 Instead, wear something comfortable, perhaps an old work shirt and pants you don't care about. Don't wear crazy shoes either, please. Once, I dropped an entire paint bottle and it splashed on this guy's fancy shoes and I felt awful! Phones also often get dropped for some reason, so keep it in an (inexpensive) purse or in your pocket when possible.  
   
 
-[![](https://3.bp.blogspot.com/-GlkyTLN3s20/WsJSb4CvgPI/AAAAAAAALcA/k1LG71roms4-JhgUGAf8wfivp0AlLAMmACLcBGAs/s400/mar5IMG_20170304_212828206.webp)](https://3.bp.blogspot.com/-GlkyTLN3s20/WsJSb4CvgPI/AAAAAAAALcA/k1LG71roms4-JhgUGAf8wfivp0AlLAMmACLcBGAs/s1600/mar5IMG_20170304_212828206.webp)
+[![](https://3.bp.blogspot.com/-GlkyTLN3s20/WsJSb4CvgPI/AAAAAAAALcA/k1LG71roms4-JhgUGAf8wfivp0AlLAMmACLcBGAs/s400/mar5IMG_20170304_212828206.webp)](https://3.bp.blogspot.com/-GlkyTLN3s20/WsJSb4CvgPI/AAAAAAAALcA/k1LG71roms4-JhgUGAf8wfivp0AlLAMmACLcBGAs/s1600/mar5IMG_20170304_212828206.webp) {: class=" large center" }
 
   
 
@@ -84,7 +84,7 @@ This is also true if your drink and paint party is located at a bar or restauran
   
   
 
-[![](https://3.bp.blogspot.com/-oY1k-Q7Bfik/WsJVu2vouJI/AAAAAAAALcI/ohjvkYzYawkFgajPjWIiaeyQO5pc9SQ7wCLcBGAs/s400/19621110_489480914722285_3284929249431895725_o.webp)](https://3.bp.blogspot.com/-oY1k-Q7Bfik/WsJVu2vouJI/AAAAAAAALcI/ohjvkYzYawkFgajPjWIiaeyQO5pc9SQ7wCLcBGAs/s1600/19621110_489480914722285_3284929249431895725_o.webp)
+[![](https://3.bp.blogspot.com/-oY1k-Q7Bfik/WsJVu2vouJI/AAAAAAAALcI/ohjvkYzYawkFgajPjWIiaeyQO5pc9SQ7wCLcBGAs/s400/19621110_489480914722285_3284929249431895725_o.webp)](https://3.bp.blogspot.com/-oY1k-Q7Bfik/WsJVu2vouJI/AAAAAAAALcI/ohjvkYzYawkFgajPjWIiaeyQO5pc9SQ7wCLcBGAs/s1600/19621110_489480914722285_3284929249431895725_o.webp) {: class="medium center" }
 
   
 
@@ -98,7 +98,7 @@ Don't be too afraid of messing up or looking foolish, just try your best. Being 
 If your painting doesn't turn out good, don't get embarrassed and upset! Think about it this way instead - this painting represents an experience that you had with loved ones. It's a memory captured on canvas, not a Rembrandt masterpiece! If you want your painting to be "perfect" you will have to have more than one painting under your belt first. Challenge yourself to go out of your comfort zone more often. You may just discover something new about yourself.  
   
 
-[![](https://2.bp.blogspot.com/-qzm4MxS1FyI/WsK-UmY01qI/AAAAAAAALco/KKNujTXtiQwuAd75_Pdvw6V1bX_OdYXMgCLcBGAs/s400/mar5.webp)](https://2.bp.blogspot.com/-qzm4MxS1FyI/WsK-UmY01qI/AAAAAAAALco/KKNujTXtiQwuAd75_Pdvw6V1bX_OdYXMgCLcBGAs/s1600/mar5.webp)
+[![](https://2.bp.blogspot.com/-qzm4MxS1FyI/WsK-UmY01qI/AAAAAAAALco/KKNujTXtiQwuAd75_Pdvw6V1bX_OdYXMgCLcBGAs/s400/mar5.webp)](https://2.bp.blogspot.com/-qzm4MxS1FyI/WsK-UmY01qI/AAAAAAAALco/KKNujTXtiQwuAd75_Pdvw6V1bX_OdYXMgCLcBGAs/s1600/mar5.webp) {: class="medium center" }
 
   
 
