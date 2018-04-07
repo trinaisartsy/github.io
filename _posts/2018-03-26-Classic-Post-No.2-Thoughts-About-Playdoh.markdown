@@ -9,7 +9,7 @@ tags: '-tutorial -play doh -salt dough'
 categories:
   - blog
 ---
-![]({{site.baseurl}}/art/IMG_0594.webp){: class="medium" }
+![Tips for Playdoh]({{site.baseurl}}/art/IMG_0594.webp){: class="medium" }
 So I have a confession to make, I'm obsessed with something weird again, and this time it's Play Doh.
 _Originally Published 4 / 2017_
 
@@ -17,8 +17,8 @@ I had this strong urge to make some rune stones from clay. I've done it before w
 
  
 On a random aisle I spied big packs of Play Doh on sale for $1.75 a piece. I thought, shoot, for that price, why not give it a try? So when I go to buy them, to my utter surprise they ring up 50 cents a piece for a roughly 10 oz bag of Play Doh. It was an incredible deal considering that in the crafts section they were selling 2 ounce cups of the stuff for an insane mark up.  
-
-[![](https://images-na.ssl-images-amazon.com/images/I/41p-QHJFiaL.webp)](https://images-na.ssl-images-amazon.com/images/I/41p-QHJFiaL.webp){: class="left" }
+[![](github.io/media/41p-QHJFiaL.jpg)](github.io/media/41p-QHJFiaL.jpg){: class="center medium" }
+[![Soft Pack Playdoh](github.io/media/41p-QHJFiaL.jpg)] (github.io/media/41p-QHJFiaL.jpg){: class="left" }
 
 I scurry my loot back home and get to work. And after getting past the initial stigma of "Play Doh is for babies" I actually really start to like the medium I'm working with. Unlike air dry clay, Play Doh was a lot less difficult to work with in a lot of ways. It wasn't as messy and it didn't dry out as fast as air dry clay. It has a smooth and almost plasticky texture and was easy to manipulate with tools and my hands. As I worked with the Play Doh I couldn't help but wonder how it would hold up compared to the other clay that was designed to harden and "keep forever."
 
@@ -48,7 +48,7 @@ What is "Salting?"
 
   
 
-[![](https://1.bp.blogspot.com/-1-UaghGS44k/V-A4owBzgjI/AAAAAAAADc8/Yh0g9_LctXc0TEgdMyACyKpdMu87ubCLwCLcB/s640/Salting%2B-%2BBefore%2Band%2BAfter.webp)](https://1.bp.blogspot.com/-1-UaghGS44k/V-A4owBzgjI/AAAAAAAADc8/Yh0g9_LctXc0TEgdMyACyKpdMu87ubCLwCLcB/s1600/Salting%2B-%2BBefore%2Band%2BAfter.webp){: class="full" }
+[![Dried playdoh before and after - "Salted"](https://1.bp.blogspot.com/-1-UaghGS44k/V-A4owBzgjI/AAAAAAAADc8/Yh0g9_LctXc0TEgdMyACyKpdMu87ubCLwCLcB/s640/Salting%2B-%2BBefore%2Band%2BAfter.webp)](https://1.bp.blogspot.com/-1-UaghGS44k/V-A4owBzgjI/AAAAAAAADc8/Yh0g9_LctXc0TEgdMyACyKpdMu87ubCLwCLcB/s1600/Salting%2B-%2BBefore%2Band%2BAfter.webp){: class="full" }
 
 Untreated Play Doh Hamburger, before drying and afterwards.  
 Notice the deposit of salt on the surface of the figure in the second image.
@@ -58,11 +58,8 @@ Notice the deposit of salt on the surface of the figure in the second image.
   
 The concept of salting was originally brought up to me by [SoCratfastic's video on Play Doh tips and tricks](https://www.youtube.com/watch?v=w_TMUs6zyLo). I don't know why exactly it happens,  but during the drying process, (probably having something to do with the moisture and the salt content of the compound,) a lot of Play Doh pieces become kind of "ashy" or "salty" looking instead of staying smooth and colorful. It's not ideal for pieces that are supposed to be jewelry because it just looks kind of _bad_ and unlike its clay compounded siblings which dry smooth and true to color. This to me seems like the biggest limitation to using Play Doh, and the biggest unknown factor when it comes to the success of your project. I've noticed a few factors that seem to effect the salting-  
 
-[![](https://1.bp.blogspot.com/-hBnlrWeeBiE/V-A3zzrYTEI/AAAAAAAADc0/vAiS7tN81RUJ9EJMtIhNQUy3kh5mXpH8QCLcB/s200/IMG_0655.webp)](https://1.bp.blogspot.com/-hBnlrWeeBiE/V-A3zzrYTEI/AAAAAAAADc0/vAiS7tN81RUJ9EJMtIhNQUy3kh5mXpH8QCLcB/s1600/IMG_0655.webp){: class="center medium" }
+[![A flat play doh relief sculpture](https://1.bp.blogspot.com/-hBnlrWeeBiE/V-A3zzrYTEI/AAAAAAAADc0/vAiS7tN81RUJ9EJMtIhNQUy3kh5mXpH8QCLcB/s200/IMG_0655.webp)](https://1.bp.blogspot.com/-hBnlrWeeBiE/V-A3zzrYTEI/AAAAAAAADc0/vAiS7tN81RUJ9EJMtIhNQUy3kh5mXpH8QCLcB/s1600/IMG_0655.webp){: class="center medium" }
 
-A flat relief sculpture  
- made of Play Doh that  
-dried beautifully.
 
 1.  So Craftastic suggests drying the pieces evenly, but I personally haven't found much of a consistency with this technique. My first batch of charms were flipped and turned and rotated to high heaven in order to ensure that every square inch evenly dried, however this didn't seem to have made a difference in the inevitable saltiness of the pieces, if not pronouncing the problem even more. However, I have to note that your results may vary with this technique. I live in the south and experience a lot of humidity. I often wonder if how arid or humid your environment is may effect the drying process in general. The science behind this is beyond me, but if you want to keep your pieces untreated, you'll have to experiment for yourself to see exactly how it reacts to your personal drying location.
 2.  On the other hand, I actually discovered that if you leave the pieces to dry flat and don't move them much, that most of salt will settle at the bottom / on the backside of your piece. This only really works if you are doing a two dimensional sculpture, but I had great success with those kind of pieces.
@@ -74,7 +71,7 @@ The timing for this is tricky because you don't want to seal it when the piece i
 
   
 
-[![](https://4.bp.blogspot.com/-TVovzaDqAz0/V-FTd6U6ngI/AAAAAAAADdM/VWfAb7jtawI-Xe9BCEubeX0-jk9yQ8_DACEw/s200/IMG_0641.webp)](https://4.bp.blogspot.com/-TVovzaDqAz0/V-FTd6U6ngI/AAAAAAAADdM/VWfAb7jtawI-Xe9BCEubeX0-jk9yQ8_DACEw/s1600/IMG_0641.webp){: class="center medium" } 
+[![Play doh banana charm](https://4.bp.blogspot.com/-TVovzaDqAz0/V-FTd6U6ngI/AAAAAAAADdM/VWfAb7jtawI-Xe9BCEubeX0-jk9yQ8_DACEw/s200/IMG_0641.webp)](https://4.bp.blogspot.com/-TVovzaDqAz0/V-FTd6U6ngI/AAAAAAAADdM/VWfAb7jtawI-Xe9BCEubeX0-jk9yQ8_DACEw/s1600/IMG_0641.webp){: class="center medium" } 
 
 I was having a big problem with this when I was painting those first charms that had completely salted over. The salt was drying out and gunking up the adhesive and it was hard to get it a neat and smooth coat. I had to do many thin layers and really take my time with it, very annoying for one little banana!
 
@@ -102,7 +99,7 @@ Curious on other options for sealants I decided to pick the brain of [Lacy Knuds
 
   
 
-[![](https://twistedsifter.files.wordpress.com/2013/11/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.webp?w=800&h=600)](https://twistedsifter.files.wordpress.com/2013/11/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.webp?w=800&h=600){: class="center medium" } 
+[![Play Doh Mosaic by Lacy Knudson Dozayix](https://twistedsifter.files.wordpress.com/2013/11/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.webp?w=800&h=600)](https://twistedsifter.files.wordpress.com/2013/11/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.webp?w=800&h=600){: class="center medium" } 
 
 One of [Lacy's Knudson](http://www.dozayix.com/)'s mosaics "A New World"  
 made completely out of Play Doh featuring a shiny resin finish.
@@ -124,7 +121,7 @@ How long does it take to dry?
 
 -----------------------------------
 
-[![](https://4.bp.blogspot.com/-WtrRd7Nbc40/V-UDXdWFQ0I/AAAAAAAADdg/eMzKH2XU2CgIzzTl4rzze3KoHxu2yuUfgCLcB/s320/IMG_0626.webp)](https://4.bp.blogspot.com/-WtrRd7Nbc40/V-UDXdWFQ0I/AAAAAAAADdg/eMzKH2XU2CgIzzTl4rzze3KoHxu2yuUfgCLcB/s1600/IMG_0626.webp){: class="center medium" } 
+[![Play Doh Pizza Charm](https://4.bp.blogspot.com/-WtrRd7Nbc40/V-UDXdWFQ0I/AAAAAAAADdg/eMzKH2XU2CgIzzTl4rzze3KoHxu2yuUfgCLcB/s320/IMG_0626.webp)](https://4.bp.blogspot.com/-WtrRd7Nbc40/V-UDXdWFQ0I/AAAAAAAADdg/eMzKH2XU2CgIzzTl4rzze3KoHxu2yuUfgCLcB/s1600/IMG_0626.webp){: class="center medium" } 
 
 I did NOT cook this pizza in the oven. 
 
@@ -140,9 +137,9 @@ I think they do the best by curing/drying over a long period of time. They becom
  Can you paint it, and how does the paint react? 
 -------------------------------------------------
 
-[![](https://4.bp.blogspot.com/-tf0hqDkliyI/V-UDuNtgOQI/AAAAAAAADes/-FzH6eaHu04gKo2XXG8lVOVdgjSIMsLLACLcB/s400/IMG_0677.webp)](https://4.bp.blogspot.com/-tf0hqDkliyI/V-UDuNtgOQI/AAAAAAAADes/-FzH6eaHu04gKo2XXG8lVOVdgjSIMsLLACLcB/s1600/IMG_0677.webp){: class="center medium" } 
+[![Painted Play Doh cockatiel charms](https://4.bp.blogspot.com/-tf0hqDkliyI/V-UDuNtgOQI/AAAAAAAADes/-FzH6eaHu04gKo2XXG8lVOVdgjSIMsLLACLcB/s400/IMG_0677.webp)](https://4.bp.blogspot.com/-tf0hqDkliyI/V-UDuNtgOQI/AAAAAAAADes/-FzH6eaHu04gKo2XXG8lVOVdgjSIMsLLACLcB/s1600/IMG_0677.webp){: class="center medium" } 
 
-Painted Play Doh cockatiel charms
+
 
 Just regular ol' acrylic paints seemed to fair well on semi-dried pieces of Play Doh, but I had similar problems to when I was trying to seal them- if the piece is salty, it will be more difficult to apply the paint smoothly. Two thoughts on the subject: Firstly, if you have access to the full rainbow of colors that Play Doh has provided you, use them! I was lucky to get that sweet sale that allowed me to get a full palette. The colors mix extraordinarily well in my opinion- I was able to get the colors I needed by mixing them. However, if you absolutely feel hell bent on painting it by hand, no worries, I had the same sentiment. I experimented with these little cockatiel charms by sealing it over with mod podge and then painting on top of that. Painting over it with gesso or sealant before you begin to layer the paint will make your life easier because it will smooth over the surface. 
 
@@ -152,15 +149,14 @@ Speaking of which, I discovered, the "crumbles" from carving into the compound w
 
   
 
-[![](https://2.bp.blogspot.com/-25VbRChDz50/WC812Y0lKcI/AAAAAAAADhA/aaknSsbnA-cRig97kxrPEJlNU242pAEEwCLcB/s200/IMG_0595.webp)](https://2.bp.blogspot.com/-25VbRChDz50/WC812Y0lKcI/AAAAAAAADhA/aaknSsbnA-cRig97kxrPEJlNU242pAEEwCLcB/s1600/IMG_0595.webp){: class="center medium" } 
+[![Black widow runes - painted in red](https://2.bp.blogspot.com/-25VbRChDz50/WC812Y0lKcI/AAAAAAAADhA/aaknSsbnA-cRig97kxrPEJlNU242pAEEwCLcB/s200/IMG_0595.webp)](https://2.bp.blogspot.com/-25VbRChDz50/WC812Y0lKcI/AAAAAAAADhA/aaknSsbnA-cRig97kxrPEJlNU242pAEEwCLcB/s1600/IMG_0595.webp){: class="center medium" } 
 
-Black widow runes - painted in red
 
-[![](https://3.bp.blogspot.com/-1AtspY1M0Bs/V-UDa-WiJ5I/AAAAAAAADds/7xQtn-Cc8jIh6HcySmad6HEAjtOsGEd8wCLcB/s200/IMG_0633.webp)](https://3.bp.blogspot.com/-1AtspY1M0Bs/V-UDa-WiJ5I/AAAAAAAADds/7xQtn-Cc8jIh6HcySmad6HEAjtOsGEd8wCLcB/s1600/IMG_0633.webp){: class="center medium" } 
 
-A pisces charm that has been darkened with metallic blue gel pen color.
+[![A pisces charm that has been darkened with metallic blue gel pen color.](https://3.bp.blogspot.com/-1AtspY1M0Bs/V-UDa-WiJ5I/AAAAAAAADds/7xQtn-Cc8jIh6HcySmad6HEAjtOsGEd8wCLcB/s200/IMG_0633.webp)](https://3.bp.blogspot.com/-1AtspY1M0Bs/V-UDa-WiJ5I/AAAAAAAADds/7xQtn-Cc8jIh6HcySmad6HEAjtOsGEd8wCLcB/s1600/IMG_0633.webp){: class="center medium" } 
 
-[![](https://3.bp.blogspot.com/-6woG2la5P6k/WC84QKfMeuI/AAAAAAAADhI/uXZBSWqR5JE1nOhB_WHhzrzMmqqgHEXzQCLcB/s200/IMG_0583.webp)](https://3.bp.blogspot.com/-6woG2la5P6k/WC84QKfMeuI/AAAAAAAADhI/uXZBSWqR5JE1nOhB_WHhzrzMmqqgHEXzQCLcB/s1600/IMG_0583.webp){: class="center medium" } 
+
+[![Purple Star runes - colored with purples](https://3.bp.blogspot.com/-6woG2la5P6k/WC84QKfMeuI/AAAAAAAADhI/uXZBSWqR5JE1nOhB_WHhzrzMmqqgHEXzQCLcB/s200/IMG_0583.webp)](https://3.bp.blogspot.com/-6woG2la5P6k/WC84QKfMeuI/AAAAAAAADhI/uXZBSWqR5JE1nOhB_WHhzrzMmqqgHEXzQCLcB/s1600/IMG_0583.webp){: class="center medium" } 
 
 Another coloring technique to think about is markers and gel pens. I had great success with colorizing these purple rune stones with a glitter gel pen - I used its tendency to smear to my advantage and the effect gave it a very interesting look. Let the ink dry and then carefully varnish them to avoid smearing detailed lines. You may have to paint over only the lined parts to keep it from smearing, especially if your marker/pen was not waterproof.
 
@@ -179,48 +175,48 @@ More Charms and Stuff
 
   
 
-[![](https://4.bp.blogspot.com/-pM3rqHwNHMg/V-UDf6cl1JI/AAAAAAAADeA/ZygQNjwwVtst2nPTF3QjDoHmbWQv3_zGACLcB/s200/IMG_0640.webp)](https://4.bp.blogspot.com/-pM3rqHwNHMg/V-UDf6cl1JI/AAAAAAAADeA/ZygQNjwwVtst2nPTF3QjDoHmbWQv3_zGACLcB/s1600/IMG_0640.webp){: class="center medium" } 
+[![A bunch of play doh banana charms!](https://4.bp.blogspot.com/-pM3rqHwNHMg/V-UDf6cl1JI/AAAAAAAADeA/ZygQNjwwVtst2nPTF3QjDoHmbWQv3_zGACLcB/s200/IMG_0640.webp)](https://4.bp.blogspot.com/-pM3rqHwNHMg/V-UDf6cl1JI/AAAAAAAADeA/ZygQNjwwVtst2nPTF3QjDoHmbWQv3_zGACLcB/s1600/IMG_0640.webp){: class="center medium" } 
 
-A bunch of banana charms!
 
-[![](https://1.bp.blogspot.com/-fD9i7q3XNAc/V-UDiegsWVI/AAAAAAAADeE/PTSpW3vxj1QhaFCeJpDx0xU6exHdVdbrwCLcB/s400/IMG_0642.webp)](https://1.bp.blogspot.com/-fD9i7q3XNAc/V-UDiegsWVI/AAAAAAAADeE/PTSpW3vxj1QhaFCeJpDx0xU6exHdVdbrwCLcB/s1600/IMG_0642.webp){: class="center medium" } 
 
- My first attempt at a pizza charm.
+[![My first attempt at a play doh pizza charm.](https://1.bp.blogspot.com/-fD9i7q3XNAc/V-UDiegsWVI/AAAAAAAADeE/PTSpW3vxj1QhaFCeJpDx0xU6exHdVdbrwCLcB/s400/IMG_0642.webp)](https://1.bp.blogspot.com/-fD9i7q3XNAc/V-UDiegsWVI/AAAAAAAADeE/PTSpW3vxj1QhaFCeJpDx0xU6exHdVdbrwCLcB/s1600/IMG_0642.webp){: class="center medium" } 
 
-  
-
-[![](https://3.bp.blogspot.com/-Lz-VEFu4UIU/V-UDjJVKBTI/AAAAAAAADeM/Qo4swiwna4Asq48O-MUbiWyndUHajqtcQCLcB/s400/IMG_0644.webp)](https://3.bp.blogspot.com/-Lz-VEFu4UIU/V-UDjJVKBTI/AAAAAAAADeM/Qo4swiwna4Asq48O-MUbiWyndUHajqtcQCLcB/s1600/IMG_0644.webp){: class="center medium" } 
-
-A more complicated "supreme" pizza charm.
+ 
 
   
 
-[![](https://2.bp.blogspot.com/-YLrWI8oAa-U/V-UDmVCOo1I/AAAAAAAADeU/ZhHPfjBp8woFTHU6VCqGJ47EjRWNeODBACLcB/s320/IMG_0649.webp)](https://2.bp.blogspot.com/-YLrWI8oAa-U/V-UDmVCOo1I/AAAAAAAADeU/ZhHPfjBp8woFTHU6VCqGJ47EjRWNeODBACLcB/s1600/IMG_0649.webp){: class="center medium" } 
+[![A more complicated "supreme" play doh pizza charm.](https://3.bp.blogspot.com/-Lz-VEFu4UIU/V-UDjJVKBTI/AAAAAAAADeM/Qo4swiwna4Asq48O-MUbiWyndUHajqtcQCLcB/s400/IMG_0644.webp)](https://3.bp.blogspot.com/-Lz-VEFu4UIU/V-UDjJVKBTI/AAAAAAAADeM/Qo4swiwna4Asq48O-MUbiWyndUHajqtcQCLcB/s1600/IMG_0644.webp){: class="center medium" } 
 
-A bunch of little skull charms.
 
-  
-
-[![](https://3.bp.blogspot.com/-sHcezBIP1aw/V-UDm8-KK2I/AAAAAAAADeY/OAXJFJXbN90XeTuTxxsuvYv_TmgSlMOvQCLcB/s400/IMG_0663.webp)](https://3.bp.blogspot.com/-sHcezBIP1aw/V-UDm8-KK2I/AAAAAAAADeY/OAXJFJXbN90XeTuTxxsuvYv_TmgSlMOvQCLcB/s1600/IMG_0663.webp){: class="center medium" } 
 
   
 
-[![](https://2.bp.blogspot.com/-H7wSalbB7hI/V-UDp-8-beI/AAAAAAAADec/RsCNk6pbb1E66Fsh1jPVTyaUKIUywtlcwCLcB/s200/IMG_0668.webp)](https://2.bp.blogspot.com/-H7wSalbB7hI/V-UDp-8-beI/AAAAAAAADec/RsCNk6pbb1E66Fsh1jPVTyaUKIUywtlcwCLcB/s1600/IMG_0668.webp){: class="center medium" } 
+[![A bunch of little play doh skull charms.](https://2.bp.blogspot.com/-YLrWI8oAa-U/V-UDmVCOo1I/AAAAAAAADeU/ZhHPfjBp8woFTHU6VCqGJ47EjRWNeODBACLcB/s320/IMG_0649.webp)](https://2.bp.blogspot.com/-YLrWI8oAa-U/V-UDmVCOo1I/AAAAAAAADeU/ZhHPfjBp8woFTHU6VCqGJ47EjRWNeODBACLcB/s1600/IMG_0649.webp){: class="center medium" } 
 
-[![](https://4.bp.blogspot.com/-uQTAHQIpxVg/V-UDqGWhH6I/AAAAAAAADek/i11opbAbzd0Yojtx1T8RV3g4b44vgVEsgCLcB/s200/IMG_0669.webp)](https://4.bp.blogspot.com/-uQTAHQIpxVg/V-UDqGWhH6I/AAAAAAAADek/i11opbAbzd0Yojtx1T8RV3g4b44vgVEsgCLcB/s1600/IMG_0669.webp){: class="center medium" } 
+
+
+  
+
+[![Carrot play doh charm](https://3.bp.blogspot.com/-sHcezBIP1aw/V-UDm8-KK2I/AAAAAAAADeY/OAXJFJXbN90XeTuTxxsuvYv_TmgSlMOvQCLcB/s400/IMG_0663.webp)](https://3.bp.blogspot.com/-sHcezBIP1aw/V-UDm8-KK2I/AAAAAAAADeY/OAXJFJXbN90XeTuTxxsuvYv_TmgSlMOvQCLcB/s1600/IMG_0663.webp){: class="center medium" } 
+
+  
+
+[![Pickle Play doh charm](https://2.bp.blogspot.com/-H7wSalbB7hI/V-UDp-8-beI/AAAAAAAADec/RsCNk6pbb1E66Fsh1jPVTyaUKIUywtlcwCLcB/s200/IMG_0668.webp)](https://2.bp.blogspot.com/-H7wSalbB7hI/V-UDp-8-beI/AAAAAAAADec/RsCNk6pbb1E66Fsh1jPVTyaUKIUywtlcwCLcB/s1600/IMG_0668.webp){: class="center medium" } 
+
+[![Apple Core Play Doh Charm](https://4.bp.blogspot.com/-uQTAHQIpxVg/V-UDqGWhH6I/AAAAAAAADek/i11opbAbzd0Yojtx1T8RV3g4b44vgVEsgCLcB/s200/IMG_0669.webp)](https://4.bp.blogspot.com/-uQTAHQIpxVg/V-UDqGWhH6I/AAAAAAAADek/i11opbAbzd0Yojtx1T8RV3g4b44vgVEsgCLcB/s1600/IMG_0669.webp){: class="center medium" } 
 
   
 Carrots, pickles, and apple cores, oh my!
 
   
 
-[![](https://4.bp.blogspot.com/-OOHmMaZXclk/V-UDqKobEWI/AAAAAAAADeg/ijyJ1_eLYSQ069zmHgXQn5GdkhsK4Br0gCLcB/s320/IMG_0673.webp)](https://4.bp.blogspot.com/-OOHmMaZXclk/V-UDqKobEWI/AAAAAAAADeg/ijyJ1_eLYSQ069zmHgXQn5GdkhsK4Br0gCLcB/s1600/IMG_0673.webp){: class="center medium" } 
+[![Weiner Dogs Play Doh Charms, get it?](https://4.bp.blogspot.com/-OOHmMaZXclk/V-UDqKobEWI/AAAAAAAADeg/ijyJ1_eLYSQ069zmHgXQn5GdkhsK4Br0gCLcB/s320/IMG_0673.webp)](https://4.bp.blogspot.com/-OOHmMaZXclk/V-UDqKobEWI/AAAAAAAADeg/ijyJ1_eLYSQ069zmHgXQn5GdkhsK4Br0gCLcB/s1600/IMG_0673.webp){: class="center medium" } 
 
-Weiner Dogs Charms, get it?
+
 
   
 
-[![](https://3.bp.blogspot.com/-Ob4dEtPy89Q/V-UDuAq-21I/AAAAAAAADew/HYgd1xYXwWcT-1-5m0bA2ELiRmZL2GKuQCLcB/s200/IMG_0676.webp)](https://3.bp.blogspot.com/-Ob4dEtPy89Q/V-UDuAq-21I/AAAAAAAADew/HYgd1xYXwWcT-1-5m0bA2ELiRmZL2GKuQCLcB/s1600/IMG_0676.webp){: class="center medium" } 
+[![Mushroom Play Doh Charm](https://3.bp.blogspot.com/-Ob4dEtPy89Q/V-UDuAq-21I/AAAAAAAADew/HYgd1xYXwWcT-1-5m0bA2ELiRmZL2GKuQCLcB/s200/IMG_0676.webp)](https://3.bp.blogspot.com/-Ob4dEtPy89Q/V-UDuAq-21I/AAAAAAAADew/HYgd1xYXwWcT-1-5m0bA2ELiRmZL2GKuQCLcB/s1600/IMG_0676.webp){: class="center medium" } 
 [![](https://1.bp.blogspot.com/-U6Aj37aHx64/V-UDtCgT57I/AAAAAAAADeo/u33vsj1w3UUSivGmgk1ORVp2wZxU8rAdwCLcB/s200/IMG_0674.webp)](https://1.bp.blogspot.com/-U6Aj37aHx64/V-UDtCgT57I/AAAAAAAADeo/u33vsj1w3UUSivGmgk1ORVp2wZxU8rAdwCLcB/s1600/IMG_0674.webp){: class="center medium" } 
 
   
@@ -230,7 +226,3 @@ Mushroom, Mushroom.
   
 
 . \* ･ ｡ﾟ☆━੧༼ •́ ヮ •̀ ༽୨
-
-**Follow me on Facebook**:[ https://www.facebook.com/TrinaIsArtsy/](https://www.facebook.com/TrinaIsArtsy/)
-
-**Check out my Etsy**:  [https://www.etsy.com/shop/TrinaIsArtsy](https://www.etsy.com/shop/TrinaIsArtsy)
