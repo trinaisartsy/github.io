@@ -2,7 +2,7 @@
 title: Trina is Artsy
 email: "trinaisartsy@gmail.com"
 description: ""
-url: "https://trina.coffee"
+url: "http://trina.local"
 baseurl: ""
 facebook_username: "trinaisartsy"
 twitter_username: "trina_is_artsy"
@@ -66,8 +66,8 @@ paginate_path: "/blog/page:num/"
 permalink: "/blog/:title/"
 categories_path: "/blog/category/"
 tags_path: "/blog/tag/"
-gems: 
- - jekyll-paginate
+plugins: 
+  # - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # SiteMap
