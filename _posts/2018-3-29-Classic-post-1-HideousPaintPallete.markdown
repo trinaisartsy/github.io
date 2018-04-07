@@ -46,7 +46,6 @@ You can see the layers slowly emerging. Also, in its defense, it looks a lot gri
   
   
   
-  
 Here's the palette from the bottom. As you can see, I've completely filled up the original "wells" to the top, but evidence of their existence still remains underneath.  
   
   
