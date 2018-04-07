@@ -9,15 +9,17 @@ tags: '-tutorial -play doh -salt dough'
 categories:
   - blog
 ---
-![Tips for Playdoh]({{site.baseurl}}/art/IMG_0594.webp){: class="medium" }
-So I have a confession to make, I'm obsessed with something weird again, and this time it's Play Doh.
+![Tips for Playdoh]({site.baseurl}}/art/IMG_0594.webp){: class="medium" }
 _Originally Published 4 / 2017_
 
+So I have a confession to make, I'm obsessed with something weird again, and this time it's Play Doh.
+
+<!--more-->  
 I had this strong urge to make some rune stones from clay. I've done it before with a batch of [air dry clay](https://www.amazon.com/Crayola-Air-Clay-Bucket-White/dp/B000J07LF8) and while it was a pain to work with it was something I wanted to try again. I went out in search for my clay, but when I got to the store, they were completely sold out. I stared at the empty shelf in dismay. _How could the internet lie to me and say that they had it in stock?_ On my walk of shame out of the store, something caught my eye.  
 
  
 On a random aisle I spied big packs of Play Doh on sale for $1.75 a piece. I thought, shoot, for that price, why not give it a try? So when I go to buy them, to my utter surprise they ring up 50 cents a piece for a roughly 10 oz bag of Play Doh. It was an incredible deal considering that in the crafts section they were selling 2 ounce cups of the stuff for an insane mark up.  
-[![](github.io/media/41p-QHJFiaL.jpg)](github.io/media/41p-QHJFiaL.jpg){: class="center medium" }
+[![](http://github.io/media/41p-QHJFiaL.jpg)](http://github.io/media/41p-QHJFiaL.jpg){: class="center medium" }
 [![Soft Pack Playdoh](github.io/media/41p-QHJFiaL.jpg)] (github.io/media/41p-QHJFiaL.jpg){: class="left" }
 
 I scurry my loot back home and get to work. And after getting past the initial stigma of "Play Doh is for babies" I actually really start to like the medium I'm working with. Unlike air dry clay, Play Doh was a lot less difficult to work with in a lot of ways. It wasn't as messy and it didn't dry out as fast as air dry clay. It has a smooth and almost plasticky texture and was easy to manipulate with tools and my hands. As I worked with the Play Doh I couldn't help but wonder how it would hold up compared to the other clay that was designed to harden and "keep forever."
@@ -48,17 +50,16 @@ What is "Salting?"
 
   
 
-[![Dried playdoh before and after - "Salted"](https://1.bp.blogspot.com/-1-UaghGS44k/V-A4owBzgjI/AAAAAAAADc8/Yh0g9_LctXc0TEgdMyACyKpdMu87ubCLwCLcB/s640/Salting%2B-%2BBefore%2Band%2BAfter.webp)](https://1.bp.blogspot.com/-1-UaghGS44k/V-A4owBzgjI/AAAAAAAADc8/Yh0g9_LctXc0TEgdMyACyKpdMu87ubCLwCLcB/s1600/Salting%2B-%2BBefore%2Band%2BAfter.webp){: class="full" }
+[![Dried playdoh before and after - "Salted"](https://1.bp.blogspot.com/-1-UaghGS44k/V-A4owBzgjI/AAAAAAAADc8/Yh0g9_LctXc0TEgdMyACyKpdMu87ubCLwCLcB/s640/Salting%2B-%2BBefore%2Band%2BAfter.webp)](https://1.bp.blogspot.com/-1-UaghGS44k/V-A4owBzgjI/AAAAAAAADc8/Yh0g9_LctXc0TEgdMyACyKpdMu87ubCLwCLcB/s1600/Salting%2B-%2BBefore%2Band%2BAfter.webp){: class="medium center" }
 
-Untreated Play Doh Hamburger, before drying and afterwards.  
-Notice the deposit of salt on the surface of the figure in the second image.
+Untreated Play Doh Hamburger, before drying and afterwards. Notice the deposit of salt on the surface of the figure in the second image.
 
   
   
   
 The concept of salting was originally brought up to me by [SoCratfastic's video on Play Doh tips and tricks](https://www.youtube.com/watch?v=w_TMUs6zyLo). I don't know why exactly it happens,  but during the drying process, (probably having something to do with the moisture and the salt content of the compound,) a lot of Play Doh pieces become kind of "ashy" or "salty" looking instead of staying smooth and colorful. It's not ideal for pieces that are supposed to be jewelry because it just looks kind of _bad_ and unlike its clay compounded siblings which dry smooth and true to color. This to me seems like the biggest limitation to using Play Doh, and the biggest unknown factor when it comes to the success of your project. I've noticed a few factors that seem to effect the salting-  
 
-[![A flat play doh relief sculpture](https://1.bp.blogspot.com/-hBnlrWeeBiE/V-A3zzrYTEI/AAAAAAAADc0/vAiS7tN81RUJ9EJMtIhNQUy3kh5mXpH8QCLcB/s200/IMG_0655.webp)](https://1.bp.blogspot.com/-hBnlrWeeBiE/V-A3zzrYTEI/AAAAAAAADc0/vAiS7tN81RUJ9EJMtIhNQUy3kh5mXpH8QCLcB/s1600/IMG_0655.webp){: class="center medium" }
+[![A flat play doh relief sculpture](https://1.bp.blogspot.com/-hBnlrWeeBiE/V-A3zzrYTEI/AAAAAAAADc0/vAiS7tN81RUJ9EJMtIhNQUy3kh5mXpH8QCLcB/s200/IMG_0655.webp)](https://1.bp.blogspot.com/-hBnlrWeeBiE/V-A3zzrYTEI/AAAAAAAADc0/vAiS7tN81RUJ9EJMtIhNQUy3kh5mXpH8QCLcB/s1600/IMG_0655.webp){: class="center small" }
 
 
 1.  So Craftastic suggests drying the pieces evenly, but I personally haven't found much of a consistency with this technique. My first batch of charms were flipped and turned and rotated to high heaven in order to ensure that every square inch evenly dried, however this didn't seem to have made a difference in the inevitable saltiness of the pieces, if not pronouncing the problem even more. However, I have to note that your results may vary with this technique. I live in the south and experience a lot of humidity. I often wonder if how arid or humid your environment is may effect the drying process in general. The science behind this is beyond me, but if you want to keep your pieces untreated, you'll have to experiment for yourself to see exactly how it reacts to your personal drying location.
@@ -99,7 +100,7 @@ Curious on other options for sealants I decided to pick the brain of [Lacy Knuds
 
   
 
-[![Play Doh Mosaic by Lacy Knudson Dozayix](https://twistedsifter.files.wordpress.com/2013/11/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.webp?w=800&h=600)](https://twistedsifter.files.wordpress.com/2013/11/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.webp?w=800&h=600){: class="center medium" } 
+[![Play Doh Mosaic by Lacy Knudson Dozayix](https://twistedsifter.files.wordpress.com/2013/11/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.webp)](https://twistedsifter.files.wordpress.com/2013/11/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.webp){: class="center medium" } 
 
 One of [Lacy's Knudson](http://www.dozayix.com/)'s mosaics "A New World"  
 made completely out of Play Doh featuring a shiny resin finish.
@@ -121,13 +122,10 @@ How long does it take to dry?
 
 -----------------------------------
 
-[![Play Doh Pizza Charm](https://4.bp.blogspot.com/-WtrRd7Nbc40/V-UDXdWFQ0I/AAAAAAAADdg/eMzKH2XU2CgIzzTl4rzze3KoHxu2yuUfgCLcB/s320/IMG_0626.webp)](https://4.bp.blogspot.com/-WtrRd7Nbc40/V-UDXdWFQ0I/AAAAAAAADdg/eMzKH2XU2CgIzzTl4rzze3KoHxu2yuUfgCLcB/s1600/IMG_0626.webp){: class="center medium" } 
+[![Play Doh Pizza Charm, I did NOT cook this pizza in the oven. ](https://4.bp.blogspot.com/-WtrRd7Nbc40/V-UDXdWFQ0I/AAAAAAAADdg/eMzKH2XU2CgIzzTl4rzze3KoHxu2yuUfgCLcB/s320/IMG_0626.webp)](https://4.bp.blogspot.com/-WtrRd7Nbc40/V-UDXdWFQ0I/AAAAAAAADdg/eMzKH2XU2CgIzzTl4rzze3KoHxu2yuUfgCLcB/s1600/IMG_0626.webp){: class="center medium" } 
 
-I did NOT cook this pizza in the oven. 
 
-In my opinion, you should hold off on trying 
-
-to "bake" your Play Doh.
+In my opinion, you should hold off on trying to "bake" your Play Doh.
 
 I think they do the best by curing/drying over a long period of time. They become workable with other media like paint and varnish within the first few days (3-4 days of drying), but the longer you let them sit, the harder they become over all. I have noticed something though. Depending on the weather/temperature/some unknown factor, the dried Play Doh seems to be inconsistently somewhat harder or softer on any given day, especially the untreated pieces. To me, this difference is an even stronger indication that the Play Doh compound is effected by its environment. Just keep that in mind when storing your pieces.  
   
