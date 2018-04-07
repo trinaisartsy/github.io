@@ -67,7 +67,7 @@ permalink: "/blog/:title/"
 categories_path: "/blog/category/"
 tags_path: "/blog/tag/"
 plugins: 
-   - jekyll-paginate
+   # - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # SiteMap
