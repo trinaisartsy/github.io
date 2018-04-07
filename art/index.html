@@ -25,7 +25,7 @@ header-img: "art/forshortening.jpg"
 				{% assign rendered = image.relative_path %}
 				{% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
 
-					{% assign rendered = false %}
+					<!-- {% assign rendered = false %}
 					{% for post in site.art %}
 						{% if image.path contains post.image %}	
 							<figure class="gallery-item">
@@ -42,7 +42,7 @@ header-img: "art/forshortening.jpg"
 								</figcaption>
 							</figure>
 						{% endif %}
-					{% endfor %}
+					{% endfor %} -->
 
 					{% if rendered != image.path %}	
 						<figure class="gallery-item">

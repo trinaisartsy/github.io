@@ -1,12 +1,31 @@
 Trina is Artsy
 ==============
-A portfolio website built from Jekyll. Based on [photorama](https://sunbliss.github.io/photorama/ "DEMO"), heavily modified. 
+A portfolio website built from Jekyll. Based on [photorama](https://sunbliss.github.io/photorama/ "Photorama Demo"), heavily modified. 
 
 
-----------
+## Why not github pages?
+
+We could have gotten away with github pages except for with all the images we needed a way to thumbnail them. There was just no way to do it there, and we didn't want to rely on some goofy CDN solution or the like. Besides, pagination, tags, categories are now within our grasp.
+
+## Local Development
+
+There's some work you just can't do on the web, for this we must build the site locally:
+
+Very simple...
+
+```
+$ bundle install
+$ jekyll serve --watch
+```
+
+### Note about the thumbnail gem
+
+We are using [mrdanadams/jekyll-thumbnailer](https://github.com/mrdanadams/jekyll-thumbnailer) but used [kevin1's modification](https://github.com/kevin1/jekyll-thumbnailer/blob/master/thumbnail.rb) to the plugin so it can accept variables and approach usefulness. With this module, thumbnails end up in art/thumbs/ when we need them in _site/art/thumbs. `jekyl serve` seems to pass these files through correctly, but for our build in netlify we needed to do the following:
+
+**build command:** `jekyll build && cp -rf art/thumbs/ _site/art`
 
 ## Hosting
-[Netify](https://app.netlify.com/sites/trinaisartsy/) does a really good job so far and seems free for our uses
+[Netify](https://app.netlify.com/sites/trinaisartsy/) does a really good job so far and seems free for our uses. Will follow-up if they start trying to charge us.
 
 ## License
 
