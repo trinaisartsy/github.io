@@ -14,6 +14,8 @@ discus_shortname: "trinalyn"
 paypal: "ER3YV7DCSRWZU"
 share: true
 excerpt_separator: "<!--more-->"
+header-img: art/the_usual_suspects__by_space_monkey.jpg
+
 
 collections:
   art:
@@ -64,6 +66,9 @@ categories_path: "/blog/category/"
 tags_path: "/blog/tag/"
 plugins: 
     - jekyll-paginate-v2
+    - jekyll/tagging
+
+
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Pagination
@@ -73,6 +78,10 @@ pagination:
   collection: 'posts'
   per_page: 3
   permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+
+# tags
+tag_page_layout: tag_page
+tag_page_dir: tag
 
 # SiteMap
 sitemap:
