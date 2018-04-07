@@ -100,7 +100,7 @@ Curious on other options for sealants I decided to pick the brain of [Lacy Knuds
 
   
 
-[![Play Doh Mosaic by Lacy Knudson Dozayix](https://1.bp.blogspot.com/-tpUF1UB3MO8/Wsg0fhhvkyI/AAAAAAAALlM/t3sGMrzdeMoVmuuKPBacggqQF7dFzJJ9gCLcBGAs/s320/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.jpg)](https://1.bp.blogspot.com/-tpUF1UB3MO8/Wsg0fhhvkyI/AAAAAAAALlM/t3sGMrzdeMoVmuuKPBacggqQF7dFzJJ9gCLcBGAs/s1600/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.jpg)
+[![Play Doh Mosaic by Lacy Knudson Dozayix](https://1.bp.blogspot.com/-tpUF1UB3MO8/Wsg0fhhvkyI/AAAAAAAALlM/t3sGMrzdeMoVmuuKPBacggqQF7dFzJJ9gCLcBGAs/s320/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.jpg)](https://1.bp.blogspot.com/-tpUF1UB3MO8/Wsg0fhhvkyI/AAAAAAAALlM/t3sGMrzdeMoVmuuKPBacggqQF7dFzJJ9gCLcBGAs/s1600/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.jpg){: class="center full" } 
 
 One of [Lacy's Knudson](http://www.dozayix.com/)'s mosaics "A New World" made completely out of Play Doh featuring a shiny resin finish.
 
@@ -202,8 +202,6 @@ More Charms and Stuff
 
 [![Apple Core Play Doh Charm](https://4.bp.blogspot.com/-uQTAHQIpxVg/V-UDqGWhH6I/AAAAAAAADek/i11opbAbzd0Yojtx1T8RV3g4b44vgVEsgCLcB/s200/IMG_0669.webp)](https://4.bp.blogspot.com/-uQTAHQIpxVg/V-UDqGWhH6I/AAAAAAAADek/i11opbAbzd0Yojtx1T8RV3g4b44vgVEsgCLcB/s1600/IMG_0669.webp){: class="center medium" } 
 
-  
-Carrots, pickles, and apple cores, oh my!
 
   
 
