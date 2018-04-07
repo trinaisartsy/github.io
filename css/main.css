@@ -76,14 +76,14 @@ hr.small {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: #0085a1;
+    color: #c39aed;
   }
   .navbar-custom .nav li a {
     color: white;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover{
-    color: #0085a1;
+    color: #c39aed;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -113,14 +113,14 @@ hr.small {
     color: #ffffff;
   }
   .navbar-custom.is-fixed .navbar-brand:hover {
-    color: #0085a1;
+    color: #c39aed;
   }
   
   .navbar-custom.is-fixed .nav li a:hover {
-    color: #0085a1;
+    color: #c39aed;
   }
 .navbar-custom.is-fixed .nav li a:active{
-    color: #6ec54d;
+    color: #c39aed;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -227,7 +227,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085a1;
+  color: #c39aed;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -351,8 +351,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #c39aed;
+  border: 1px solid #c39aed;
   color: white;
 }
 .pager {
@@ -391,12 +391,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #c39aed;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #c39aed;
 }
 img::selection {
   color: white;
@@ -407,7 +407,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #0085a1;
+  webkit-tap-highlight-color: #c39aed;
 }
 .fa-stack-2x {
  color: black;
