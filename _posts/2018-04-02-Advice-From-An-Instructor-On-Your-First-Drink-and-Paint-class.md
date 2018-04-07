@@ -20,7 +20,6 @@ categories:
 So, you're thinking about taking a drink and paint class?
 
 I spent over a year as an art instructor at a popular drink and paint studio in Charleston, and I've seen it all. Big, rowdy parties, frustrated painters, massive paint / wine spills, and occasionally really drunk grandmas. And there's always that one poor soul who is hellbent on making their painting "just perfect." Most people have no idea what to expect from the experience and as a result they're really nervous at first, especially if they aren't experienced with painting.  
-  
 But, I can confidently say that I never let a painter walk out of the studio without a smile on their face. So, before you walk in to your first drink and paint class as a neurotic mess and give your artist a big headache, let me try to work some of my "artsy magic" with this advice to make your experience at a drink and paint studio go more smoothly for everyone.  
   
 <!--more-->
@@ -41,6 +40,7 @@ But, I can confidently say that I never let a painter walk out of the studio wit
   
   
   
+  
 
 2\. Your painting doesn't have to turn out exactly like the example
 -------------------------------------------------------------------
@@ -50,6 +50,7 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 A lot of people get caught up in the idea that their painting has to look EXACTLY like the example they're copying from, and frankly that's just setting themselves up for trouble. I always tell painters this: If you could copy the painting exactly, you would have to literally be a copy machine. And you are not a machine, you're a human. You can't capture lightning in a bottle, but you can most certainly create your own light.  
   
 Use the example as _inspiration_ for your copy- which will absolutely turn out uniquely you. Don't feel shy about asking your artist to change or add colors, they will be happy to tell you what exactly to mix to make specific colors, too. Anyways, I think it's better to have an original with personal touches includes rather than an exact copy, don't you?  
+
   
 (Pictured Above: A painter asked me to sketch out a little skeleton guy for her swing! Didn't he turn out lovely?)  
   
