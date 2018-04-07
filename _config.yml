@@ -76,6 +76,7 @@ pagination:
   enabled: true
   debug: false
   collection: 'posts'
+  sort_reverse: true
   per_page: 3
   permalink: '/page/:num/' # Pages are index.html inside this folder (default)
 
