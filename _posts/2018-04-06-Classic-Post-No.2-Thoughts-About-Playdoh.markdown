@@ -5,7 +5,6 @@ subtitle: Tips and Tricks
 active: journal
 image: art/IMG_0594.webp
 header-img: art/IMG_0594.webp
-tags: '-tutorial -play doh -salt dough'
 categories:
   - blog
 ---
