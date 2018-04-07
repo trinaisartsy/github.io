@@ -1,6 +1,6 @@
 ---
 title: "Butt Test"
-image: art/cheshirecat.webp
+image: art/cheshirecat.jpg
 Price: 1939.99
 layout: image
 

@@ -3,8 +3,8 @@ published: true
 layout: post
 subtitle: Taking your first drink and draw class.
 active: journal
-image: art/the_usual_suspects__by_space_monkey.webp
-header-img: art/the_usual_suspects__by_space_monkey.webp
+image: art/the_usual_suspects__by_space_monkey.jpg
+header-img: art/the_usual_suspects__by_space_monkey.jpg
 tags:
   - tutorials
 categories:
@@ -15,7 +15,7 @@ categories:
 
   
 
-[![A painting class at my old studio, I'm in the far back row helping a painter](https://2.bp.blogspot.com/-Zkzb0SgV77Q/WsJIbz7J8uI/AAAAAAAALbQ/AJ151y6oupMgO50mut-DGkTApwf30_LiQCLcBGAs/s320/16831085_1300769456682379_1155257373786239318_n.webp)](https://2.bp.blogspot.com/-Zkzb0SgV77Q/WsJIbz7J8uI/AAAAAAAALbQ/AJ151y6oupMgO50mut-DGkTApwf30_LiQCLcBGAs/s1600/16831085_1300769456682379_1155257373786239318_n.webp){: class="left" }
+[![A painting class at my old studio, I'm in the far back row helping a painter](https://2.bp.blogspot.com/-Zkzb0SgV77Q/WsJIbz7J8uI/AAAAAAAALbQ/AJ151y6oupMgO50mut-DGkTApwf30_LiQCLcBGAs/s320/16831085_1300769456682379_1155257373786239318_n.jpg)](https://2.bp.blogspot.com/-Zkzb0SgV77Q/WsJIbz7J8uI/AAAAAAAALbQ/AJ151y6oupMgO50mut-DGkTApwf30_LiQCLcBGAs/s1600/16831085_1300769456682379_1155257373786239318_n.jpg){: class="left" }
 
 So, you're thinking about taking a drink and paint class?
 
@@ -30,7 +30,7 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 1\. First of all, You are brave for putting yourself out there.
 ---------------------------------------------------------------
 
-[![A little girl practices her class instruction skills](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s320/22007592_531506623853047_3592575859605165402_n.webp)](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s1600/22007592_531506623853047_3592575859605165402_n.webp){: class="left" } There is definitely an amount of vulnerability that comes with putting yourself in a new situation where you have to learn something on the fly. It can be scary stepping into the unknown.  
+[![A little girl practices her class instruction skills](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s320/22007592_531506623853047_3592575859605165402_n.jpg)](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s1600/22007592_531506623853047_3592575859605165402_n.jpg){: class="left" } There is definitely an amount of vulnerability that comes with putting yourself in a new situation where you have to learn something on the fly. It can be scary stepping into the unknown.  
   
  I try to imagine myself in the shoes of a first time painter. A newbie still has to learn the ropes- and it may have been years since you last painted, for some their last time was in grade school or earlier! It takes bravery to try something again after that long. Give yourself a chance to try again without worrying too much about failure, and don't be afraid to ask questions!  
   
@@ -45,7 +45,7 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 2\. Your painting doesn't have to turn out exactly like the example
 -------------------------------------------------------------------
 
-[![A painter shows off her customized skeleton swing painting](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s320/22046950_531505847186458_7576332721415401439_n.webp)](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s1600/22046950_531505847186458_7576332721415401439_n.webp){: class="left" }
+[![A painter shows off her customized skeleton swing painting](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s320/22046950_531505847186458_7576332721415401439_n.jpg)](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s1600/22046950_531505847186458_7576332721415401439_n.jpg){: class="left" }
 
 A lot of people get caught up in the idea that their painting has to look EXACTLY like the example they're copying from, and frankly that's just setting themselves up for trouble. I always tell painters this: If you could copy the painting exactly, you would have to literally be a copy machine. And you are not a machine, you're a human. You can't capture lightning in a bottle, but you can most certainly create your own light.  
   
@@ -66,7 +66,7 @@ Don't bring your genuine Louis Vuitton purse and expect paint not to get on it! 
 Instead, wear something comfortable, perhaps an old work shirt and pants you don't care about. Don't wear crazy shoes either, please. Once, I dropped an entire paint bottle and it splashed on this guy's fancy shoes and I felt awful! Phones also often get dropped for some reason, so keep it in an (inexpensive) purse or in your pocket when possible.  
   
 
-[![A bridal shower celebrates their paintings](https://3.bp.blogspot.com/-GlkyTLN3s20/WsJSb4CvgPI/AAAAAAAALcA/k1LG71roms4-JhgUGAf8wfivp0AlLAMmACLcBGAs/s400/mar5IMG_20170304_212828206.webp)](https://3.bp.blogspot.com/-GlkyTLN3s20/WsJSb4CvgPI/AAAAAAAALcA/k1LG71roms4-JhgUGAf8wfivp0AlLAMmACLcBGAs/s1600/mar5IMG_20170304_212828206.webp){: class=" large center" }
+[![A bridal shower celebrates their paintings](https://3.bp.blogspot.com/-GlkyTLN3s20/WsJSb4CvgPI/AAAAAAAALcA/k1LG71roms4-JhgUGAf8wfivp0AlLAMmACLcBGAs/s400/mar5IMG_20170304_212828206.jpg)](https://3.bp.blogspot.com/-GlkyTLN3s20/WsJSb4CvgPI/AAAAAAAALcA/k1LG71roms4-JhgUGAf8wfivp0AlLAMmACLcBGAs/s1600/mar5IMG_20170304_212828206.jpg){: class=" large center" }
 
   
 
@@ -85,7 +85,7 @@ This is also true if your drink and paint party is located at a bar or restauran
   
   
 
-[![A woman customizing her painting](https://3.bp.blogspot.com/-oY1k-Q7Bfik/WsJVu2vouJI/AAAAAAAALcI/ohjvkYzYawkFgajPjWIiaeyQO5pc9SQ7wCLcBGAs/s400/19621110_489480914722285_3284929249431895725_o.webp)](https://3.bp.blogspot.com/-oY1k-Q7Bfik/WsJVu2vouJI/AAAAAAAALcI/ohjvkYzYawkFgajPjWIiaeyQO5pc9SQ7wCLcBGAs/s1600/19621110_489480914722285_3284929249431895725_o.webp){: class="medium center" }
+[![A woman customizing her painting](https://3.bp.blogspot.com/-oY1k-Q7Bfik/WsJVu2vouJI/AAAAAAAALcI/ohjvkYzYawkFgajPjWIiaeyQO5pc9SQ7wCLcBGAs/s400/19621110_489480914722285_3284929249431895725_o.jpg)](https://3.bp.blogspot.com/-oY1k-Q7Bfik/WsJVu2vouJI/AAAAAAAALcI/ohjvkYzYawkFgajPjWIiaeyQO5pc9SQ7wCLcBGAs/s1600/19621110_489480914722285_3284929249431895725_o.jpg){: class="medium center" }
 
   
 
@@ -99,7 +99,7 @@ Don't be too afraid of messing up or looking foolish, just try your best. Being 
 If your painting doesn't turn out good, don't get embarrassed and upset! Think about it this way instead - this painting represents an experience that you had with loved ones. It's a memory captured on canvas, not a Rembrandt masterpiece! If you want your painting to be "perfect" you will have to have more than one painting under your belt first. Challenge yourself to go out of your comfort zone more often. You may just discover something new about yourself.  
   
 
-[![My first painting class I instructed, a party to celebrate friendship](https://2.bp.blogspot.com/-qzm4MxS1FyI/WsK-UmY01qI/AAAAAAAALco/KKNujTXtiQwuAd75_Pdvw6V1bX_OdYXMgCLcBGAs/s400/mar5.webp)](https://2.bp.blogspot.com/-qzm4MxS1FyI/WsK-UmY01qI/AAAAAAAALco/KKNujTXtiQwuAd75_Pdvw6V1bX_OdYXMgCLcBGAs/s1600/mar5.webp){: class="medium center" }
+[![My first painting class I instructed, a party to celebrate friendship](https://2.bp.blogspot.com/-qzm4MxS1FyI/WsK-UmY01qI/AAAAAAAALco/KKNujTXtiQwuAd75_Pdvw6V1bX_OdYXMgCLcBGAs/s400/mar5.jpg)](https://2.bp.blogspot.com/-qzm4MxS1FyI/WsK-UmY01qI/AAAAAAAALco/KKNujTXtiQwuAd75_Pdvw6V1bX_OdYXMgCLcBGAs/s1600/mar5.jpg){: class="medium center" }
 
   
 

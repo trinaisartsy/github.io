@@ -1,7 +1,7 @@
 ---
 layout: "page"
 category: "services"
-header-img: "art/IMG_0738.webp"
+header-img: "art/IMG_0738.jpg"
 ---
 
 Visual Arts Tutoring Services
