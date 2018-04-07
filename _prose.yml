@@ -45,7 +45,7 @@ prose:
     - /bower.json
     - /favicon.ico
     - /feed.xml
-    - /logo.png
+    - /img/logo.png
     - /package.json
     - /search.html
     - /search.json
