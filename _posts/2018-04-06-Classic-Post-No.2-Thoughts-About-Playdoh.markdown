@@ -20,7 +20,7 @@ I had this strong urge to make some rune stones from clay. I've done it before w
  
 On a random aisle I spied big packs of Play Doh on sale for $1.75 a piece. I thought, shoot, for that price, why not give it a try? So when I go to buy them, to my utter surprise they ring up 50 cents a piece for a roughly 10 oz bag of Play Doh. It was an incredible deal considering that in the crafts section they were selling 2 ounce cups of the stuff for an insane mark up.  
 [![](http://github.io/media/41p-QHJFiaL.jpg)](http://github.io/media/41p-QHJFiaL.jpg){: class="center medium" }
-[![Soft Pack Playdoh](http://github.io/media/41p-QHJFiaL.jpg)] (http://github.io/media/41p-QHJFiaL.jpg){: class="left" }
+[![Soft Pack Playdoh](media/41p-QHJFiaL.jpg)] (/media/41p-QHJFiaL.jpg){: class="left" }
 
 I scurry my loot back home and get to work. And after getting past the initial stigma of "Play Doh is for babies" I actually really start to like the medium I'm working with. Unlike air dry clay, Play Doh was a lot less difficult to work with in a lot of ways. It wasn't as messy and it didn't dry out as fast as air dry clay. It has a smooth and almost plasticky texture and was easy to manipulate with tools and my hands. As I worked with the Play Doh I couldn't help but wonder how it would hold up compared to the other clay that was designed to harden and "keep forever."
 
@@ -100,7 +100,7 @@ Curious on other options for sealants I decided to pick the brain of [Lacy Knuds
 
   
 
-[![Play Doh Mosaic by Lacy Knudson Dozayix](https://twistedsifter.files.wordpress.com/2013/11/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.webp)](https://twistedsifter.files.wordpress.com/2013/11/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.webp){: class="center medium" } 
+[![Play Doh Mosaic by Lacy Knudson Dozayix](media/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.jpg)](media/play-doh-mosaic-artwork-lacy-knudson-dozayix-14.jpg){: class="center medium" } 
 
 One of [Lacy's Knudson](http://www.dozayix.com/)'s mosaics "A New World"  
 made completely out of Play Doh featuring a shiny resin finish.
