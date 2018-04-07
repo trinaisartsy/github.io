@@ -5,11 +5,6 @@ subtitle: Aka The Bone Chime
 active: journal
 image: art/BoneChime1.webp
 header-img: art/BoneChime1.webp
-tags:
-  - local
-  - thing
-  - fun
-  - whatever
 categories:
   - blog
 ---
@@ -19,12 +14,13 @@ _Originally Published 8 / 13_
 I am excited to finally reveal a brand new wind chime! I created this one out of sea shells and drift wood that I found at a recent trip to Charleston's own Folly Beach this summer. I call it my "Bone Chime" because the sound of the shells kind of sounds like bones clanging up against each other... not like I would know what that sounds like or anything.  
   
 
-[![](https://1.bp.blogspot.com/-VXyG_l67P44/UhrgD2Msn7I/AAAAAAAAC0M/UM1RcEWnSQ0/s640/BoneChime1.webp)](http://1.bp.blogspot.com/-VXyG_l67P44/UhrgD2Msn7I/AAAAAAAAC0M/UM1RcEWnSQ0/s1600/BoneChime1.webp)
+[![Sea Shell Wind Chime](https://1.bp.blogspot.com/-VXyG_l67P44/UhrgD2Msn7I/AAAAAAAAC0M/UM1RcEWnSQ0/s640/BoneChime1.webp)](http://1.bp.blogspot.com/-VXyG_l67P44/UhrgD2Msn7I/AAAAAAAAC0M/UM1RcEWnSQ0/s1600/BoneChime1.webp){: class="large center clear" }
 
+<!--more-->
 **"The Bone Chime"**  
-  
+ 
 
-[![](https://4.bp.blogspot.com/-YeUWEd5LwUY/UhrgC70vJGI/AAAAAAAAC0A/X5ihdHy5JVk/s320/DSCF3657.webp)](http://4.bp.blogspot.com/-YeUWEd5LwUY/UhrgC70vJGI/AAAAAAAAC0A/X5ihdHy5JVk/s1600/DSCF3657.webp)
+[![Folly Beach Sea Shells](https://4.bp.blogspot.com/-YeUWEd5LwUY/UhrgC70vJGI/AAAAAAAAC0A/X5ihdHy5JVk/s320/DSCF3657.webp)](http://4.bp.blogspot.com/-YeUWEd5LwUY/UhrgC70vJGI/AAAAAAAAC0A/X5ihdHy5JVk/s1600/DSCF3657.webp){: class="left medium" }
 
   
 
@@ -36,13 +32,9 @@ I wanted to find out how these "magical" holes turned up in those shells in the 
   
   
 
-[![](https://4.bp.blogspot.com/-buWSdZQxAfw/UhrgEBcgSkI/AAAAAAAAC0Q/wVDFUA4JHmM/s400/DSCF3658.webp)](http://4.bp.blogspot.com/-buWSdZQxAfw/UhrgEBcgSkI/AAAAAAAAC0Q/wVDFUA4JHmM/s1600/DSCF3658.webp)
+[![Sea Shell Wind Chime by Trina Lyn Close Up](https://4.bp.blogspot.com/-buWSdZQxAfw/UhrgEBcgSkI/AAAAAAAAC0Q/wVDFUA4JHmM/s400/DSCF3658.webp)](http://4.bp.blogspot.com/-buWSdZQxAfw/UhrgEBcgSkI/AAAAAAAAC0Q/wVDFUA4JHmM/s1600/DSCF3658.webp){: class="right medium" }
 
-Other shells had their inhabitants plucked out by birds-  
-these shells had jagged chunks missing instead  
-of the perfect and uniform bores of the moon snails.
-
-After doing a little research, I find it kind of ironic that something beautiful can be made out of something so brutal.  
+Other shells had their inhabitants plucked out by birds- these shells had jagged chunks missing instead  of the perfect and uniform bores of the moon snails. After doing a little research, I find it kind of ironic that something beautiful can be made out of something so brutal.  
   
 Here's a brief explanation by [M. Paul Monfils](http://www.seashell-collector.com/beginners/faq-f46/page_926.html)-  
   
@@ -55,27 +47,17 @@ I read on to discover that [this process is also painfully slow](http://butterfl
   
   
 
-[![](https://4.bp.blogspot.com/-3VR9eF-qJ90/UhrgFxhKqkI/AAAAAAAAC0o/2ES8BxZ_l0g/s400/BoneChime2.webp)](http://4.bp.blogspot.com/-3VR9eF-qJ90/UhrgFxhKqkI/AAAAAAAAC0o/2ES8BxZ_l0g/s1600/BoneChime2.webp)
-
-  
-
-  
+[![Sea Shell Wind Chime by Trina Lyn](https://4.bp.blogspot.com/-3VR9eF-qJ90/UhrgFxhKqkI/AAAAAAAAC0o/2ES8BxZ_l0g/s400/BoneChime2.webp)](http://4.bp.blogspot.com/-3VR9eF-qJ90/UhrgFxhKqkI/AAAAAAAAC0o/2ES8BxZ_l0g/s1600/BoneChime2.webp){: class="left medium" }
 
 According to these facts, not only were the shells eaten alive, but they were practically tortured by the moon snails in the long, drawn out process of being devoured.
-
-  
-
 Knowing this morbid fact about the shells made me feel somewhat remorseful for using them in such a whimsical way. But at the same time, I felt it had given these poor creatures some sort of extra purpose besides being a small snack for a snail. 
-
-  
-
 In a way, this truly is a bone wind chime because it is made from the "bones" of the unfortunate mollusks that didn't get to continue living their little clammy lives.
 
   
   
 
 
-[![](https://3.bp.blogspot.com/-RuI9JsdcLyA/Uhrsg8Al2xI/AAAAAAAAC04/jFOuvixbaIs/s400/DSCF3664.webp)](http://3.bp.blogspot.com/-RuI9JsdcLyA/Uhrsg8Al2xI/AAAAAAAAC04/jFOuvixbaIs/s1600/DSCF3664.webp)
+[![Drift wood was used for the base of this wind chime.](https://3.bp.blogspot.com/-RuI9JsdcLyA/Uhrsg8Al2xI/AAAAAAAAC04/jFOuvixbaIs/s400/DSCF3664.webp)](http://3.bp.blogspot.com/-RuI9JsdcLyA/Uhrsg8Al2xI/AAAAAAAAC04/jFOuvixbaIs/s1600/DSCF3664.webp) {: class="center medium" }
 
 Unconventional drift wood was used for the base of this wind chime.
 
@@ -83,6 +65,6 @@ On a more positive note, I also found this beautiful piece of "drift wood" at Fo
   
   
 
-[![](https://2.bp.blogspot.com/-1S4idtlD3jA/UhrgFdOl6tI/AAAAAAAAC0Y/y1DbBm0IapI/s640/DSCF3665.webp)](http://2.bp.blogspot.com/-1S4idtlD3jA/UhrgFdOl6tI/AAAAAAAAC0Y/y1DbBm0IapI/s1600/DSCF3665.webp)
+[![The shell bone wind chime posing outdoors with an unfortunate duo... a pair of snails.](https://2.bp.blogspot.com/-1S4idtlD3jA/UhrgFdOl6tI/AAAAAAAAC0Y/y1DbBm0IapI/s640/DSCF3665.webp)](http://2.bp.blogspot.com/-1S4idtlD3jA/UhrgFdOl6tI/AAAAAAAAC0Y/y1DbBm0IapI/s1600/DSCF3665.webp){: class="center full" }
 
 The shell bone wind chime posing outdoors with an unfortunate duo... a pair of snails.
