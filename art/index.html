@@ -20,15 +20,20 @@ header-img: "art/forshortening.jpg"
 			<div class="gallery masonry-gallery">
 				
 			{% for image in site.static_files %}
-				{% if image.path contains 'art/' %}	
+				{% if image.path contains 'art/' %}				
+				{% unless image.path contains 'thumbs' %}
+				{% assign rendered = image.relative_path %}
+				{% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
+
 					{% assign rendered = false %}
 					{% for post in site.art %}
 						{% if image.path contains post.image %}	
-							{% assign rendered = image.path %}
 							<figure class="gallery-item">
 								<header class='gallery-icon'>
-									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ post.title }}" data-caption=" <a href='{{ post.url }}'><b>Learn More</b></a>">
-									<img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
+									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ post.title }}" data-caption=" <a href='{{ post.url }}'><b>Learn More</b></a>"></a>
+										{% capture imgsrc %}{% thumbnail imagepath 500x500 %}{% endcapture %}
+										{{ imgsrc | replace: "src='", "src='/" }}
+									</a>
 								</header>	
 								<figcaption class='gallery-caption'>
 									<div class="entry-summary" id="{{ image.path }}">
@@ -43,7 +48,9 @@ header-img: "art/forshortening.jpg"
 						<figure class="gallery-item">
 							<header class='gallery-icon'>
 								<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="" data-caption="">
-								<img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
+									{% capture imgsrc %}{% thumbnail imagepath 500x500 %}{% endcapture %}
+									{{ imgsrc | replace: "src='", "src='/" }}
+								</a>
 							</header>	
 							<figcaption class='gallery-caption'>
 								<div class="entry-summary" id="{{ image.path }}">
@@ -53,6 +60,7 @@ header-img: "art/forshortening.jpg"
 						</figure>
 					{% endif %}
 			
+				{% endunless %}
 				{% endif %}
 			{% endfor %}
 
