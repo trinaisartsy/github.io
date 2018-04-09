@@ -450,3 +450,7 @@ article .right, #post-content .right {
 article .clear, #post-content .clear {
   clear: all;
 } 
+
+.fancytextborder {
+  margin-right:1em; text-shadow: -.025em -.025em 0 rgba(0, 133, 161, 0.75), .025em -.025em 0 rgba(0, 133, 161, 0.75), -.025em .025em 0 rgba(0, 133, 161, 0.75), .025em .025em 0 rgba(0, 133, 161, 0.75);
+}
