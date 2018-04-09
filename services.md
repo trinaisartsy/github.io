@@ -1,11 +1,12 @@
 ---
 layout: "page"
+title: Visual Arts Tutoring Services
+description: Information about the educational work that Trina offers
 category: "services"
 header-img: "art/IMG_0738.jpg"
 ---
 
-Visual Arts Tutoring Services
-------------------------------------------------
+
 
   
 
