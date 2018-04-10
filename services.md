@@ -4,7 +4,7 @@ title: Visual Arts Tutoring Services
 description: Information about the educational work that Trina offers
 category: "services"
 active: services
-header-img: "media/banner.jpg"
+header-img: "media/servicesbanner.jpg"
 ---
 
 
