@@ -64,7 +64,8 @@ layout: default
 {% if post.price %}                    
 <!-- BEGIN PAYPAL BUTTON --> 
 
-<span style="float: left" id="buyme">${{ post.price }}&nbsp;&nbsp;</span>
+<div>
+<h2>${{ post.price }}</h2>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="{{ site.paypal }}">
