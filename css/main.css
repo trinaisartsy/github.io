@@ -504,3 +504,25 @@ article .clear, #post-content .clear {
 .newsletter #submit {
   background-color:#9c869c;
 }
+
+#donate {
+  z-index: 10000;
+  position: absolute;
+  right: 10px;
+  top: 60px;
+}
+
+#donate:hover {
+  opacity: .8;
+}
+
+@media only screen and (max-width: 768px) {
+  #donate {
+    z-index: 10000;
+    position: absolute;
+    right: 10px;
+    top: 60px;
+    width: 20px;
+    height: 50px;
+  }
+}

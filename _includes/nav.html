@@ -23,7 +23,7 @@
           {% endfor %}
         {% endfor %}
 
-<!--- add to cart -->
+<!--- view cart button -->
         <li>
             <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                 <!-- Identify your business so that you can collect the payments. -->
@@ -40,7 +40,7 @@
                     src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
             </form>
         </li>
-<!-- /add to cart -->
+<!-- /view cart button -->
 
             </ul>
         </div>
@@ -53,3 +53,12 @@
 
    
 </nav>
+
+<form id="donate" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="FXR885JK6X354">
+    <input type="image" src="/img/donate.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+    
+
