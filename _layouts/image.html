@@ -82,7 +82,7 @@ layout: default
 <input type="hidden" name="button_subtype" value="products">
 <input type="hidden" name="add" value="1">
 <input type="hidden" name="bn" value="PP-ShopCartBF:btn_cart_LG.gif:NonHosted">
-<input class="addtocart-button" onclick="dataLayer.push({'event': 'add-to-cart', 'item': '{{ post.title }}', 'price': '{{ post.price }}'}); form.submit(); return false;" type="image" src="/img/add-to-cart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="addtocart-button" onclick="Cookies.set('addtocart', 'true'); dataLayer.push({'event': 'add-to-cart', 'item': '{{ post.title }}', 'price': '{{ post.price }}'}); form.submit(); return false;" type="image" src="/img/add-to-cart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
@@ -140,7 +140,11 @@ layout: default
 
 <!-- jQuery -->    
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+
+<script src="//cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+
+
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <!-- Custom Theme JavaScript -->
 <script src="{{ site.baseurl }}/js/main.min.js "></script>
