@@ -15,52 +15,47 @@ header-img: "media/banner3.png"
  
 	<section id="content" role="main">
 		<div class="wrapper">
-	<br><br>
+			<br><br>
 			<!-- Gallery __-->
 			<div class="gallery masonry-gallery">
 				
+			<!-- we want to loop through each image and determine if we want to display -->
 			{% for image in site.static_files %}
-				{% if image.path contains 'art/' %}				
-				{% unless image.path contains 'thumbs' %}
-				{% assign rendered = image.relative_path %}
-				{% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
+				
+				<!-- default values -->
+				{% assign title = "Zoom" %}
+				{% assign url = "#" %}
 
-					<!-- {% assign rendered = false %}
-					{% for post in site.art %}
-						{% if image.path contains post.image %}	
+				<!--- this page only applies to stuff in an art directory -->
+				{% if image.path contains 'art/' %}				
+					<!-- some logic to use thumbnails if available -->
+					{% unless image.path contains 'thumbs' %}
+						{% assign rendered = image.relative_path %}
+						{% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
+						<!-- lets pull out any useful meta about this image from the loaded post/markdown -->
+						{% for post in site.art %}
+							{% if image.path contains post.image %}	
+								{% assign title = post.title %}
+								{% assign url = post.url %}
+							{% endif %}
+						{% endfor %} 
+						<!-- template -->
+						{% if rendered != image.path %}	
 							<figure class="gallery-item">
 								<header class='gallery-icon'>
-									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ post.title }}" data-caption=" <a href='{{ post.url }}'><b>Learn More</b></a>"></a>
+									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ title }}" data-caption="<a href='{{ url }}'><b>Learn More</b></a>">
 										{% capture imgsrc %}{% thumbnail imagepath 500x500 %}{% endcapture %}
 										{{ imgsrc | replace: "src='", "src='/" }}
 									</a>
 								</header>	
 								<figcaption class='gallery-caption'>
 									<div class="entry-summary" id="{{ image.path }}">
-										<h3>{{post.title}}</h3>
+										<h3>{{ title }}</h3>							
 									</div>
 								</figcaption>
 							</figure>
-						{% endif %}
-					{% endfor %} -->
-
-					{% if rendered != image.path %}	
-						<figure class="gallery-item">
-							<header class='gallery-icon'>
-								<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="" data-caption="">
-									{% capture imgsrc %}{% thumbnail imagepath 500x500 %}{% endcapture %}
-									{{ imgsrc | replace: "src='", "src='/" }}
-								</a>
-							</header>	
-							<figcaption class='gallery-caption'>
-								<div class="entry-summary" id="{{ image.path }}">
-									<h3>Zoom</h3>							
-								</div>
-							</figcaption>
-						</figure>
-					{% endif %}
-			
-				{% endunless %}
+						{% endif %}				
+					{% endunless %}
 				{% endif %}
 			{% endfor %}
 
