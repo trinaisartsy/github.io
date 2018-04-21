@@ -22,7 +22,27 @@
             {% endif %}
           {% endfor %}
         {% endfor %}
-                            </ul>
+
+<!--- add to cart -->
+        <li>
+            <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <!-- Identify your business so that you can collect the payments. -->
+                <input type="hidden" name="business" value="{{ site.paypal }}">
+            
+                <!-- Specify a PayPal shopping cart View Cart button. -->
+                <input type="hidden" name="cmd" value="_cart">
+                <input type="hidden" name="display" value="1">
+            
+                <!-- Display the View Cart button. -->
+                <input class="view-cart" type="image" name="submit" onclick="dataLayer.push({'event': 'view-cart'});form.submit(); return false"
+                    src="/img/cart-empty.png" alt="Add to Cart">
+                <img alt="" width="1" height="1"
+                    src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+            </form>
+        </li>
+<!-- /add to cart -->
+
+            </ul>
         </div>
 
 
@@ -33,22 +53,3 @@
 
    
 </nav>
-
-
-
-
-<form style="position: fixed; top: 50px; right: 10px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-    <!-- Identify your business so that you can collect the payments. -->
-    <input type="hidden" name="business" value="{{ site.paypal }}">
-
-    <!-- Specify a PayPal shopping cart View Cart button. -->
-    <input type="hidden" name="cmd" value="_cart">
-    <input type="hidden" name="display" value="1">
-
-    <!-- Display the View Cart button. -->
-    <input type="image" name="submit" onclick="dataLayer.push({'event': 'view-cart'});form.submit(); return false"
-        src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_LG.gif"
-       alt="Add to Cart">
-    <img alt="" width="1" height="1"
-        src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
-</form>

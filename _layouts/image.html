@@ -64,8 +64,7 @@ layout: default
 {% if post.price %}                    
 <!-- BEGIN PAYPAL BUTTON --> 
 
-
- <span style="float: left" id="buyme">${{ post.price }}&nbsp;&nbsp;</span>
+<span style="float: left" id="buyme">${{ post.price }}&nbsp;&nbsp;</span>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="{{ site.paypal }}">
@@ -76,10 +75,10 @@ layout: default
 <input type="hidden" name="button_subtype" value="products">
 <input type="hidden" name="add" value="1">
 <input type="hidden" name="bn" value="PP-ShopCartBF:btn_cart_LG.gif:NonHosted">
-<input onclick="dataLayer.push({'event': 'add-to-cart', 'item': '{{ post.title }}', 'price': '{{ post.price }}'}); form.submit(); return false;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input onclick="dataLayer.push({'event': 'add-to-cart', 'item': '{{ post.title }}', 'price': '{{ post.price }}'}); form.submit(); return false;" type="image" src="/img/cart-full.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
+</div>
 {% endif %}
 
 <!-- END PAYPAL BUTTON ADD -->

@@ -454,3 +454,7 @@ article .clear, #post-content .clear {
 .fancytextborder {
   margin-right:1em; text-shadow: -.025em -.025em 0 rgba(102, 0, 85, 0.75), .025em -.025em 0 rgba(102, 0, 85, 0.75), -.025em .025em 0 rgba(102, 0, 85, 0.75), .025em .025em 0 rgba(102, 0, 85, 0.75);
 }
+
+.view-cart {
+  float: right; display: block; margin-top: 13px; width: 36px;
+}
