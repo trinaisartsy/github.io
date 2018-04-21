@@ -7,4 +7,6 @@ active: services
 header-img: "media/servicesbanner.jpg"
 ---
 
-<center>Thanks for your purchase! Information about your order will be sent to you via PayPal.<center>
+<center>Thank you for your payment. Your transaction has been completed, and a receipt for your purchase has been emailed to you. You may log into your account at www.paypal.com to view details of this transaction.<center>
+
+<script>dataLayer.push({'event': 'order-success'});</script>
