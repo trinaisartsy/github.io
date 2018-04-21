@@ -7,6 +7,7 @@ baseurl: ""
 facebook_username: "trinaisartsy"
 twitter_username: "trina_is_artsy"
 instagram_username: "trinaisartsy"
+gtmid: "GTM-N9RC8QC"
 # github_username:  "trinaisartsy"
 # deviantart_username: "trinaisartsy"
 flickr_username: "trinaisartsyfartsy"
@@ -15,6 +16,7 @@ paypal: "ER3YV7DCSRWZU"
 share: true
 excerpt_separator: "<!--more-->"
 header-img: art/the_usual_suspects__by_space_monkey.jpg
+
 
 
 collections:
