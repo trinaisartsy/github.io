@@ -492,5 +492,15 @@ article .clear, #post-content .clear {
 
 }
 
+.newsletter {
+  background-color: #725377;
+  color: white;
+}
 
+.newsletter #tlemail {
+  background-color: #e6d0e6;
+}  
 
+.newsletter #submit {
+  background-color:#9c869c;
+}
