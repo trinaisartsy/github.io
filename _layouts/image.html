@@ -63,9 +63,15 @@ layout: default
 
 {% if post.price %}                    
 <!-- BEGIN PAYPAL BUTTON --> 
+<br>
+<center>
 
-<div>
-<h2>${{ post.price }}</h2>
+<div class="addtocart">
+
+
+
+
+
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="{{ site.paypal }}">
@@ -76,10 +82,21 @@ layout: default
 <input type="hidden" name="button_subtype" value="products">
 <input type="hidden" name="add" value="1">
 <input type="hidden" name="bn" value="PP-ShopCartBF:btn_cart_LG.gif:NonHosted">
-<input onclick="dataLayer.push({'event': 'add-to-cart', 'item': '{{ post.title }}', 'price': '{{ post.price }}'}); form.submit(); return false;" type="image" src="/img/add-to-cart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="addtocart-button" onclick="dataLayer.push({'event': 'add-to-cart', 'item': '{{ post.title }}', 'price': '{{ post.price }}'}); form.submit(); return false;" type="image" src="/img/add-to-cart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+
+<div>
+    <h2>${{ post.price }}</h2>
+    <sub>Free Shipping inside USA!</sub>
 </div>
+
+</div>
+</center>
+
+<hr>
+
 {% endif %}
 
 <!-- END PAYPAL BUTTON ADD -->
