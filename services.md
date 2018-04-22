@@ -14,22 +14,27 @@ I provide a number of creative services and I would be more than happy to take o
 
 I'm also very familiar with the foundation of art and design and have a background in teaching art classes to kids and adults. The perfect tutor for a kiddo preparing to apply to a visual arts magnet school or a budding artist trying to bulk up their portfolio. 
 
- 
+
   <a name="#commissions">1. Art Commissions (Status: Open) </a>
  
  
  
-[![](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s320/portrait.JPG)](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s1600/portrait.JPG)  
+[![](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s320/portrait.JPG)](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s1600/portrait.JPG){: class= "center full" } 
  
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
  # <a href="#commissions">Art Commissions (Status: OPEN)</a>
-------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
 
 Want an original piece of artwork from Trina Lyn? You have a few options!
 
-  
+
+
+
 
 
 ## View the gallery and purchase an original (Prices & Size Vary)
@@ -41,13 +46,16 @@ Free Shipping inside the US
 
 
 
+
+
 ## Random Doodle Surprise Fun - ($11) Sized ~ 5" x 5" 
 
 Can't make a huge investment in artwork right now but still want to show your appreciation to the artist? Purchase a random doodle from Trina, sized approximately 5" x 5" and of random medium. What kind of weird drawing will you get? It will be a surprise!
 
 Free shipping inside the US
 
-  
+
+
 
 
 
@@ -56,9 +64,8 @@ Free shipping inside the US
 
 Have a project you think I'd be perfect for? I'd love to create a masterpiece for you! Contact me to discuss options for your original artwork. Tell me your vision and we will come up with the concept together including medium and size. This payment will be a deposit on the finished piece. 
 
-  
 
-  
+
 
 
 
@@ -76,10 +83,11 @@ Have a project you think I'd be perfect for? I'd love to create a masterpiece fo
 *   Inquire about Sliding Scale Options
 *   After booking, I will contact you to discuss specifics about time and location.
 *   For more information about paying in person, [shoot me an e-mail.](mailto:trinaisartsy@gmail.com)  
-    
 
 
-  
+
+
+
 
 ## College Bound Students: AP Art Portfolio Prep
 
@@ -87,12 +95,9 @@ _$60_
 _1.5 hour session_  
 _Skype Sessions Available_
 
-  
-
 
 Students will bring their current portfolio for review. We will analyze the requirements for the AP Art portfolio and begin organizing plans for artwork that will apply to those requirements. We will discuss the elements of design, how to correctly photograph artworks for digital display and how to properly prepare a portfolio for submission to the College Board.
 
-  
 
 
 
@@ -105,11 +110,12 @@ _1.5 hour session_
 _Skype Sessions Available_
 
  
-
 Students will bring their current portfolio (if available) for review. We will analyze the application requirements for the student's audition and begin organizing plans for artwork that will apply to those requirements. We will prepare for the in person interview / exam by going over what will be expected of the student the day of the interview, including questions they may be asked and by being familiarized with still life drawings, gestural drawings, and sketches.
 
 
-  
+
+
+
 
 ## Sketchbooks 101
 
@@ -119,15 +125,12 @@ _Some supplies provided_
 
 You will provide your own sketchbook. We will get started personalizing and adding inspiration to your book, adding in drawing prompts and exercises to get your creative juices flowing. Some supplies provided, but it's encouraged to bring your favorite art supplies as well.
 
-  
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Pick Trina as Your Artist?
 ------------------------------
 
@@ -141,9 +144,9 @@ Skype Session Available - Too far away to make it to class? Book a class via Sky
   
   
   
-
+----------------------------------------------------------------------------------------------------------------------------------------
 Testimonials and Praise
------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   
 
@@ -163,7 +166,7 @@ _"Trina helped guide me when I first started working at Wine and Design and I wa
 
 **Positive Reviews captured from my time teaching at Wine & Design:**
 
-[![](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png)](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png) {: class=" center full" }
+[![](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png)](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png){: class= "center full" }
 
 
 
