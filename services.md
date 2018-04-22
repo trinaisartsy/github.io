@@ -12,16 +12,19 @@ Need an artist who will take pride in their work, follow through with projects a
 
 I provide a number of creative services and I would be more than happy to take on your next big idea. 
 
-I'm also very familiar with the foundation of art and design and have a background in teaching art classes to kids and adults- the perfect tutor for a kiddo preparing to apply to a visual arts magnet school or a budding artist trying to bulk up their portfolio. 
-
-  
-[![](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s320/portrait.JPG)](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s1600/portrait.JPG) {: class="center medium" }
+I'm also very familiar with the foundation of art and design and have a background in teaching art classes to kids and adults. The perfect tutor for a kiddo preparing to apply to a visual arts magnet school or a budding artist trying to bulk up their portfolio. 
 
  
+  <a name="#commissions">1. Art Commissions (Status: Open) </a>
+ 
+ 
+ 
+[![](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s320/portrait.JPG)](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s1600/portrait.JPG)  
+ 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
-Art Commissions (Status: OPEN)
+ # <a href="#commissions">Art Commissions (Status: OPEN)</a>
 ------------------------------
 
 Want an original piece of artwork from Trina Lyn? You have a few options!
@@ -29,26 +32,16 @@ Want an original piece of artwork from Trina Lyn? You have a few options!
   
 
 
+## View the gallery and purchase an original (Prices & Size Vary)
 
-----------------------------------------------------------------------------------
+Already made artworks that are available for sale and are varying in price, size & media. To buy an artwork, click on the picture you like in the gallery and select "Learn More" at the bottom of the page. This will take you to the page where you can purchase it.
 
-View the gallery and purchase an original (Prices & Size Vary)
---------------------------------------------------------------
-
- Already made artworks that are available for sale and are varying in price, size & media. 
-
-  
+Free Shipping inside the US  
 
 
-
-----------------------------------------------------------------------------------------------------
-
-Random Doodle Surprise Fun - ($11) Sized ~ 5" x 5" 
----------------------------------------------------
+## Random Doodle Surprise Fun - ($11) Sized ~ 5" x 5" 
 
 Can't make a huge investment in artwork right now but still want to show your appreciation to the artist? Purchase a random doodle from Trina, sized approximately 5" x 5" and of random medium. What kind of weird drawing will you get? It will be a surprise!
-
-  
 
 Free shipping inside the US
 
@@ -56,10 +49,9 @@ Free shipping inside the US
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Custom Original Artwork (Starting at $50) Sized ~ 11 x 17" +
-------------------------------------------------------------
+## Custom Original Artwork (Starting at $50) Sized ~ 11 x 17" +
+
 
 Have a project you think I'd be perfect for? I'd love to create a masterpiece for you! Contact me to discuss options for your original artwork. Tell me your vision and we will come up with the concept together including medium and size. This payment will be a deposit on the finished piece. 
 
@@ -71,8 +63,10 @@ Have a project you think I'd be perfect for? I'd love to create a masterpiece fo
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Visual Arts Tutoring
+
+# Visual Arts Tutoring
 --------------------
+
 
 *   Currently Booking (2018)
 *   Located in the North Charleston / Goose Creek Area
@@ -84,7 +78,7 @@ Visual Arts Tutoring
 
   
 
-### College Bound Students: AP Art Portfolio Prep
+## College Bound Students: AP Art Portfolio Prep
 
 _$60_  
 _1.5 hour session_  
@@ -98,9 +92,8 @@ Students will bring their current portfolio for review. We will analyze the requ
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### School of the Arts Portfolio / Audition Prep
+## School of the Arts Portfolio / Audition Prep
 
 _$60_  
 _1.5 hour session_  
@@ -112,11 +105,7 @@ Students will bring their current portfolio (if available) for review. We will a
 
   
 
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Sketchbooks 101
+## Sketchbooks 101
 
 _$60_  
 _1.5 hour session_  
@@ -129,6 +118,7 @@ You will provide your own sketchbook. We will get started personalizing and addi
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Why Pick Trina as Your Artist?
 ------------------------------
@@ -153,7 +143,7 @@ Here's what others are saying about my work!
 
   
 
-_"__Trina helped guide me when I first started working at Wine and Design and I was impressed with her teaching and customer service skills. She is very creative and a gifted artist. I was also very impressed with my experience in working with Trina on a Fundraiser for The Flowertown Players Theater. Trina curated a pop up art show beautifully and completed set up, exhibition and take down in under 12 hours!"_ \- Heather J.
+_"Trina helped guide me when I first started working at Wine and Design and I was impressed with her teaching and customer service skills. She is very creative and a gifted artist. I was also very impressed with my experience in working with Trina on a Fundraiser for The Flowertown Players Theater. Trina curated a pop up art show beautifully and completed set up, exhibition and take down in under 12 hours!"_ \- Heather J.
 
   
 
@@ -163,11 +153,10 @@ _"__Trina helped guide me when I first started working at Wine and Design and I 
 
   
 
-  
-
 **Positive Reviews captured from my time teaching at Wine & Design:**
 
-[![](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png)](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png)
+[![](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png)](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png) {: class=" center full" }
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
