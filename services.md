@@ -39,6 +39,8 @@ Already made artworks that are available for sale and are varying in price, size
 Free Shipping inside the US  
 
 
+
+
 ## Random Doodle Surprise Fun - ($11) Sized ~ 5" x 5" 
 
 Can't make a huge investment in artwork right now but still want to show your appreciation to the artist? Purchase a random doodle from Trina, sized approximately 5" x 5" and of random medium. What kind of weird drawing will you get? It will be a surprise!
@@ -46,7 +48,6 @@ Can't make a huge investment in artwork right now but still want to show your ap
 Free shipping inside the US
 
   
-
 
 
 
@@ -64,6 +65,7 @@ Have a project you think I'd be perfect for? I'd love to create a masterpiece fo
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
 # Visual Arts Tutoring
 --------------------
 
@@ -76,6 +78,7 @@ Have a project you think I'd be perfect for? I'd love to create a masterpiece fo
 *   For more information about paying in person, [shoot me an e-mail.](mailto:trinaisartsy@gmail.com)  
     
 
+
   
 
 ## College Bound Students: AP Art Portfolio Prep
@@ -86,9 +89,11 @@ _Skype Sessions Available_
 
   
 
+
 Students will bring their current portfolio for review. We will analyze the requirements for the AP Art portfolio and begin organizing plans for artwork that will apply to those requirements. We will discuss the elements of design, how to correctly photograph artworks for digital display and how to properly prepare a portfolio for submission to the College Board.
 
   
+
 
 
 
@@ -99,9 +104,10 @@ _$60_
 _1.5 hour session_  
 _Skype Sessions Available_
 
-  
+ 
 
 Students will bring their current portfolio (if available) for review. We will analyze the application requirements for the student's audition and begin organizing plans for artwork that will apply to those requirements. We will prepare for the in person interview / exam by going over what will be expected of the student the day of the interview, including questions they may be asked and by being familiarized with still life drawings, gestural drawings, and sketches.
+
 
   
 
@@ -118,6 +124,8 @@ You will provide your own sketchbook. We will get started personalizing and addi
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 Why Pick Trina as Your Artist?
