@@ -18,9 +18,9 @@ Originally we were using github pages but with the heavy file sizes of the galle
 
 ## Paypal Support
 
-One of our goals is to give Trina an online ecommerce presence, so we're using Paypal's hosted cart to bring in those basic features.
+One of our goals is to give Trina an ecommerce presence, so we're using Paypal's hosted cart to bring in those basic features.
 
-Prices are determiend in markdown front matter, images in art/ that do not have a related markdown file in _art/ will not be purchasble (but could be with a default price, @todo ?). A user sees a product they link in the gallery with a markdown (blue girl, for example), click 'Learn More', sees an add to cart button. 
+Prices are determiend in markdown front matter, images in art/ that do not have a related markdown file in _art/ will not be purchasable (but could be with a default price, @todo ?). A user sees a product they link in the gallery with a markdown (blue girl, for example), click 'Learn More', sees an add to cart button. 
 
 Would like to have a mini-cart, a 'full cart' icon that isn't just setting a cookie when someone clicks a link, etc. We might adopt their checkout.js and implement this a little more cleanly, but the virtue of the paypal buttons is they are basically just the embedables. 
 
