@@ -1,7 +1,7 @@
 ---
 layout: "page"
-title: Visual Arts Tutoring Services
-description: Information about the educational work that Trina offers
+title: Visual Arts Services
+description: Info on how to book Trina for tutoring or commission work
 category: "services"
 active: services
 header-img: "media/servicesbanner.jpg"
@@ -15,7 +15,7 @@ I provide a number of creative services and I would be more than happy to take o
 I'm also very familiar with the foundation of art and design and have a background in teaching art classes to kids and adults- the perfect tutor for a kiddo preparing to apply to a visual arts magnet school or a budding artist trying to bulk up their portfolio. 
 
   
-[![](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s320/portrait.JPG)](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s1600/portrait.JPG)
+[![](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s320/portrait.JPG)](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s1600/portrait.JPG) {: class="center medium" }
 
  
 
