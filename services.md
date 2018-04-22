@@ -19,31 +19,28 @@ I'm also very familiar with the foundation of art and design and have a backgrou
  
  <br>
  
-[![](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s320/portrait.JPG)](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s1600/portrait.JPG){: class= "center full" } 
+[![](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s320/portrait.JPG)](https://2.bp.blogspot.com/-vNMLyy9gWtM/WtuyiXzIK1I/AAAAAAAAMF8/6mDUYRdXHGoO4y6oTT6CIOfZQWSXmcP4gCLcBGAs/s1600/portrait.JPG){: class="medium center" }
  
  <br>
- <br>
-----------------------------------------------------------------------------------------------------------------------------------------
 
+----------------------------------------------------------------------------------------------------------------------------------------
  # <a href="#commissions">Art Commissions (Status: OPEN)</a>
 ----------------------------------------------------------------------------------------------------------------------------------------
  <br> <br>
 Want an original piece of artwork from Trina Lyn? You have a few options!      
  
- <br>
- <br>
 ## View the gallery and purchase an original (Prices & Size Vary)
 
 Already made artworks that are available for sale and are varying in price, size & media. To buy an artwork, click on the picture you like in the gallery and select "Learn More" at the bottom of the page. This will take you to the page where you can purchase it.
 
 Free Shipping inside the US  
- <br> <br> <br>
+ <br> <br> 
 ## Random Doodle Surprise Fun - ($11) Sized ~ 5" x 5" 
 
 Can't make a huge investment in artwork right now but still want to show your appreciation to the artist? Purchase a random doodle from Trina, sized approximately 5" x 5" and of random medium. What kind of weird drawing will you get? It will be a surprise!
 
 Free shipping inside the US
- <br> <br> <br>
+ <br> <br>
 
 ## Custom Original Artwork (Starting at $50) Sized ~ 11 x 17" +
 
@@ -55,7 +52,6 @@ Have a project you think I'd be perfect for? I'd love to create a masterpiece fo
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Visual Arts Tutoring
 ----------------------------------------------------------------------------------------------------------------------------------------
-<br><br>
 
 *   Currently Booking (2018)
 *   Located in the North Charleston / Goose Creek Area
@@ -64,7 +60,7 @@ Have a project you think I'd be perfect for? I'd love to create a masterpiece fo
 *   After booking, I will contact you to discuss specifics about time and location.
 *   For more information about paying in person, [shoot me an e-mail.](mailto:trinaisartsy@gmail.com)  
 
-<br><br><br>
+<br><br>
 
 
 
@@ -78,7 +74,7 @@ _Skype Sessions Available_
 <br>
 Students will bring their current portfolio for review. We will analyze the requirements for the AP Art portfolio and begin organizing plans for artwork that will apply to those requirements. We will discuss the elements of design, how to correctly photograph artworks for digital display and how to properly prepare a portfolio for submission to the College Board.
 
-<br><br><br>
+<br><br>
 
 
 
@@ -88,11 +84,11 @@ Students will bring their current portfolio for review. We will analyze the requ
 _$60_  
 _1.5 hour session_  
 _Skype Sessions Available_
-<br>
- 
+
+  <br>
 Students will bring their current portfolio (if available) for review. We will analyze the application requirements for the student's audition and begin organizing plans for artwork that will apply to those requirements. We will prepare for the in person interview / exam by going over what will be expected of the student the day of the interview, including questions they may be asked and by being familiarized with still life drawings, gestural drawings, and sketches.
 
-<br><br><br>
+<br><br>
 
 
 
@@ -122,31 +118,27 @@ Skype Session Available - Too far away to make it to class? Book a class via Sky
   
 \* I could've done better on my AP art score, but I missed a lot of important things about the portfolio that in hindsight I would've fixed. If only I had someone to give me that advice!  I wrote about the experience on my blog - I highly recommend the read to any stressed out teen who is struggling with their portfolio.  
   
-  <br><br><br>
+  <br>
   
 ----------------------------------------------------------------------------------------------------------------------------------------
 Testimonials and Praise
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-  
-
 Here's what others are saying about my work!
 
-  <br><br>
+  <br>
 
 _"Trina helped guide me when I first started working at Wine and Design and I was impressed with her teaching and customer service skills. She is very creative and a gifted artist. I was also very impressed with my experience in working with Trina on a Fundraiser for The Flowertown Players Theater. Trina curated a pop up art show beautifully and completed set up, exhibition and take down in under 12 hours!"_ \- Heather J.
 
-  
+   <br>
 
 "_I got to know Trina under very unusual circumstances, but it’s through those circumstances that I got to know what a special person she truly is.  For years, I have wanted to buy myself a painting of a lion that “spoke to me.”  I had seen some of Trina's artwork, so one day I asked her to paint me a lion because I have never been able to find one I liked enough to buy. And believe me, I’ve looked. I explained to her what I wanted, and when I saw the finished product, I couldn’t have been happier. He’s perfect. He’s beautiful. I told Trina how grateful I was and how he was exactly what I wanted. It’s one of those situations where it turned out better than I could have ever imagined. She told me she painted it with love and I believe her. I know she did. I can tell she did. That’s just the type of person she is. She puts her heart, and more importantly her soul, into everything she does._"** - **Donna G.
 
-  
-
-  
+   <br>
 
 **Positive Reviews captured from my time teaching at Wine & Design:**
 
-[![](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png)](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png){: class= "center full" }
+[![](https://3.bp.blogspot.com/-oZkn6xq-3sk/WtuxH--TdFI/AAAAAAAAMFw/EhCDg0DPAkMqu_oWx7hmAkcxIzOFUqDqACLcBGAs/s1600/positive%2Breviews.png){: class="large center" }
 
 
 
