@@ -2,16 +2,9 @@ Trina is Artsy
 ==============
 A portfolio website built from Jekyll. Based on [photorama](https://sunbliss.github.io/photorama/ "Photorama Demo"), heavily modified. 
 
-
-## Why not github pages?
-
-We could have gotten away with github pages except for with all the images we needed a way to thumbnail them. There was just no way to do it there, and we didn't want to rely on some goofy CDN solution or the like. Besides, pagination, tags, categories are now within our grasp.
-
 ## Local Development
 
 There's some work you just can't do on the web, for this we must build the site locally:
-
-Very simple...
 
 ```
 $ bundle install
@@ -19,15 +12,21 @@ $ jekyll serve --watch
 ```
 
 ## Hosting
-[Netify](https://app.netlify.com/sites/trinaisartsy/) does a really good job so far and seems free for our uses. Will follow-up if they start trying to charge us. Originally we were using github pages but with the amount of photography and not wanting to box Trina into any set tag or category taxonomy, I decided to find something that let me compile things myself. 
+[Netify](https://app.netlify.com/sites/trinaisartsy/) does a really good job so far and seems free for our uses. It triggers when we push to this repo's master, it is deigned for staticly generated content so it's suited well for this, it's free, and it doesn't block us in on what gems we can use. Will follow-up if they start trying to charge us. 
+
+Originally we were using github pages but with the heavy file sizes of the gallery and not wanting to box Trina into any set tag or category taxonomy, we had to make a move.  
 
 ## Paypal Support
 
-One of our goals is to give Trina an online ecommerce presence, so we're using Paypal's hosted cart to bring in those basic features. We might adopt their checkout.js and implement this a little more cleanly, but the virtue of the paypal buttons is they are basically just the embedables. Prices are determiend in markdown front matter, images in art/ that do not have a related markdown file in _art/ will not be purchasble (but could be with a default price, @todo ?). A user sees a product they link in the gallery with a markdown (blue girl, for example), click 'Learn More', sees an add to cart button. 
+One of our goals is to give Trina an online ecommerce presence, so we're using Paypal's hosted cart to bring in those basic features.
 
-Would like to have a mini-cart, a 'full cart' icon that isn't just setting a cookie when someone clicks a link, etc. 
+Prices are determiend in markdown front matter, images in art/ that do not have a related markdown file in _art/ will not be purchasble (but could be with a default price, @todo ?). A user sees a product they link in the gallery with a markdown (blue girl, for example), click 'Learn More', sees an add to cart button. 
 
-### Note about the thumbnail gem
+Would like to have a mini-cart, a 'full cart' icon that isn't just setting a cookie when someone clicks a link, etc. We might adopt their checkout.js and implement this a little more cleanly, but the virtue of the paypal buttons is they are basically just the embedables. 
+
+## Thumbnails
+
+Thumbnails of images in art/ are generated to art/thumbs/ during the build process. Images that already exist in art/thumbs are ignored, so you can speed things up a bit by commiting art/thumbs/ from time to time. 
 
 We are using [mrdanadams/jekyll-thumbnailer](https://github.com/mrdanadams/jekyll-thumbnailer) but used [kevin1's modification](https://github.com/kevin1/jekyll-thumbnailer/blob/master/thumbnail.rb) to the plugin so it can accept variables and approach usefulness. With this module, thumbnails end up in art/thumbs/ when we need them in _site/art/thumbs. `jekyl serve` seems to pass these files through correctly, but for our build in netlify we needed to do the following:
 
@@ -55,3 +54,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
+All that said, please feel free to use any of the technical stuff in this repo. We will keep working on this theme and expect to do some refactoring soon. If there's interest, we're open to upstreaming any changes or seperating out the copyrighted content and providing this theme in a vanilla state to others. 
