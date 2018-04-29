@@ -3,7 +3,8 @@
         {% if page.group == include.group %}
         <li>
             <img class="round" src="/{% if page.img %}{{ page.img }}{% else %}{{ page.header-img }}{% endif %}" />
-            <h2>{{ page.title }}</h2><p>{{ page.description }}</p>
+            <h2>{{ page.title }}</h2><p style="display: block; min-height: 80px">{{ page.description }}</p>
+            <a href="{{ page.url }}">Learn More</a>
         </li>
         {% endif %}
     {% endfor %}

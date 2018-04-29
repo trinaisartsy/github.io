@@ -2,12 +2,19 @@
 <link rel="stylesheet" href="/js/owlcarousel/dist/assets/owl.carousel.min.css" />
 <script src="/js/owlcarousel/dist/owl.carousel.min.js"></script>
 
+<div class="owl-wrapper">
 <div class="owl-carousel owl-theme">
         {% for image in site.static_files %}
             {% if image.path contains include.sliderpath %}	
                 <img class="owl-lazy" data-src="{{ site.url }}{{ site.baseurl }}{{ image.path }}" data-src-retina="{{ site.url }}{{ site.baseurl }}{{ image.path }}" alt="">
             {% endif %}
         {% endfor %}
+
+</div>
+<!-- <div class="owl-overlay">
+    {% include booknow.html %}
+</div> -->
+
 </div>
 <script>
     $('.owl-carousel').owlCarousel({

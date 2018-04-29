@@ -627,10 +627,6 @@ article .clear, #post-content .clear {
 }
 
 
-.booknow {
-  float: left; display: block; padding-right: 20px;
-}
-
 .services-two ul {
   padding: 0px;
 }
@@ -696,3 +692,16 @@ article .clear, #post-content .clear {
 
 }
 
+.owl-overlay {
+  display: block;
+  z-index: 9999999;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  visibility: visible;
+  
+
+}
+.owl-wrapper {
+  position: relative;
+}
