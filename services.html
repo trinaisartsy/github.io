@@ -11,47 +11,16 @@ header-img: "media/servicesbanner.jpg"
 </div>
 
 <br clear="all" />
-<div class="services-one">
-    {% for page in site.services %}
-        {% if page.group == "top" %}
-        <h1>{{ page.title }}</h2>
-        <p>{{ page.content }}</p>
-        {% endif %}
-    {% endfor %}
-
-</div>
-
+{% include services-one.html group="top" %}
 <br clear="all" />
+{% include services-three.html group="three" %}
 
-<ul class="services-three">
-    {% for page in site.services %}
-        {% if page.group == "three" %}
-        <li>
-            <img class="round" src="/{% if page.img %}{{ page.img }}{% else %}{{ page.header-img }}{% endif %}" />
-            <h2>{{ page.title }}</h2><p>{{ page.description }}</p>
-        </li>
-        {% endif %}
-    {% endfor %}
-</ul>
 
 <br clear="all" />
 <br clear="all" />
 
 <h2 class="center">Other Services</h2>
-<div class="services-two">
-    {% for page in site.services %}
-        {% if page.group == "bottom" %}
-        <ul>
-            <li>
-                <h3>{{ page.title }}</h3>
-                <img class="round" src="/{{ page.img }}" alt="{{ page.title }}" />
-                <p>{{ page.content }}</p>
-            </li>
-        </ul>
-        {% endif %}
-    {% endfor %}
-</div>
-
+{% include services-two.html group="bottom" %}
 <br clear="all" />    
 <br clear="all" />
 

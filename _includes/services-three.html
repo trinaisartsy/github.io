@@ -1,0 +1,10 @@
+<ul class="services-three">
+    {% for page in site.services %}
+        {% if page.group == include.group %}
+        <li>
+            <img class="round" src="/{% if page.img %}{{ page.img }}{% else %}{{ page.header-img }}{% endif %}" />
+            <h2>{{ page.title }}</h2><p>{{ page.description }}</p>
+        </li>
+        {% endif %}
+    {% endfor %}
+</ul>
