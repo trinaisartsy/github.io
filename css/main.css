@@ -581,13 +581,6 @@ article .clear, #post-content .clear {
   margin-bottom: 40px;
 }
 
-.gallery {
-  margin-top: -140px;
-  box-shadow: 0px -10px 30px rgba(0, 0, 0, .8);
-  margin-bottom: -10px;
-  background-color: #000;
-
-}
 
 .round {
   border-radius: 50%;
@@ -657,6 +650,15 @@ article .clear, #post-content .clear {
 }
 
 
+.gallery {
+  margin-top: -140px!important;
+  box-shadow: 0px -10px 30px rgba(0, 0, 0, .8);
+  margin-bottom: -10px;
+  background-color: #000;
+
+}
+
+
 @media screen and (max-width: 780px) {
   .services-three li {
       width: 100%;
@@ -666,7 +668,7 @@ article .clear, #post-content .clear {
   }
 
   .gallery {
-      margin-top: 0px;
+      margin-top: 0px!important;
   }
 
   .booknow {

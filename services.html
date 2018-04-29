@@ -17,6 +17,8 @@ header-img: "media/servicesbanner.jpg"
 
 
 <br clear="all" />
+{% include services-testimonials.html group="testimonials" %}
+
 <br clear="all" />
 
 <h2 class="center">Other Services</h2>
@@ -24,14 +26,7 @@ header-img: "media/servicesbanner.jpg"
 <br clear="all" />    
 <br clear="all" />
 
-<div class="services-testimonials">
-    {% for page in site.services %}
-        {% if page.group == "testimonials" %}       
-        <h2>{{ page.title }}</h2>
-        <p>{{ page.content }}</p>
-        {% endif %}
-    {% endfor %}            
-</div>
+
 
 <div id="header-booknow">
     <a class="booknow" href="https://meetings.hubspot.com/trinaisartsy" target="new"><img class="bookme" src="/img/bookbutton.png" alt="Book Now!"></a>
