@@ -22,6 +22,7 @@ header-img: "media/servicesbanner.jpg"
 </div>
 
 <br clear="all" />
+
 <ul class="services-three">
     {% for page in site.services %}
         {% if page.group == "three" %}
@@ -32,19 +33,27 @@ header-img: "media/servicesbanner.jpg"
         {% endif %}
     {% endfor %}
 </ul>
-<br clear="all" /><br clear="all" />
 
-<div class="services-one">
+<br clear="all" />
+<br clear="all" />
+
+<h2 class="center">Other Services</h2>
+<div class="services-two">
     {% for page in site.services %}
         {% if page.group == "bottom" %}
-
-        <h2>{{ page.title }}</h2>
-        <p>{{ page.content }}</p>
+        <ul>
+            <li>
+                <h3>{{ page.title }}</h3>
+                <img class="round" src="/{{ page.img }}" alt="{{ page.title }}" />
+                <p>{{ page.content }}</p>
+            </li>
+        </ul>
         {% endif %}
     {% endfor %}
-    
 </div>
-    <br clear="all" />    <br clear="all" />
+
+<br clear="all" />    
+<br clear="all" />
 
 <div class="services-testimonials">
     {% for page in site.services %}
@@ -54,7 +63,6 @@ header-img: "media/servicesbanner.jpg"
         {% endif %}
     {% endfor %}            
 </div>
-    
 
 <div id="header-booknow">
     <a class="booknow" href="https://meetings.hubspot.com/trinaisartsy" target="new"><img class="bookme" src="/img/bookbutton.png" alt="Book Now!"></a>

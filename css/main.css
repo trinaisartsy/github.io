@@ -535,6 +535,9 @@ article .clear, #post-content .clear {
 
 }
 
+.center {
+  text-align: center;
+}
 
 #headerwrapper {
   background: no-repeat center center;
@@ -635,6 +638,25 @@ article .clear, #post-content .clear {
   float: left; display: block; padding-right: 20px;
 }
 
+.services-two ul {
+  padding: 0px;
+}
+
+.services-two li {
+  width: 50%;
+  float: left;
+  padding: 5px;
+  list-style-type: none;
+  font-size: 12pt;
+}
+
+
+.services-two li h3 {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+
 @media screen and (max-width: 780px) {
   .services-three li {
       width: 100%;
@@ -659,4 +681,16 @@ article .clear, #post-content .clear {
       display: none;
   }
 
+
+  .services-two li {
+    width: 100%;
+    float: left;
+    list-style-type: none;
+    float: none;
+    clear: both;
+    display: block;
+    
+  }
+
 }
+
