@@ -1,25 +1,28 @@
 ---
 layout: "page"
-title: Tutoring and Live Classes
+title: Local Services
 description: Live classes in the Charleston and Summerville Area with a trained art master!
 category: "services"
 active: services
 header-img: "media/servicesbanner.jpg"
 ---
+<div class="gallery">
+{% include slider.html sliderpath="media/services-gallery" %}
+</div>
 
-
+<br clear="all" />
 <div class="services-one">
     {% for page in site.services %}
-        {% if page.group == "one" %}
-        <img class="round" src="/{% if page.img %}{{ page.img }}{% else %}{{ page.header-img }}{% endif %}" />
+        {% if page.group == "top" %}
+
         <h1>{{ page.title }}</h2>
         <p>{{ page.content }}</p>
         {% endif %}
     {% endfor %}
-    <h3 style="text-align: center; padding: 50px;"><a href="https://meetings.hubspot.com/trinaisartsy" target="new">Book an Apointment Now!</a></h3>
+
 </div>
 
-
+<br clear="all" />
 <ul class="services-three">
     {% for page in site.services %}
         {% if page.group == "three" %}
@@ -30,10 +33,70 @@ header-img: "media/servicesbanner.jpg"
         {% endif %}
     {% endfor %}
 </ul>
+<br clear="all" /><br clear="all" />
 
+<div class="services-one">
+    {% for page in site.services %}
+        {% if page.group == "bottom" %}
 
+        <h2>{{ page.title }}</h2>
+        <p>{{ page.content }}</p>
+        {% endif %}
+    {% endfor %}
+    
+</div>
+    <br clear="all" />    <br clear="all" />
+
+<div class="services-testimonials">
+    {% for page in site.services %}
+        {% if page.group == "testimonials" %}       
+        <h2>{{ page.title }}</h2>
+        <p>{{ page.content }}</p>
+        {% endif %}
+    {% endfor %}            
+</div>
+    
+
+<div id="header-booknow">
+    <a class="booknow" href="https://meetings.hubspot.com/trinaisartsy" target="new"><img class="bookme" src="/img/bookbutton.png" alt="Book Now!"></a>
+</div>
 
 <style>
+
+#header-booknow {
+    position: absolute;
+    top: 60px;
+}
+
+.services-testimonials h2 {
+    text-align: center;
+}
+.services-testimonials ul {
+    padding: 0px;
+}
+
+.services-testimonials ul li {
+    text-align: center;
+    list-style-type: none;
+    font-size: 24px;
+    font-style: italic;
+}
+.services-testimonials ul li li {
+    text-align: right;
+    font-weight: 800;
+    content: "By: ";
+    font-size: 18px;
+    font-style: bold;
+    margin-bottom: 40px;
+}
+
+.gallery {
+    margin-top: -140px;
+    box-shadow: 0px -10px 30px rgba(0, 0, 0, .8);
+    margin-bottom: -10px;
+    background-color: #000;
+
+}
 
 .round {
     border-radius: 50%;
@@ -43,7 +106,10 @@ header-img: "media/servicesbanner.jpg"
     border: 1px solid purple;
 }
 
-.services-one h1 {
+.services-three {
+    padding: 0px;
+}
+.services-one h1, .services-one h2 {
     text-align: center;
 
 }
@@ -62,13 +128,12 @@ header-img: "media/servicesbanner.jpg"
 }
 
 .services-three li {
-    width: 30%;
+    width: 33%;
     float: left;
     display: block;
     font-size: 16px;
     text-align: center;
-    padding: 5px 20px;
-    margin: 5px;
+    margin: 5px 0;
 
 }
 
@@ -78,15 +143,34 @@ header-img: "media/servicesbanner.jpg"
 }
 
 
+.booknow {
+    float: left; display: block; padding-right: 20px;
+}
 
-
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 780px) {
     .services-three li {
         width: 100%;
         float: none;
         clear: both;
         display: block;
     }
+
+    .gallery {
+        margin-top: 0px;
+    }
+
+    .booknow {
+       width: 100%; display: inline; padding-right: 0px; clear:both; margin: 5px auto;
+    }
+
+    .booknow img {
+        width: 100%;
+    }
+
+    #header-booknow {
+        display: none;
+    }
+
 }
 
 </style>

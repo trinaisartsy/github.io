@@ -1,9 +1,9 @@
 ---
-title: Trina Reynolds
+title: Easel Trina's Art Class!
 header-img: "media/aboutbanner.jpg"
 active: services
 img: media/Servicespictureofme.JPG
-group: one
+group: top
 ---
 
 Be the artist! Great for work mixers and birthdays! Schedule a Group 'Paint and Sip' style class with a highly reviewed teacher! Trina will mesmirize your friends and family by guiding them through a painting of their choice, teaching them basic art concepts while creating something unique you get to take home! You won't believe what you are capable of making! 
