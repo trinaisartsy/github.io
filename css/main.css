@@ -548,3 +548,115 @@ article .clear, #post-content .clear {
   background-color: rgba(118, 37, 126, 0.8);
   
 }
+
+
+
+#header-booknow {
+  position: absolute;
+  top: 60px;
+}
+
+.services-testimonials h2 {
+  text-align: center;
+}
+.services-testimonials ul {
+  padding: 0px;
+}
+
+.services-testimonials ul li {
+  text-align: center;
+  list-style-type: none;
+  font-size: 24px;
+  font-style: italic;
+}
+.services-testimonials ul li li {
+  text-align: right;
+  font-weight: 800;
+  content: "By: ";
+  font-size: 18px;
+  font-style: bold;
+  margin-bottom: 40px;
+}
+
+.gallery {
+  margin-top: -140px;
+  box-shadow: 0px -10px 30px rgba(0, 0, 0, .8);
+  margin-bottom: -10px;
+  background-color: #000;
+
+}
+
+.round {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  border: 1px solid purple;
+}
+
+.services-three {
+  padding: 0px;
+}
+.services-one h1, .services-one h2 {
+  text-align: center;
+
+}
+
+.services-one {
+  text-align: justify;
+  font-size: 16px;
+}
+
+.services-one .round {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: -160px;
+}
+
+.services-three li {
+  width: 33%;
+  float: left;
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  margin: 5px 0;
+
+}
+
+.services-three li h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
+
+.booknow {
+  float: left; display: block; padding-right: 20px;
+}
+
+@media screen and (max-width: 780px) {
+  .services-three li {
+      width: 100%;
+      float: none;
+      clear: both;
+      display: block;
+  }
+
+  .gallery {
+      margin-top: 0px;
+  }
+
+  .booknow {
+     width: 100%; display: inline; padding-right: 0px; clear:both; margin: 5px auto;
+  }
+
+  .booknow img {
+      width: 100%;
+  }
+
+  #header-booknow {
+      display: none;
+  }
+
+}
