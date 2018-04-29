@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: Commissions
-description: Information about the educational work that Trina offers
+description: Buy an original artwork.
 active: services
 header-img: "media/servicesbanner.jpg"
 group: three
