@@ -1,0 +1,92 @@
+---
+layout: "page"
+title: Tutoring and Live Classes
+description: Live classes in the Charleston and Summerville Area with a trained art master!
+category: "services"
+active: services
+header-img: "media/servicesbanner.jpg"
+---
+
+
+<div class="services-one">
+    {% for page in site.services %}
+        {% if page.group == "one" %}
+        <img class="round" src="/{% if page.img %}{{ page.img }}{% else %}{{ page.header-img }}{% endif %}" />
+        <h1>{{ page.title }}</h2>
+        <p>{{ page.content }}</p>
+        {% endif %}
+    {% endfor %}
+    <h3 style="text-align: center; padding: 50px;"><a href="https://meetings.hubspot.com/trinaisartsy" target="new">Book an Apointment Now!</a></h3>
+</div>
+
+
+<ul class="services-three">
+    {% for page in site.services %}
+        {% if page.group == "three" %}
+        <li>
+            <img class="round" src="/{% if page.img %}{{ page.img }}{% else %}{{ page.header-img }}{% endif %}" />
+            <h2>{{ page.title }}</h2><p>{{ page.description }}</p>
+        </li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
+
+
+<style>
+
+.round {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    border: 1px solid purple;
+}
+
+.services-one h1 {
+    text-align: center;
+
+}
+
+.services-one {
+    text-align: justify;
+    font-size: 16px;
+}
+
+.services-one .round {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: -160px;
+}
+
+.services-three li {
+    width: 30%;
+    float: left;
+    display: block;
+    font-size: 16px;
+    text-align: center;
+    padding: 5px 20px;
+    margin: 5px;
+
+}
+
+.services-three li h2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
+@media screen and (max-width: 720px) {
+    .services-three li {
+        width: 100%;
+        float: none;
+        clear: both;
+        display: block;
+    }
+}
+
+</style>

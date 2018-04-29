@@ -23,6 +23,8 @@ header-img: art/the_usual_suspects__by_space_monkey.jpg
 collections:
   art:
     output: true
+  services:
+    output: true
 
 
 # Owner/author information
