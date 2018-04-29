@@ -1,7 +1,7 @@
 ---
 layout: "page"
-title: Tutoring Services
-description: Information about the educational work that Trina offers
+title: Art Coaching & Tutoring
+description: Ideal for art school auditions and hobbyists
 category: "services"
 active: services
 header-img: "media/servicesbanner.jpg"
