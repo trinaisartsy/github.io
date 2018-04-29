@@ -1,5 +1,5 @@
 ---
-title: Easel Trina's Art Class!
+title: AP Art Portfolio Prep
 header-img: "media/aboutbanner.jpg"
 active: services
 img: media/Servicespictureofme.JPG
@@ -8,4 +8,5 @@ group: bottom
 
 <a class="booknow" href="https://meetings.hubspot.com/trinaisartsy" target="new"><img class="bookme" src="/img/bookbutton.png" alt="Book Now!"></a>
 
-Trina will provide the canvas, materials and everything you need to paint something wonderful. You bring your friends and a little something to get the creative juices flowing! Trina will meet you at your home or office, or she can arrange for a beutiful venue right off of I26. [Book now via Hubspot](https://meetings.hubspot.com/trinaisartsy) by choosing your preferred time and Trina will reach out to talk details and to finalize the booking. 
+
+Students will bring their current portfolio for review. We will analyze the requirements for the AP Art portfolio together and begin organizing plans for artwork that will apply to those requirements. We will discuss the elements of design, how to correctly photograph artworks for digital display and how to properly prepare a portfolio for submission to the College Board.
