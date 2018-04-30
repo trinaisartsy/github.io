@@ -8,8 +8,9 @@ header-img: media/bannerplaydoh.jpg
 categories:
   - blog
 ---
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-6CQRG85Z3MY/WucHkqsDLpI/AAAAAAAAMJg/po1Kly-_zvE6lokIt11JgYmPG5kGVu-XwCEwYBhgL/s1600/mushroomsmall.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="475" height="320" src="https://1.bp.blogspot.com/-6CQRG85Z3MY/WucHkqsDLpI/AAAAAAAAMJg/po1Kly-_zvE6lokIt11JgYmPG5kGVu-XwCEwYBhgL/s320/mushroomsmall.jpg" width="285" /></a></div>
+
+[![Dried playdoh before and after - "Salted"](/media/mushroomsmall.jpg)](/media/mushroomsmall.jpgg){: class="medium center" }
+
 
 _Originally Published 4 / 2017_
 
