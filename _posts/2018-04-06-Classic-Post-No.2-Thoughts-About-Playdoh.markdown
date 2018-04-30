@@ -7,6 +7,7 @@ image: media/bannerplaydoh.jpg
 header-img: media/bannerplaydoh.jpg
 categories:
   - blog
+  - tutorials
 ---
 
 [![Dried playdoh before and after - "Salted"](/media/mushroomsmall.jpg)](/media/mushroomsmall.jpgg){: class="medium center" }
