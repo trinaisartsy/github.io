@@ -35,7 +35,7 @@ But, I can confidently say that I never let a painter walk out of the studio wit
  I try to imagine myself in the shoes of a first time painter. A newbie still has to learn the ropes- and it may have been years since you last painted, for some their last time was in grade school or earlier! It takes bravery to try something again after that long. Give yourself a chance to try again without worrying too much about failure, and don't be afraid to ask questions!  
 <br>
 (Pictured left: An "artist in training" practices for her future career as an instructor. )  
-<br>
+<br><br>
 
 2\. Your painting doesn't have to turn out exactly like the example
 -------------------------------------------------------------------
@@ -51,7 +51,7 @@ Use the example as _inspiration_ for your copy- which will absolutely turn out u
   
 <br>
 3\. Dress like the artist not the model!
-----------------------------------------
+-------------------------------------------------------------------
 
 What I mean is, if you wear your Sunday's best to the art studio, dude, you're on you're own.  Yes, you do get an apron, but it doesn't cover everything. I can't tell you how many times I had painters come in wearing giant stiletto heels, beautiful designer dresses, or fancy expensive tennis shoes.  
   
@@ -69,7 +69,7 @@ Instead, wear something comfortable, perhaps an old work shirt and pants you don
   
 <br>
 4\. Arrive on time (or even better- a little early)
----------------------------------------------------
+-------------------------------------------------------------------
 
 This was a pet peeve of mine as an instructor... folks arriving late for class, sometimes up to 20-30 minutes late. I've had painters arrive an hour late and had to break the bad news that they will not have enough time to finish their painting that night. Not only is arriving late cutting in to your painting time, it's also rude to the other patrons and the instructor! Don't be "that guy." Leave the house early if you have to, just don't be late!  
   
