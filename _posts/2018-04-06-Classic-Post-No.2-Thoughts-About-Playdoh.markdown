@@ -8,7 +8,8 @@ header-img: media/bannerplaydoh.jpg
 categories:
   - blog
 ---
-[![Playdoh Tips](media/mushroomsmall.jpg](media/mushroomsmall.jpg){: class="left" }
+[![Playdoh Tips](media/mushroomsmall.jpg){: class="center" }
+github.io/media/mushroomsmall.jpg
 
 _Originally Published 4 / 2017_
 
