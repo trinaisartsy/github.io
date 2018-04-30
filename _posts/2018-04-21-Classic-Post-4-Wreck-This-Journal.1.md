@@ -24,7 +24,7 @@ If you didn't know yet, there is this book out there by [Keri Smith](http://www.
    
 Soon after acquiring this book I was hooked. The concept is very freeing, and it's got me doing art more often and keeping my skills sharp, which is always good. Also, the idea that you create the art naturally and by chance is very exciting to me. The more you work with the book, the more it develops in an often unexpected direction.  
   
-  
+<!--more-->    
 
 [![](https://1.bp.blogspot.com/-zdJ8gv6ohCc/T353ATHiFTI/AAAAAAAAAxc/sCEwJ79QkFQ/s640/IMG_2527.jpg)](http://1.bp.blogspot.com/-zdJ8gv6ohCc/T353ATHiFTI/AAAAAAAAAxc/sCEwJ79QkFQ/s1600/IMG_2527.jpg)
 
