@@ -2,7 +2,7 @@
 title: AP Art Portfolio Prep
 header-img: "media/aboutbanner.jpg"
 active: services
-img: media/Servicespictureofme.JPG
+img: media/servicesapportfolioprep.jpg
 group: bottom
 ---
 
