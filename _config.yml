@@ -51,7 +51,7 @@ nav:
   - BLOG: "/blog/"
   - TUTORIALS: "/tutorials/"
   - SERVICES: "/services/"
-  - ABOUT: "/about/"
+  - CONTACT: "/contact/"
 
 # All translation keys
 translations:
