@@ -33,14 +33,9 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 [![A little girl practices her class instruction skills](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s320/22007592_531506623853047_3592575859605165402_n.jpg)](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s1600/22007592_531506623853047_3592575859605165402_n.jpg){: class="left" } There is definitely an amount of vulnerability that comes with putting yourself in a new situation where you have to learn something on the fly. It can be scary stepping into the unknown.  
   
  I try to imagine myself in the shoes of a first time painter. A newbie still has to learn the ropes- and it may have been years since you last painted, for some their last time was in grade school or earlier! It takes bravery to try something again after that long. Give yourself a chance to try again without worrying too much about failure, and don't be afraid to ask questions!  
-  
+<br>
 (Pictured left: An "artist in training" practices for her future career as an instructor. )  
-  
-  
-  
-  
-  
-  
+<br>
 
 2\. Your painting doesn't have to turn out exactly like the example
 -------------------------------------------------------------------
@@ -50,12 +45,11 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 A lot of people get caught up in the idea that their painting has to look EXACTLY like the example they're copying from, and frankly that's just setting themselves up for trouble. I always tell painters this: If you could copy the painting exactly, you would have to literally be a copy machine. And you are not a machine, you're a human. You can't capture lightning in a bottle, but you can most certainly create your own light.  
   
 Use the example as _inspiration_ for your copy- which will absolutely turn out uniquely you. Don't feel shy about asking your artist to change or add colors, they will be happy to tell you what exactly to mix to make specific colors, too. Anyways, I think it's better to have an original with personal touches includes rather than an exact copy, don't you?  
-
-  
+<br>
 (Pictured Above: A painter asked me to sketch out a little skeleton guy for her swing! Didn't he turn out lovely?)  
   
   
-
+<br>
 3\. Dress like the artist not the model!
 ----------------------------------------
 
@@ -73,7 +67,7 @@ Instead, wear something comfortable, perhaps an old work shirt and pants you don
 (These guys get a pass for having the cutest matching bridesmaids shirts ever)
 
   
-
+<br>
 4\. Arrive on time (or even better- a little early)
 ---------------------------------------------------
 
