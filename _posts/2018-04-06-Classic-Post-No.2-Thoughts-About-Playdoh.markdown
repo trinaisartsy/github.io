@@ -3,12 +3,12 @@ published: true
 layout: post
 subtitle: Tips and Tricks
 active: journal
-image: art/IMG_0594.jpg
-header-img: art/IMG_0594.jpg
+image: media/bannerplaydoh.jpg
+header-img: media/bannerplaydoh.jpg
 categories:
   - blog
 ---
-![Tips for Playdoh]({{site.baseurl}}/art/IMG_0594.jpg){: class="medium" }
+![Tips for Playdoh]({{site.baseurl}}media/mushroomsmall.jpg){: class="medium" }
 _Originally Published 4 / 2017_
 
 So I have a confession to make, I'm obsessed with something weird again, and this time it's Play Doh.
