@@ -2,7 +2,7 @@
 title: Wreck It Party! (For kids or adults)
 header-img: "media/aboutbanner.jpg"
 active: services
-img: media/Servicespictureofme.JPG
+img: media/serviceswreckparty.jpg
 group: bottom
 ---
 
