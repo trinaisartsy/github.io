@@ -2,7 +2,7 @@
 title: School of the Arts Portfolio / Audition Prep
 header-img: "media/aboutbanner.jpg"
 active: services
-img: media/Servicespictureofme.JPG
+img: media/servicesartschoolauditions.jpg
 group: bottom
 ---
 
