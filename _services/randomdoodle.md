@@ -2,7 +2,7 @@
 title: Random Doodle Surprise!
 header-img: "media/servicesdoodle1.jpg"
 active: services
-img: media/Servicespictureofme.JPG
+img: /media/servicesdoodle1.jpg
 group: bottom
 ---
 
