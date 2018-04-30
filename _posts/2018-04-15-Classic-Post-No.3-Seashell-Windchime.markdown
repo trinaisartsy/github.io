@@ -3,8 +3,8 @@ published: false
 layout: post
 subtitle: Aka The Bone Chime
 active: journal
-image: art/BoneChime1.jpg
-header-img: art/BoneChime1.jpg
+image: media/bannersketchbook.png
+header-img: media/bannersketchbook.png
 categories:
   - blog
 ---
