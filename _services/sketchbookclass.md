@@ -2,7 +2,7 @@
 title: Sketchbooks 101 (Beginner Friendly Class)
 header-img: "media/aboutbanner.jpg"
 active: services
-img: media/Servicespictureofme.JPG
+img: media/servicessketchbookclass.jpg
 group: bottom
 ---
 
