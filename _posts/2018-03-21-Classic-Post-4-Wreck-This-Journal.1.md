@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 subtitle: The post that started it all!
 active: journal
@@ -38,42 +38,6 @@ The instructions page, not yet in its final stage of development.
 [![](https://3.bp.blogspot.com/-HvrJ_l341_8/T356qz9fuII/AAAAAAAAAx8/2aPkqvnDxQk/s640/IMG_2531.jpg)](http://3.bp.blogspot.com/-HvrJ_l341_8/T356qz9fuII/AAAAAAAAAx8/2aPkqvnDxQk/s1600/IMG_2531.jpg)
 
  Speaking of incomplete metamorphosis, my journal is slowly shedding its cover like some sort of reptilian skin.  I can't decide if I want to salvage the cover or make a whole new one! Hmm... better work against my better judgement.
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
 
@@ -161,15 +125,3 @@ She's using this book to "break" the habits of the common OCD idea that things m
 [![](https://2.bp.blogspot.com/-Ok2GVEJgdfE/T3-vFRAsGlI/AAAAAAAAAz0/BtzUsnIHe6A/s640/IMG_2593.jpg)](http://2.bp.blogspot.com/-Ok2GVEJgdfE/T3-vFRAsGlI/AAAAAAAAAz0/BtzUsnIHe6A/s1600/IMG_2593.jpg)
 
 ".SDRAWKCAB ETIRW"
-
-  
-  
-  
-
-My Journey With Keri Smith's Wreck This Journal 
-
-1) [The Beginning.....](http://www.trinaisartsy.com/2012/04/wreck-this-journal.html)  
-2) [WTJ Part Two](http://www.trinaisartsy.com/2012/05/wreck-this-journalpart-two.html)  
-3) [WTJ Part Three - Vengeance ](http://www.trinaisartsy.com/2012/05/wreck-this-journalpart-two.html)  
-4) [WTJ Part Four - The Reckoning](http://www.trinaisartsy.com/2013/04/wreck-this-journal-part-four.html)  
-5)[ WTJ Part Five - Return of the Journal (Final)](http://www.trinaisartsy.com/2016/02/wreck-this-journal-part-v-return-of.html)
