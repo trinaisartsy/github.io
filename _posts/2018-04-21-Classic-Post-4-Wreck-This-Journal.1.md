@@ -3,8 +3,8 @@ published: true
 layout: post
 subtitle: The post that started it all!
 active: journal
-image: art/WTJCoverchanges.jpg
-header-img: art/WTJCoverchanges.jpg
+image: media/bannerwtj.jpg
+header-img: media/bannerwtj.jpg
 tags:
   - wreck this journal
   - wtj
