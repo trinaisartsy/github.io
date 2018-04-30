@@ -8,7 +8,8 @@ header-img: media/bannerplaydoh.jpg
 categories:
   - blog
 ---
-![Tips for Playdoh]({{site.baseurl}}media/mushroomsmall.jpg){: class="medium" }
+[![Playdoh Tips](media/mushroomsmall.jpg](media/mushroomsmall.jpg){: class="left" }
+
 _Originally Published 4 / 2017_
 
 So I have a confession to make, I'm obsessed with something weird again, and this time it's Play Doh.
