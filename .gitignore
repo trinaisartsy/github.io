@@ -1,0 +1,5 @@
+_site
+art/thumbs/
+.gitignore
+_config.yml
+Gemfile.lock_config.yml
