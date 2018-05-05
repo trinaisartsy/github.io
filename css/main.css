@@ -637,8 +637,16 @@ article .clear, #post-content .clear {
   padding: 5px;
   list-style-type: none;
   font-size: 12pt;
+  height: 550px;
+  padding: 20px;
+  text-align: justify;
 }
 
+
+.services-two li p {
+
+  padding: 0 40px;
+}
 
 .services-two li h3 {
   padding-bottom: 20px;
@@ -687,7 +695,8 @@ article .clear, #post-content .clear {
     float: none;
     clear: both;
     display: block;
-    
+    height: auto;
+    padding: 5px;
   }
 
 }
