@@ -2,8 +2,8 @@
 title: Trina is Artsy
 email: "trinaisartsy@gmail.com"
 description: ""
-url: "https://trina.coffee"
-baseurl: ""
+baseurl: 'http://trina.local'
+baseurl: 
 facebook_username: "trinaisartsy"
 twitter_username: "trina_is_artsy"
 instagram_username: "trinaisartsy"

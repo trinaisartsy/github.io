@@ -6,7 +6,7 @@
 <div class="owl-carousel owl-theme">
         {% for image in site.static_files %}
             {% if image.path contains include.sliderpath %}	
-                <img class="owl-lazy" data-src="{{ site.url }}{{ site.baseurl }}{{ image.path }}" data-src-retina="{{ site.url }}{{ site.baseurl }}{{ image.path }}" alt="">
+                <img class="owl-lazy" data-src="{{ image.path }}" data-src-retina="{{ image.path }}" alt="">
             {% endif %}
         {% endfor %}
 
