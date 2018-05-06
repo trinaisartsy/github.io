@@ -1,10 +1,10 @@
 ---
 layout: "page"
 title: Live Drawing
-description: Information about the educational work that Trina offers
+description: Hire a sketch artist for your next event!
 category: "services"
 active: services
-header-img: "media/servicesbanner.jpg"
+header-img: "media/servicesartschoolauditions2.jpg"
 group: three
 ---
 

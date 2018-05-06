@@ -17,4 +17,4 @@ group: testimonials
 * "Trina helped guide me when I first started working at Wine and Design and I was impressed with her teaching and customer service skills. She is very creative and a gifted artist. I was also very impressed with my experience in working with Trina on a Fundraiser for The Flowertown Players Theater. Trina curated a pop up art show beautifully and completed set up, exhibition and take down in under 12 hours!" 
 
 
-* * - Heather J.
+* * -Heather J.

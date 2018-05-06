@@ -581,7 +581,7 @@ article .clear, #post-content .clear {
 .services-testimonials ul li {
   text-align: center;
   list-style-type: none;
-  font-size: 24px;
+  font-size: 20px;
   font-style: italic;
 }
 .services-testimonials ul li li {
@@ -778,4 +778,8 @@ ul#pager {
   text-align: center;
   margin: 0 auto;
   
+}
+
+.container {
+  overflow: hidden;
 }
