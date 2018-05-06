@@ -51,7 +51,7 @@ Use the example as _inspiration_ for your copy- which will absolutely turn out u
   
 <br>
 3\. Dress like the artist not the model!
--------------------------------------------------------------------
+---------------------------------------------------------------
 
 What I mean is, if you wear your Sunday's best to the art studio, dude, you're on you're own.  Yes, you do get an apron, but it doesn't cover everything. I can't tell you how many times I had painters come in wearing giant stiletto heels, beautiful designer dresses, or fancy expensive tennis shoes.  
   
