@@ -23,6 +23,5 @@ You can even choose between realistic portraits or caricature style portraits, a
 Available within a 30 mile radius of Charleston, SC. 
 
 Prices start at $75 per hour.
-Book now!
 
 
