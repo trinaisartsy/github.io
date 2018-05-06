@@ -4,7 +4,7 @@ title: Live Drawing
 description: Hire a sketch artist for your next event!
 category: "services"
 active: services
-offering: live
+offering-type: live
 cta: booknow
 header-img: "media/servicesartschoolauditions2.jpg"
 group: three
