@@ -14,7 +14,7 @@ group: three
 
 
 
- ![Trina sketching a patron at the Flowertown "Science of Art" Gala](media/trina drawing nikki.jpg){: class="small right"}
+ ![Trina sketching a patron at the Flowertown "Science of Art" Gala](/media/trina drawing nikki.jpg){: class="small right"}
  
  Want a fun artsy twist of a party favor for your next event? Have Trina attend and sketch up a storm! Trina will set up a booth with her easel and supplies, where patrons can sit comfortably and have their portraits drawn. Portraits take about 5-10 minutes to complete, depending on the style and if there is color. Your guests will be able to take home their original artwork free of charge - just pay booking fees! 
  
