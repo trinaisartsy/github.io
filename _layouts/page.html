@@ -6,30 +6,13 @@ layout: default
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
-                    {{ content }}
-                    
-                    {% if page.cta %}
-                    <center>
-                        
-                            {% include booknow.html %}
-                        
-                    </center>
-                    {% endif %}
-    </div>
-    
-    {% if page.cta %}
-    <center>
-        
-            {% include booknow.html %}
-        
-    </center>
-    {% endif %}
 
+		{{ content }}
+		
+		{% if page.cta == 'booknow' %}
+			<center>{% include paypal/booknow.html %}</center>
+		{% elsif page.cta == 'buynow' %}
+			<center>{% include paypal/buynow.html %}</center>
+		{% endif %}
+	</div>
 </div>
-
-<!-- jQuery -->    
-
-
-  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-<!-- Custom Theme JavaScript -->
-<script src="{{ site.baseurl }}/js/main.min.js "></script>
