@@ -14,5 +14,6 @@ While essential art supplies for you to use provided, clean up supplies or tarps
 
 Book a "Wreck it" Party now - Includes a journal for each guest, 2 hours of instruction time, access to essential art supplies / aprons, and traveling fees up to 30 miles from Charleston, SC. 
 
-Base Price: $100 for two hours of instruction
+Base Price: $100 for two hours of instruction <br>
 Each Additional Person: $15 (For their Journal and access to the art supplies during party time)
+
