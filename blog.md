@@ -3,7 +3,7 @@ layout: "paginated"
 category: "blog"
 title: The Coffee Chronicles
 header-img: "media/banner.jpg"
-description: What's new with Trina Lyn?
+description: Tutorials, Musings and New Projects
 active: blog
 pagination: 
     enabled: true
