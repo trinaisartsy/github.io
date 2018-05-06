@@ -714,3 +714,9 @@ article .clear, #post-content .clear {
 .owl-wrapper {
   position: relative;
 }
+
+hr {
+  border: 0;
+  height: 0;
+  box-shadow: 0 0 1px 1px rgb(196, 146, 196);
+}

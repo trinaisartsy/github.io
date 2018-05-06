@@ -4,6 +4,7 @@ header-img: "media/aboutbanner.jpg"
 active: services
 img: media/servicesdoodle1.jpg
 group: bottom
+layout: "page"
 ---
 
 Can't make a huge investment but still want to show your support? Purchase a random doodle personally drawn by me. It will include your name as a thank you! What kind of weird drawing will you get? It will be a surprise!
