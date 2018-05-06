@@ -6,7 +6,7 @@ img: media/servicescommissionsbutton.jpg
 group: bottom
 layout: "page"
 ---
-Have a project you think I'd be perfect for? I'd love to create a masterpiece for you! Tell me your vision and we will discuss medium and size. This payment will be a deposit on the finished piece. 
+Have a project you think I'd be perfect for? I'd love to create a masterpiece for you! Tell me your vision and we will discuss medium and size. This payment will be a deposit on the finished piece.
 <!--more-->
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consequat sollicitudin quam sit amet lacinia. Integer ut odio tristique, gravida massa quis, facilisis libero. Maecenas vehicula accumsan felis, ac viverra arcu aliquet nec. Nullam ac libero bibendum, ullamcorper sem sit amet, pellentesque velit. Ut id ipsum nisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam quis risus eget ipsum aliquam blandit. Fusce sodales convallis tortor, ut consectetur dolor euismod sed. Fusce quis velit feugiat, euismod nibh in, venenatis nisl. Suspendisse nec feugiat augue, dictum tincidunt nibh. Aenean tincidunt felis purus, hendrerit facilisis mi convallis non. Cras augue augue, finibus rutrum pulvinar in, pretium non mauris. Quisque at orci dapibus, consequat leo at, eleifend justo.
 

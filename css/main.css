@@ -665,16 +665,6 @@ article .clear, #post-content .clear {
   text-align: center;
 }
 
-
-.owl-gallery {
-  margin-top: -140px!important;
-  box-shadow: 0px -10px 30px rgba(0, 0, 0, .8);
-  margin-bottom: -10px;
-  background-color: #000;
-
-}
-
-
 @media screen and (max-width: 780px) {
   .services-three li {
       width: 100%;
@@ -782,4 +772,8 @@ ul#pager {
 
 .container {
   overflow: hidden;
+}
+
+.services-three a img:hover {
+  cursor: inherit;
 }
