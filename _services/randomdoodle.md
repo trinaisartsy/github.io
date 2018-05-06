@@ -10,6 +10,8 @@ offering: commissions
 
 Can't make a huge investment but still want to show your support? Purchase a random doodle personally drawn by me. It will include your name as a thank you! What kind of weird drawing will you get? It will be a surprise!
 
+<!--more-->
+
 Digital doodle - $10 ( 500 x 500 px)
 
 
