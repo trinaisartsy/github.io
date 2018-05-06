@@ -5,10 +5,7 @@ description: Purchase an original artwork.
 active: services
 header-img: "media/servicescommissionsbutton2.jpg"
 group: three
-cta: buynow
 offering-type: commissions
 ---
 
-Commission prices start with a deposit of $30. From there, we will discuss specifics of size and medium, and come up with a final price for the project. Buying an original art is super easy - begin by placing your deposit, which garuntees you a spot on my list of commissions. Artwork will take anywhere from 2 to 4 weeks to complete. Shipping price will be calculated into the final costs.
-
-Place your deposit now - $30.00
+An original artwork is easy to purchase! Simply select an option from below. Commissions range from quick, reasonably priced sketches to highly detailed fine art projects. After purchasing your commission, please allow 1-2 days processing time so I can consult with you about your vision personally.
