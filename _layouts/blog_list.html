@@ -1,17 +1,20 @@
 ---
-layout: page
+layout: default
 title: trina is artsy - the coffee chronicles 
 # description: archive
 header-img: "art/7979755845_508af4de3b_o.jpg"
 ---
+{% include header.html %}
+
 
 <div id="post-content">
     {% if site.categories[page.category] %}
         {% for post in site.categories[page.category] %}
-        <br clear="all">
-        <a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
-        <span class="meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</span>
-        
+        <div class="bloglist-header">
+            <a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
+            <span class="meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</span>
+        </div>
+
         <p>{{ post.excerpt }}</p>
         
         {% if post.excerpt != post.content %}

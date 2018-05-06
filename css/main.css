@@ -21,7 +21,7 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #725377;
+  color: #d3a6da;
   transition: color .4s;
   text-decorarion: none;
 }
@@ -434,6 +434,18 @@ article .full img, #post-content .full img {
   width: 100%;
 } 
 
+
+@media screen and (max-width: 780px) {
+  article .small, #post-content .small, article .medium img, #post-content .medium img, article .large img, #post-content .large img 
+  {
+    clear: both;
+    width: 100%;
+    text-align: center;
+  }
+
+}
+
+
 article .left, #post-content .left {
   float: left;
 }
@@ -719,4 +731,51 @@ hr {
   border: 0;
   height: 0;
   box-shadow: 0 0 1px 1px rgb(196, 146, 196);
+}
+
+.bloglist-header {
+
+  /* border: 1px solid red; */
+  left: 0px;
+  right: 0px;
+  clear: both;
+  position: relative;
+  padding: 20px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#post-content {
+  padding-bottom: 80px;
+}
+
+.bloglist-header h2, .bloglist-header h3, .bloglist-header .meta {
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+.bloglist-header .meta {
+  color: #fff;
+}
+
+ul#pager {
+  position: absolute;
+  display: block;
+  clear: both;
+  /* border: 1px solid red; */
+  margin: 0 auto;
+  width: 100%;
+}
+#pager li {
+  float: center;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  
 }

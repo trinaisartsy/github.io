@@ -11,7 +11,7 @@ categories:
   - blog
 published: true
 ---
-[![My hideous paint palette](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.jpg)](http://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s1600/IMG_3013.jpg){: class="small right" }
+![My hideous paint palette](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.jpg){: class="small right" }
 
 _Originally Published April 2012_
 
