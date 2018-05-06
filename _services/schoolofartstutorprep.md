@@ -5,6 +5,7 @@ active: services
 img: media/servicesartschoolauditions.jpg
 group: bottom
 cta: booknow
+offering: tutor
 layout: "page"
 ---
 
