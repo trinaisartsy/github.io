@@ -10,7 +10,7 @@ categories:
   - tutorials
 ---
 
-[![Dried playdoh before and after - "Salted"](/media/mushroomsmall.jpg)](/media/mushroomsmall.jpgg){: class="medium center" }
+![Dried playdoh before and after - "Salted"](/media/mushroomsmall.jpg){: class="medium center" }
 
 
 _Originally Published 4 / 2017_
