@@ -5,6 +5,7 @@ active: services
 img: media/servicescommissionsbutton.jpg
 group: bottom
 cta: buynow
+offering: commissions
 layout: "page"
 ---
 Have a project you think I'd be perfect for? I'd love to create a masterpiece for you! Tell me your vision and we will discuss medium and size. The payment will be a deposit on the finished piece.
