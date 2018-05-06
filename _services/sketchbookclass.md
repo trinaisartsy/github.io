@@ -4,6 +4,7 @@ header-img: "media/aboutbanner.jpg"
 active: services
 img: media/servicessketchbookclass.jpg
 group: bottom
+offering: tutor
 cta: booknow
 layout: "page"
 ---
