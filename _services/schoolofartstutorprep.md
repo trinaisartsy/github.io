@@ -4,6 +4,7 @@ header-img: "media/aboutbanner.jpg"
 active: services
 img: media/servicesartschoolauditions.jpg
 group: bottom
+cta: booknow
 layout: "page"
 ---
 
