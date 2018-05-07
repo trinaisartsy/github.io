@@ -2,7 +2,7 @@
 title: Wreck It Party! (For kids or adults)
 header-img: "media/aboutbanner.jpg"
 active: services
-layout: page
+layout: "page"
 offering: live
 cta: booknow
 img: media/serviceswreckparty.jpg
