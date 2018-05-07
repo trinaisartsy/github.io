@@ -5,7 +5,6 @@ description: Ideal for art school auditions or newbies looking to learn the rope
 category: "services"
 active: services
 offering-type: tutor
-offering: booknow
 header-img: "media/servicesapportfolioprepprev.jpg"
 group: three
 ---
