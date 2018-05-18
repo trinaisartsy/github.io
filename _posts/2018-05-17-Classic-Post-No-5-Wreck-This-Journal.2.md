@@ -10,7 +10,6 @@ categories:
   - Wreck This Journal
   - blog
 ---
-![TrinaLYnGooseCreekRocks.jpg]({{site.baseurl}}/media/TrinaLYnGooseCreekRocks.jpg)
 
 [![](https://1.bp.blogspot.com/-XutnyPh2N0U/T7cqB5Whw1I/AAAAAAAABAQ/oQkY4HLXDHo/s320/IMG_5073.jpg)](http://1.bp.blogspot.com/-XutnyPh2N0U/T7cqB5Whw1I/AAAAAAAABAQ/oQkY4HLXDHo/s1600/IMG_5073.jpg)
 
