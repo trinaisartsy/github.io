@@ -1,5 +1,16 @@
 ---
 published: false
+layout: post
+subtitle: The Horror!
+active: journal
+image: bannerhomedecor.jpg
+header-img: bannerhomedecor.jpg
+tags:
+  - artsy fartsy stuff
+  - tutorials
+categories:
+  - blog
+  - tutorial
 ---
 ## Reupholstery tips for total newbies and beginners
 Featuring artist Racheal Buckley
