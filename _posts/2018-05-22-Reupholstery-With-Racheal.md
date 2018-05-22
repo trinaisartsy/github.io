@@ -18,7 +18,7 @@ categories:
 
 Everyone knows crafting is better with a friend- and sometimes you just need a few extra hands!
 
-![Before the reupholstering]({{site.baseurl}}/media/rachealcraft1.jpg){: class="medium center clear" }
+![Before the reupholstering]({{site.baseurl}}/media/rachealcraft1.jpg) {: class="medium center clear" }
 
 My good friend Racheal had this crusty little ottoman with good bones, all it needed was a bit of love. She found it on curb alert - its leather exterior has worn and cracked, but on the bottom it still clearly has a $60 price tag from Ross. 
 
@@ -47,7 +47,7 @@ Neither of us really had experience reupholstering anything before, but I think 
 
 Racheal's ottoman had a lid that had hinges and screws holding it in. To get the neatest effect possible, it was impertinent we removed all those pieces before continuing. Removing hinges are super easy and just require the correct screwdriver. 
 
-![Racheal adding the hinges back to her ottoman after we finished reupholstering it]({{site.baseurl}}/media/rachealcraft3.jpg){: class="left medium" }
+![Racheal adding the hinges back to her ottoman after we finished reupholstering it]({{site.baseurl}}/media/rachealcraft3.jpg) {: class="left medium" }
 
 You'll also need to remove the feet if your piece has any- they should have a screw inside them to allow you to easily take them off and put them back on again when you're finished. Put all the little pieces aside - bonus points if you put them in a zipblock bag or something so that they don't get lost. Prevent yourself a meltdown later when you're one screw away from finishing your project!
 
@@ -61,7 +61,7 @@ I don't really like measuring things, I'm more of an "eyeballer," so I can't rea
 
 We eventually decided on laying the fabric out completely flat and then "rolling" the ottoman accross the surface to determine how much we'd need to wrap the thing completely. We were also very generous with seam allowances because it's always better to have to trim some off than to not have enough fabric to cover the surface to begin with. Another reason we cut it large is because we wanted enough extra to fill the inside of the ottoman as well. 
 
-![Detail of Ottoman top]({{site.baseurl}}/media/rachealcraft5finished.jpg){: class="left medium" }
+![Detail of Ottoman top]({{site.baseurl}}/media/rachealcraft5finished.jpg) {: class="left medium" }
 The lid of the ottoman was much easier to manage. In our case, it was just a flat square shape with a plush top to it. We laid the fabric out and placed the lid on it and cut around the shape- again, with generous seam allowance. Seam allowance is so so important to be aware of, especially for newbie crafters. As a basic rule of thumb for seam allowances, cut AT LEAST 2-3 inches more around the edges than you think you might need. If you want to research this subject more, [check out this brief introduction to the concept by Freeswing](https://freesewing.org/docs/sewing/seam-allowance "What is Seam Allowance? By Freeswing.org").
 
 <br> 
