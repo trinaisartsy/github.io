@@ -12,7 +12,7 @@ categories:
   - blog
   - tutorial
 ---
-## Reupholstery tips for total newbies and beginners
+## Refurbishing tips for total newbies and beginners
 
 
 Everyone knows crafting is better with a friend- and sometimes you just need a few extra hands!
@@ -56,9 +56,9 @@ You'll also need to remove the feet if your piece has any- they should have a sc
 
 # 2. Cut out that Fabric!
 
-![Detail of Ottoman top](/media/rachealcraft5finished.jpg){: class="small left"}
 I don't really like measuring things, I'm more of an "eyeballer," so I can't really help you on how to determine numeric measurements. I'm sure some sort of mathematical formula exists out there to calculate it, you just won't find __me__ using it. 
 
+![Detail of Ottoman top](/media/rachealcraft5finished.jpg){: class="small left"}
 We eventually decided on laying the fabric out completely flat and then "rolling" the ottoman accross the surface to determine how much we'd need to wrap the thing completely. We were also very generous with seam allowances because it's always better to have to trim some off than to not have enough fabric to cover the surface to begin with. Another reason we cut it large is because we wanted enough extra to fill the inside of the ottoman as well. 
 
 The lid of the ottoman was much easier to manage. In our case, it was just a flat square shape with a plush top to it. We laid the fabric out and placed the lid on it and cut around the shape- again, with generous seam allowance. Seam allowance is so so important to be aware of, especially for newbie crafters. As a basic rule of thumb for seam allowances, cut AT LEAST 2-3 inches more around the edges than you think you might need. If you want to research this subject more, [check out this brief introduction to the concept by Freeswing](https://freesewing.org/docs/sewing/seam-allowance "What is Seam Allowance? By Freeswing.org").
@@ -76,7 +76,7 @@ Some techniques you'll use during this step that others can probably explain bet
 
 ## How to wrap the corners neatly
 
-[This fantastic little video and write up by Lynn of Nourish and Nestle](https://www.nourishandnestle.com/paint-fabric-new-life-old-bench/ "How to wrap fabric around corners") will help out a lot when trying to get those perfectly wrapped corners on your ottoman. This will especially be important for the lid. 
+[This fantastic little video and write up by Lynn of Nourish and Nestle](https://www.nourishandnestle.com/paint-fabric-new-life-old-bench/ "How to wrap fabric around corners") will help out a lot when trying to get those perfectly wrapped corners on your ottoman. This will especially be important for getting that neat, professional look to your refurbish. 
 
 ## Neat Hem Lines...AKA No raw edges!
 
