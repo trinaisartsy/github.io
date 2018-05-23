@@ -50,17 +50,17 @@ Racheal's ottoman had a lid that had hinges and screws holding it in. To get the
 
 You'll also need to remove the feet if your piece has any- they should have a screw inside them to allow you to easily take them off and put them back on again when you're finished. Put all the little pieces aside - bonus points if you put them in a zipblock bag or something so that they don't get lost. Prevent yourself a meltdown later when you're one screw away from finishing your project!
 
-****Important: Don't forget to mark where the original screw holes are so that you can put them back in at the end! ****
+**Important: Don't forget to mark where the original screw holes are so that you can put them back in at the end! **
 
 <br> <br> <br>
 
 # 2. Cut out that Fabric!
 
+![Detail of Ottoman top](/media/rachealcraft5finished.jpg){: class="small left"}
 I don't really like measuring things, I'm more of an "eyeballer," so I can't really help you on how to determine numeric measurements. I'm sure some sort of mathematical formula exists out there to calculate it, you just won't find __me__ using it. 
 
 We eventually decided on laying the fabric out completely flat and then "rolling" the ottoman accross the surface to determine how much we'd need to wrap the thing completely. We were also very generous with seam allowances because it's always better to have to trim some off than to not have enough fabric to cover the surface to begin with. Another reason we cut it large is because we wanted enough extra to fill the inside of the ottoman as well. 
 
-![Detail of Ottoman top](/media/rachealcraft5finished.jpg){: class="small left"}
 The lid of the ottoman was much easier to manage. In our case, it was just a flat square shape with a plush top to it. We laid the fabric out and placed the lid on it and cut around the shape- again, with generous seam allowance. Seam allowance is so so important to be aware of, especially for newbie crafters. As a basic rule of thumb for seam allowances, cut AT LEAST 2-3 inches more around the edges than you think you might need. If you want to research this subject more, [check out this brief introduction to the concept by Freeswing](https://freesewing.org/docs/sewing/seam-allowance "What is Seam Allowance? By Freeswing.org").
 
 <br> 
@@ -74,11 +74,11 @@ We started on one side and made a line of staples along the top edge of the otto
 
 Some techniques you'll use during this step that others can probably explain better than me:
 
-**** How to wrap the corners neatly ****
+## How to wrap the corners neatly
 
-[This fantastic little video and write up by Lynn of Nourish and Nestle](https://www.nourishandnestle.com/paint-fabric-new-life-old-bench/ "How to wrap fabric around corners")
+[This fantastic little video and write up by Lynn of Nourish and Nestle](https://www.nourishandnestle.com/paint-fabric-new-life-old-bench/ "How to wrap fabric around corners") will help out a lot when trying to get those perfectly wrapped corners on your ottoman. This will especially be important for the lid. 
 
--**** Neat Hem Lines...AKA No raw edges! ****
+## Neat Hem Lines...AKA No raw edges!
 
 [Indie Sew has a basic tutorial for hemming](https://indiesew.com/blog/how-to-sew-a-double-fold-hem "Hemlines 101") that will give you a basic idea of what we're trying to achieve. I think adding a hem on the edges made a big difference in the overall quality of the finished piece, but we didn't go through all the trouble of sewing the hems or even ironing them. With a bit of finess, we rolled the raw edges over before stapling them down to the ottoman. If you staple close enough to the hemmed edge, the fabric will catch and stay neatly folded down. We kept the hem pinned down and gradually removed the pins as we stapled. If you're having trouble with this step, an iron can be used to help flatten the edges down before you staple them.
 
@@ -94,7 +94,7 @@ From here, go ahead and put the hardware (if any) back on your ottoman. You'll h
 
 # 5. The Finished Product
 
-![Ottoman with poop on it! So Classy!](/media/rachealcraft6finished.jpg){: class="small center clear"}
+![Ottoman with poop on it! So Classy!](/media/rachealcraft6finished.jpg){: class="medium center clear"}
 
-![Completed view of the reupholstered ottoman in the living room](/media/rachealcraftfinished.jpg){: class="small center clear"}
+![Completed view of the reupholstered ottoman in the living room](/media/rachealcraftfinished.jpg){: class="medium center clear"}
 Didn't it turn out completely fabulous? With teamwork, anything is possible, even for reupholstery / refurbishing newbies. I hope your project turns out just as good. Happy crafting!
