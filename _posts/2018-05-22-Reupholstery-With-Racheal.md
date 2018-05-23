@@ -17,7 +17,7 @@ categories:
 
 Everyone knows crafting is better with a friend- and sometimes you just need a few extra hands!
 
-![Before the reupholstering]({{site.baseurl}}/media/rachealcraft1.jpg){: class="center small clear"}
+![Before the reupholstering](/media/rachealcraft1.jpg){: class="center small clear"}
 
 My good friend Racheal had this crusty little ottoman with good bones, all it needed was a bit of love. She found it on curb alert - its leather exterior has worn and cracked, but on the bottom it still clearly has a $60 price tag from Ross. 
 
@@ -25,7 +25,7 @@ After a day's worth of work and fiddling around, trying different things until i
 
 <!--more-->
 
-![Completed view of the reupholstered ottoman]({{site.baseurl}}/media/rachealcraft4finished.jpg){: class="medium center clear"}
+![Completed view of the reupholstered ottoman](/media/rachealcraft4finished.jpg){: class="medium center clear"}
 
 Neither of us really had experience reupholstering anything before, but I think the results still turned out pretty fantastic. Anyone can give a project like this a try though as long as you have the right tools for the job and a little bit of gumption! From one beginner to another, let me give you some tips to make your own reupholstery project a success.
 
@@ -46,7 +46,7 @@ Neither of us really had experience reupholstering anything before, but I think 
 
 Racheal's ottoman had a lid that had hinges and screws holding it in. To get the neatest effect possible, it was impertinent we removed all those pieces before continuing. Removing hinges are super easy and just require the correct screwdriver. 
 
-![Racheal adding the hinges back to her ottoman after we finished reupholstering it]({{site.baseurl}}/media/rachealcraft3.jpg){: class="medium left"}
+![Racheal adding the hinges back to her ottoman after we finished reupholstering it](/media/rachealcraft3.jpg){: class="medium left"}
 
 You'll also need to remove the feet if your piece has any- they should have a screw inside them to allow you to easily take them off and put them back on again when you're finished. Put all the little pieces aside - bonus points if you put them in a zipblock bag or something so that they don't get lost. Prevent yourself a meltdown later when you're one screw away from finishing your project!
 
@@ -60,13 +60,13 @@ I don't really like measuring things, I'm more of an "eyeballer," so I can't rea
 
 We eventually decided on laying the fabric out completely flat and then "rolling" the ottoman accross the surface to determine how much we'd need to wrap the thing completely. We were also very generous with seam allowances because it's always better to have to trim some off than to not have enough fabric to cover the surface to begin with. Another reason we cut it large is because we wanted enough extra to fill the inside of the ottoman as well. 
 
-![Detail of Ottoman top]({{site.baseurl}}/media/rachealcraft5finished.jpg){: class="small left"}
+![Detail of Ottoman top](/media/rachealcraft5finished.jpg){: class="small left"}
 The lid of the ottoman was much easier to manage. In our case, it was just a flat square shape with a plush top to it. We laid the fabric out and placed the lid on it and cut around the shape- again, with generous seam allowance. Seam allowance is so so important to be aware of, especially for newbie crafters. As a basic rule of thumb for seam allowances, cut AT LEAST 2-3 inches more around the edges than you think you might need. If you want to research this subject more, [check out this brief introduction to the concept by Freeswing](https://freesewing.org/docs/sewing/seam-allowance "What is Seam Allowance? By Freeswing.org").
 
 <br> 
 
 # 3. Staple things together
-![Racheal working attaching the reupholstery fabric.]({{site.baseurl}}/media/rachealcraft2.jpg){: class="small left"}
+![Racheal working attaching the reupholstery fabric.](/media/rachealcraft2.jpg){: class="small left"}
 Once you have your fabric cut out, it's time to really get started. It definitely helps to have a partner for this part, to help keep the fabric taut as you staple it. Try not to pull it so tight that it's going to tear at the slightest movement, you'll want a small bit of give but not enough for wrinkles or draping. 
 
 We started on one side and made a line of staples along the top edge of the ottoman. Keep your staples as neat and uniform as possible, even if you think they won't show. You might be underestimating what will ultimately be visible on the finished project, and any sloppy craftsmanship is absolutely going to reveal itself at some point. 
@@ -94,7 +94,7 @@ From here, go ahead and put the hardware (if any) back on your ottoman. You'll h
 
 # 5. The Finished Product
 
-![Ottoman with poop on it! So Classy!]({{site.baseurl}}/media/rachealcraft6finished.jpg){: class="left medium"}
+![Ottoman with poop on it! So Classy!](/media/rachealcraft6finished.jpg){: class="left medium"}
 
-![Completed view of the reupholstered ottoman in the living room]({{site.baseurl}}/media/rachealcraftfinished.jpg){: class="medium center clear"}
+![Completed view of the reupholstered ottoman in the living room]({/media/rachealcraftfinished.jpg){: class="medium center clear"}
 Didn't it turn out completely fabulous? With teamwork, anything is possible, even for reupholstery / refurbishing newbies. I hope your project turns out just as good. Happy crafting!
