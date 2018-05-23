@@ -60,13 +60,13 @@ I don't really like measuring things, I'm more of an "eyeballer," so I can't rea
 
 We eventually decided on laying the fabric out completely flat and then "rolling" the ottoman accross the surface to determine how much we'd need to wrap the thing completely. We were also very generous with seam allowances because it's always better to have to trim some off than to not have enough fabric to cover the surface to begin with. Another reason we cut it large is because we wanted enough extra to fill the inside of the ottoman as well. 
 
-![Detail of Ottoman top]({{site.baseurl}}/media/rachealcraft5finished.jpg) {: class="medium left"}
+![Detail of Ottoman top]({{site.baseurl}}/media/rachealcraft5finished.jpg){: class="small left"}
 The lid of the ottoman was much easier to manage. In our case, it was just a flat square shape with a plush top to it. We laid the fabric out and placed the lid on it and cut around the shape- again, with generous seam allowance. Seam allowance is so so important to be aware of, especially for newbie crafters. As a basic rule of thumb for seam allowances, cut AT LEAST 2-3 inches more around the edges than you think you might need. If you want to research this subject more, [check out this brief introduction to the concept by Freeswing](https://freesewing.org/docs/sewing/seam-allowance "What is Seam Allowance? By Freeswing.org").
 
 <br> 
 
 # 3. Staple things together
-![Racheal working attaching the reupholstery fabric.]({{site.baseurl}}/media/rachealcraft2.jpg){: class="medium left"}
+![Racheal working attaching the reupholstery fabric.]({{site.baseurl}}/media/rachealcraft2.jpg){: class="small left"}
 Once you have your fabric cut out, it's time to really get started. It definitely helps to have a partner for this part, to help keep the fabric taut as you staple it. Try not to pull it so tight that it's going to tear at the slightest movement, you'll want a small bit of give but not enough for wrinkles or draping. 
 
 We started on one side and made a line of staples along the top edge of the ottoman. Keep your staples as neat and uniform as possible, even if you think they won't show. You might be underestimating what will ultimately be visible on the finished project, and any sloppy craftsmanship is absolutely going to reveal itself at some point. 
