@@ -18,7 +18,7 @@ categories:
 
 Everyone knows crafting is better with a friend- and sometimes you just need a few extra hands!
 
-![Before the reupholstering]({{site.baseurl}}/media/rachealcraft1.jpg){: class="medium center clear"}
+![Before the reupholstering]({{site.baseurl}}/media/rachealcraft1.jpg){: class="small center clear"}
 
 My good friend Racheal had this crusty little ottoman with good bones, all it needed was a bit of love. She found it on curb alert - its leather exterior has worn and cracked, but on the bottom it still clearly has a $60 price tag from Ross. 
 
