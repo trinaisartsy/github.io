@@ -52,7 +52,7 @@ You'll also need to remove the feet if your piece has any- they should have a sc
 
 ****Important: Don't forget to mark where the original screw holes are so that you can put them back in at the end! ****
 
-<br> <br>
+<br> <br> <br>
 
 # 2. Cut out that Fabric!
 
@@ -94,7 +94,7 @@ From here, go ahead and put the hardware (if any) back on your ottoman. You'll h
 
 # 5. The Finished Product
 
-![Ottoman with poop on it! So Classy!](/media/rachealcraft6finished.jpg){: class="left medium"}
+![Ottoman with poop on it! So Classy!](/media/rachealcraft6finished.jpg){: class="small center clear"}
 
-![Completed view of the reupholstered ottoman in the living room]({/media/rachealcraftfinished.jpg){: class="medium center clear"}
+![Completed view of the reupholstered ottoman in the living room](/media/rachealcraftfinished.jpg){: class="small center clear"}
 Didn't it turn out completely fabulous? With teamwork, anything is possible, even for reupholstery / refurbishing newbies. I hope your project turns out just as good. Happy crafting!
