@@ -44,15 +44,15 @@ Neither of us really had experience reupholstering anything before, but I think 
 <br>
 # 1. Remove any extra hardware
 
+![Racheal adding the hinges back to her ottoman after we finished reupholstering it](/media/rachealcraft3.jpg){: class="small left"}
 Racheal's ottoman had a lid that had hinges and screws holding it in. To get the neatest effect possible, it was impertinent we removed all those pieces before continuing. Removing hinges are super easy and just require the correct screwdriver. 
 
-![Racheal adding the hinges back to her ottoman after we finished reupholstering it](/media/rachealcraft3.jpg){: class="medium left"}
 
 You'll also need to remove the feet if your piece has any- they should have a screw inside them to allow you to easily take them off and put them back on again when you're finished. Put all the little pieces aside - bonus points if you put them in a zipblock bag or something so that they don't get lost. Prevent yourself a meltdown later when you're one screw away from finishing your project!
 
 ****Important: Don't forget to mark where the original screw holes are so that you can put them back in at the end! ****
 
-<br>
+<br> <br>
 
 # 2. Cut out that Fabric!
 
