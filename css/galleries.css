@@ -14,6 +14,9 @@
 .gallery-caption h3  { font-weight: bold; text-transform: uppercase; font-size: .9em; letter-spacing: 0.05em; }
 .gallery-caption .entry-summary > p { font-family: Times, serif; font-style: italic; font-size: .8em; opacity: .8; }
 
+
+
+
 #gallery-filter { display: block; position: relative; top: 12px; }
 #gallery-filter ul {  list-style: none; padding: 0; margin: 0 0 .3em 0; font-size: .8em; letter-spacing: 0.05em; }
 #gallery-filter ul li { display: inline-block; vertical-align: bottom; margin: 0 2em 2em 0; }
@@ -148,4 +151,15 @@ img.mfp-img { padding: 0; }
 	/*galleries adapted*/
 	.fullscreen-gallery .gallery-caption .entry-summary { padding-bottom: 5em; }
 	.masonry-gallery .gallery-item { width: 98% !important; }
+}
 	  
+
+.store .gallery-icon img {
+
+	height: 300px!important;
+
+}
+
+.store figure.gallery-item {
+	text-align: center;
+}

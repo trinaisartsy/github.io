@@ -1,0 +1,106 @@
+---
+layout: page
+title: "Store"
+description: "Artwork from 2010 - Present"
+active: gallery
+header-img: "media/banner3.png"
+---
+
+<html class="no-js" lang="en">
+<head>
+	<meta content="charset=utf-8">
+</head>
+
+    <body>
+ 
+	<section id="content" role="main">
+		<div class="wrapper">
+			<br><br>
+			<!-- Gallery __-->
+			<div class="store gallery masonry-gallery">
+				
+			<!-- we want to loop through each image and determine if we want to display -->
+			{% for image in site.static_files %}
+				
+				<!-- default values -->
+				{% assign title = "Zoom" %}
+                {% assign url = "#" %}
+                {% assign price = "20" %}
+
+				<!--- this page only applies to stuff in an art directory -->
+				{% if image.path contains 'art/' %}				
+					<!-- some logic to use thumbnails if available -->
+					{% unless image.path contains 'thumbs' %}
+						{% assign rendered = image.relative_path %}
+						{% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
+						<!-- lets pull out any useful meta about this image from the loaded post/markdown -->
+						{% for post in site.art %}
+							{% if image.path contains post.image %}	
+								{% assign title = post.title %}
+                                {% assign url = post.url %}
+                                {% assign price = post.price %}
+							{% endif %}
+						{% endfor %} 
+						<!-- template -->
+                        {% if rendered != image.path %}	
+                            {% if title != "Zoom" %}	
+							<figure class="gallery-item">
+								<header class='gallery-icon'>
+									<a href="{{ url }}" title="{{ title }}" data-caption="<a href='{{ url }}'><b>Learn More</b></a>">
+										{% capture imgsrc %}{% thumbnail imagepath 500x500 %}{% endcapture %}
+										{{ imgsrc | replace: "src='", "src='/" }}
+									</a>
+								</header>	
+                                <h3><a href="{{ url }}">{{ title }}</a></h3>	
+                                <h4>${{ price }}</h4>						
+                            </figure>
+                            {% endif %}	
+						{% endif %}				
+					{% endunless %}
+				{% endif %}
+			{% endfor %}
+
+			</div>
+
+		</div><!-- END .wrapper -->
+	</section>
+
+<!-- jQuery -->    
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!-- include image popups -->
+<script src="{{ site.baseurl }}/js/jquery.magnific-popup.js"></script>
+
+<script type="text/javascript">
+      $(document).ready(function($) {
+        $('a.popup').magnificPopup({
+         type: 'image',
+	  gallery:{
+         enabled:true,
+         navigateByImgClick: true,
+         preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+       },
+image: {
+      titleSrc: function(item) {
+              return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+            }
+        }
+          // other options
+      });
+});
+    </script>
+
+<script src="{{ site.baseurl }}/js/retina.min.js"></script>
+<!-- include Masonry -->
+<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script> 
+<!-- include mousewheel plugins -->
+<script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
+<!-- include carousel plugins -->
+<script src="{{ site.baseurl}}/js/jquery.tinycarousel.min.js"></script>
+<!-- include svg line drawing plugin -->
+<script src="{{ site.baseurl }}/js/jquery.lazylinepainter.min.js"></script>
+<!-- include custom script -->
+<script src="{{ site.baseurl }}/js/scripts.js"></script>
+
+    
+</body></html>
