@@ -421,7 +421,7 @@ article .small, #post-content .small {
   max-width: 30%;
 }
 
-article .medium img, #post-content .medium img {
+article img.medium, #post-content img.medium  {
   width: 50%;
 }
 
@@ -450,7 +450,7 @@ article .left, #post-content .left {
   float: left;
 }
 
-article .center img, #post-content .center img {
+article img.center, #post-content img.center {
   margin: 0 auto;
 }
 
