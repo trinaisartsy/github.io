@@ -19,6 +19,7 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+  clear: both;
 }
 a {
   color: #d3a6da;
