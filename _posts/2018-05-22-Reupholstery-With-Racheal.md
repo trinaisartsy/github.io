@@ -18,7 +18,7 @@ categories:
 
 Everyone knows crafting is better with a friend- and sometimes you just need a few extra hands!
 
-![Before the reupholstering]({{site.baseurl}}/media/rachealcraft1.jpg) {: class="medium center clear" }
+![Before the reupholstering]({{site.baseurl}}/media/rachealcraft1.jpg){: class="medium center clear"}
 
 My good friend Racheal had this crusty little ottoman with good bones, all it needed was a bit of love. She found it on curb alert - its leather exterior has worn and cracked, but on the bottom it still clearly has a $60 price tag from Ross. 
 
@@ -26,7 +26,7 @@ After a day's worth of work and fiddling around, trying different things until i
 
 <!--more-->
 
-![Completed view of the reupholstered ottoman]({{site.baseurl}}/media/rachealcraft4finished.jpg){: class="medium center clear" }
+![Completed view of the reupholstered ottoman]({{site.baseurl}}/media/rachealcraft4finished.jpg){: class="medium center clear"}
 
 Neither of us really had experience reupholstering anything before, but I think the results still turned out pretty fantastic. Anyone can give a project like this a try though as long as you have the right tools for the job and a little bit of gumption! From one beginner to another, let me give you some tips to make your own reupholstery project a success.
 
@@ -47,7 +47,7 @@ Neither of us really had experience reupholstering anything before, but I think 
 
 Racheal's ottoman had a lid that had hinges and screws holding it in. To get the neatest effect possible, it was impertinent we removed all those pieces before continuing. Removing hinges are super easy and just require the correct screwdriver. 
 
-![Racheal adding the hinges back to her ottoman after we finished reupholstering it]({{site.baseurl}}/media/rachealcraft3.jpg) {: class="left medium" }
+![Racheal adding the hinges back to her ottoman after we finished reupholstering it]({{site.baseurl}}/media/rachealcraft3.jpg){: class="left medium" }
 
 You'll also need to remove the feet if your piece has any- they should have a screw inside them to allow you to easily take them off and put them back on again when you're finished. Put all the little pieces aside - bonus points if you put them in a zipblock bag or something so that they don't get lost. Prevent yourself a meltdown later when you're one screw away from finishing your project!
 
