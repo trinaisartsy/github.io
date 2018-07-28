@@ -60,6 +60,7 @@ class Jekyll::Thumbnail < Liquid::Tag
         image = MiniMagick::Image.open(source_path)
         image.strip
         image.resize dimensions
+        image.quality 40
         image.write dest_path
       end
 
