@@ -26,8 +26,8 @@ header-img: "media/banner3.jpg"
 					{% endif %}
 				{% endfor %} 
 				{% if rendered != image.path %}	
-					{% capture thumbsrc %}{% thumbnail imagepath 500x500 %}{% endcapture %}
-					{% capture fullsrc %}{% thumbnail imagepath 1920x1080 %}{% endcapture %}									
+					{% capture thumbsrc %}{% thumbnail imagepath 800x800 %}{% endcapture %}
+					{% capture fullsrc %}{% thumbnail imagepath 1900x1900 %}{% endcapture %}									
 					<article 
 						data-href="/{{ fullsrc | replace: "<img src='", "" |  replace: "' />", "" }}"
 						data-title="{{ title }}"
