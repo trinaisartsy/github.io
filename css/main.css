@@ -778,3 +778,20 @@ ul#pager {
 .services-three a img:hover {
   cursor: inherit;
 }
+
+
+.gallery {
+  min-height: 1000px;
+}
+
+.gallery img {
+	float: left;
+	margin: 10px;
+	max-height: 800px;
+	width: 95%;
+}
+
+.gallery-col {
+	width: 50%;
+	float: left;
+}

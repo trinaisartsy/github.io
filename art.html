@@ -74,9 +74,8 @@ header-img: "media/banner3.jpg"
 
 <script type="text/javascript">
 
-// basic lazy loader
-var lazyload = {
-
+var dripload = {
+// once started, this will start populating the gallery one image at a time.
 	left: true,
 	// this will load one image at a time, 
 	generateImage: function() {
@@ -86,8 +85,6 @@ var lazyload = {
 
 		image = new Image();
 		image.onload = function(a) {
-			this.x++;
-			console.log(this.left)
 			if(this.left) {
 				append = $('#col-a')
 				this.left = false;
@@ -100,8 +97,8 @@ var lazyload = {
 				$('<a href="'+data.href+'" title="'+data.title+'" data-caption="'+data.caption+'"></a>')
 			).closest('a').appendTo(append);
 
-
 			this.generateImage();
+
 		}.bind(this);
 		image.src = data.thumbnail;
 		article.remove();
@@ -113,12 +110,9 @@ $(window).on("load", function() {
 	$('.gallery').magnificPopup({
   		delegate: 'a', // child items selector, by clicking on it popup will open
   		type: 'image'
-  // other options
 	});
 
-	lazyload.generateImage();
-
-
+	dripload.generateImage();
 });
 
 </script>
@@ -130,18 +124,5 @@ $(window).on("load", function() {
   </script>
 
 
-<style type="text/css">
-	.gallery img {
-		float: left;
-		margin: 10px;
-		max-height: 800px;
-		width: 95%;
-	}
-
-	 .gallery-col {
-		 width: 50%;
-		 float: left;
-	 }
-</style>
 
 </body></html>
