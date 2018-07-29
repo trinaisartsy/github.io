@@ -61,7 +61,15 @@ class Jekyll::Thumbnail < Liquid::Tag
         image.strip
         image.resize dimensions
         image.quality 60
-        image.write dest_path
+
+        second_image = MiniMagick::Image.new("img/watermark-#{dimensions}.png")
+
+        result = image.composite(second_image) do |c|
+          c.compose "Over"    # OverCompositeOp
+          c.geometry "-20-20" # copy second_image onto first_image from (20, 20)
+        end
+
+        result.write dest_path
       end
 
       """<img src='#{dest}' />"""
