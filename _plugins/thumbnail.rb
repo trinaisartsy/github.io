@@ -66,7 +66,7 @@ class Jekyll::Thumbnail < Liquid::Tag
 
         result = image.composite(second_image) do |c|
           c.compose "Over"    # OverCompositeOp
-          c.geometry "-20-20" # copy second_image onto first_image from (20, 20)
+          c.geometry "+20+20" # copy second_image onto first_image from (20, 20)
         end
 
         result.write dest_path
