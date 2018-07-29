@@ -19,7 +19,8 @@ header-img: "media/banner3.jpg"
 			<!-- Gallery __-->
 			<div class="gallery">
 			{% for image in site.static_files %}
-				{% assign title = "Zoom" %}
+				{% assign price = "" %}
+				{% assign title = "" %}
 				{% assign url = "#" %}
 				{% if image.path contains 'art/' %}				
 					{% unless image.path contains 'thumbs' %}
