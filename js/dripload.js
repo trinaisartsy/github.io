@@ -17,6 +17,7 @@ var dripload = {
                 this.left = true;
             }
             
+            pricecallout = '';
             if(data.price) {
                 pricecallout = '<div>Buy now for</div>';
             }

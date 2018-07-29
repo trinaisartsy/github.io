@@ -6,53 +6,41 @@ active: gallery
 header-img: "media/banner3.jpg"
 ---
 
-<html class="no-js" lang="en">
-<head>
-	<meta content="charset=utf-8">
-</head>
+<div class="gallery">
 
-    <body>
- 
-	<section id="content" role="main">
-		<div class="wrapper">
-			<br><br>
-			<!-- Gallery __-->
-			<div class="gallery">
-			{% for image in site.static_files %}
-				{% assign price = "" %}
-				{% assign title = "" %}
-				{% assign url = "#" %}
-				{% if image.path contains 'art/' %}				
-					{% unless image.path contains 'thumbs' %}
-						{% assign rendered = image.relative_path %}
-						{% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
-						{% for post in site.art %}
-							{% if image.path contains post.image %}	
-								{% assign title = post.title %}
-								{% assign url = post.url %}
-							{% endif %}
-						{% endfor %} 
-						{% if rendered != image.path %}	
-							{% capture thumbsrc %}{% thumbnail imagepath 500x500 %}{% endcapture %}							
-							<article 
-								data-href="{{ site.url }}{{ site.baseurl }}{{ image.path }}"
-								data-title="{{ title }}"
-								data-url="{{ url }}"
-								data-thumbnail="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}"
-								data-caption="<a href='{{ url }}'><b>Learn More</b></a>"
-							></article>
-						{% endif %}				
-					{% endunless %}
-				{% endif %}
-			{% endfor %}
+	<div class="gallery-col" id="col-a"></div>
+	<div class="gallery-col" id="col-b"></div>
 
+	{% for image in site.static_files %}
+		{% assign price = "" %}
+		{% assign title = "" %}
+		{% assign url = "#" %}
+		{% if image.path contains 'art/' %}				
+			{% unless image.path contains 'thumbs' %}
+				{% assign rendered = image.relative_path %}
+				{% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
+				{% for post in site.art %}
+					{% if image.path contains post.image %}	
+						{% assign title = post.title %}
+						{% assign url = post.url %}
+					{% endif %}
+				{% endfor %} 
+				{% if rendered != image.path %}	
+					{% capture thumbsrc %}{% thumbnail imagepath 500x500 %}{% endcapture %}
+					{% capture fullsrc %}{% thumbnail imagepath 1920x1080 %}{% endcapture %}									
+					<article 
+						data-href="/{{ fullsrc | replace: "<img src='", "" |  replace: "' />", "" }}"
+						data-title="{{ title }}"
+						data-url="{{ url }}"
+						data-thumbnail="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}"
+						data-caption="<a href='{{ url }}'><b>Learn More</b></a>"
+					></article>
+				{% endif %}				
+			{% endunless %}
+		{% endif %}
+	{% endfor %}
 
-			<div class="gallery-col" id="col-a"></div>
-			<div class="gallery-col" id="col-b"></div>
-		</div>
-		</div><!-- END .wrapper -->
-	</section>
-
+</div>
 <!-- jQuery -->    
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -60,7 +48,7 @@ header-img: "media/banner3.jpg"
 <script src="{{ site.baseurl }}/js/jquery.magnific-popup.js"></script>
 
 
-
+<!-- some retina display libary for the high-rest images -->
 <script src="{{ site.baseurl }}/js/retina.min.js"></script>
 <!-- include Masonry -->
 <script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script> 
@@ -68,44 +56,12 @@ header-img: "media/banner3.jpg"
 <script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
 <!-- include carousel plugins -->
 <script src="{{ site.baseurl}}/js/jquery.tinycarousel.min.js"></script>
-
 <!-- include custom script -->
 <script src="{{ site.baseurl }}/js/scripts.js"></script>
-
+<!-- our driploader script -->
+<script src="{{ site.baseurl }}/js/dripload.js"></script>
 
 <script type="text/javascript">
-
-var dripload = {
-// once started, this will start populating the gallery one image at a time.
-	left: true,
-	// this will load one image at a time, 
-	generateImage: function() {
-
-		article = $('.gallery article')[0]
-		data = article.dataset;
-
-		image = new Image();
-		image.onload = function(a) {
-			if(this.left) {
-				append = $('#col-a')
-				this.left = false;
-			} else {
-				append = $('#col-b')
-				this.left = true;
-			}
-			
-			$(image).appendTo(
-				$('<a href="'+data.href+'" title="'+data.title+'" data-caption="'+data.caption+'"></a>')
-			).closest('a').appendTo(append);
-
-			this.generateImage();
-
-		}.bind(this);
-		image.src = data.thumbnail;
-		article.remove();
-	}
-}
-
 // wait for the rest of the page to load before loading images
 $(window).on("load", function() {
 	$('.gallery').magnificPopup({
@@ -117,13 +73,3 @@ $(window).on("load", function() {
 });
 
 </script>
-
-<script type="text/javascript">
-	$(document).ready(function($) {
-	 
-});
-  </script>
-
-
-
-</body></html>
