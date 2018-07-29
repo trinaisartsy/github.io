@@ -17,50 +17,38 @@ header-img: "media/banner3.png"
 		<div class="wrapper">
 			<br><br>
 			<!-- Gallery __-->
-			<div class="gallery masonry-gallery">
-				
-			<!-- we want to loop through each image and determine if we want to display -->
+			<div class="gallery">
 			{% for image in site.static_files %}
-				
-				<!-- default values -->
 				{% assign title = "Zoom" %}
 				{% assign url = "#" %}
-
-				<!--- this page only applies to stuff in an art directory -->
 				{% if image.path contains 'art/' %}				
-					<!-- some logic to use thumbnails if available -->
 					{% unless image.path contains 'thumbs' %}
 						{% assign rendered = image.relative_path %}
 						{% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
-						<!-- lets pull out any useful meta about this image from the loaded post/markdown -->
 						{% for post in site.art %}
 							{% if image.path contains post.image %}	
 								{% assign title = post.title %}
 								{% assign url = post.url %}
 							{% endif %}
 						{% endfor %} 
-						<!-- template -->
 						{% if rendered != image.path %}	
-							<figure class="gallery-item">
-								<header class='gallery-icon'>
-									<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ title }}" data-caption="<a href='{{ url }}'><b>Learn More</b></a>">
-										{% capture imgsrc %}{% thumbnail imagepath 500x500 %}{% endcapture %}
-										{{ imgsrc | replace: "src='", "src='/" }}
-									</a>
-								</header>	
-								<figcaption class='gallery-caption'>
-									<div class="entry-summary" id="{{ image.path }}">
-										<h3>{{ title }}</h3>							
-									</div>
-								</figcaption>
-							</figure>
+							{% capture thumbsrc %}{% thumbnail imagepath 500x500 %}{% endcapture %}							
+							<article 
+								data-href="{{ site.url }}{{ site.baseurl }}{{ image.path }}"
+								data-title="{{ title }}"
+								data-url="{{ url }}"
+								data-thumbnail="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}"
+								data-caption="<a href='{{ url }}'><b>Learn More</b></a>"
+							></article>
 						{% endif %}				
 					{% endunless %}
 				{% endif %}
 			{% endfor %}
 
-			</div>
 
+			<div class="gallery-col" id="col-a"></div>
+			<div class="gallery-col" id="col-b"></div>
+		</div>
 		</div><!-- END .wrapper -->
 	</section>
 
@@ -70,24 +58,7 @@ header-img: "media/banner3.png"
 <!-- include image popups -->
 <script src="{{ site.baseurl }}/js/jquery.magnific-popup.js"></script>
 
-<script type="text/javascript">
-      $(document).ready(function($) {
-        $('a.popup').magnificPopup({
-         type: 'image',
-	  gallery:{
-         enabled:true,
-         navigateByImgClick: true,
-         preload: [0,1] // Will preload 0 - before current, and 1 after the current image
-       },
-image: {
-      titleSrc: function(item) {
-              return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
-            }
-        }
-          // other options
-      });
-});
-    </script>
+
 
 <script src="{{ site.baseurl }}/js/retina.min.js"></script>
 <!-- include Masonry -->
@@ -96,10 +67,81 @@ image: {
 <script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
 <!-- include carousel plugins -->
 <script src="{{ site.baseurl}}/js/jquery.tinycarousel.min.js"></script>
-<!-- include svg line drawing plugin -->
-<script src="{{ site.baseurl }}/js/jquery.lazylinepainter.min.js"></script>
+
 <!-- include custom script -->
 <script src="{{ site.baseurl }}/js/scripts.js"></script>
 
-    
+
+<script type="text/javascript">
+
+// basic lazy loader
+var lazyload = {
+
+	left: true,
+	// this will load one image at a time, 
+	generateImage: function() {
+
+		article = $('.gallery article')[0]
+		data = article.dataset;
+
+		image = new Image();
+		image.onload = function(a) {
+			this.x++;
+			console.log(this.left)
+			if(this.left) {
+				append = $('#col-a')
+				this.left = false;
+			} else {
+				append = $('#col-b')
+				this.left = true;
+			}
+			
+			$(image).appendTo(
+				$('<a href="'+data.href+'" title="'+data.title+'" data-caption="'+data.caption+'"></a>')
+			).closest('a').appendTo(append);
+
+
+			this.generateImage();
+		}.bind(this);
+		image.src = data.thumbnail;
+		article.remove();
+	}
+}
+
+// wait for the rest of the page to load before loading images
+$(window).on("load", function() {
+	$('.gallery').magnificPopup({
+  		delegate: 'a', // child items selector, by clicking on it popup will open
+  		type: 'image'
+  // other options
+	});
+
+	lazyload.generateImage();
+
+
+});
+
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function($) {
+	 
+});
+  </script>
+
+
+<style type="text/css">
+	.gallery img {
+		float: left;
+		margin: 10px;
+		max-height: 800px;
+		width: 95%;
+	}
+
+	 .gallery-col {
+		 width: 50%;
+		 float: left;
+	 }
+</style>
+
 </body></html>
