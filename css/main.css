@@ -787,7 +787,7 @@ ul#pager {
 .gallery img {
 	float: left;
 	margin: 20px 0;
-	max-height: 800px;
+  max-height: 1100px;
 	width: 95%;
 }
 
