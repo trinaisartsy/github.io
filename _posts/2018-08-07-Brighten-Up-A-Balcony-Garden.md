@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 subtitle: null
 active: journal
@@ -108,4 +108,3 @@ Nothing adds a little ambiance like some string lights. They make the balcony fe
 ![pretty.. :)](/media/ContainerBalconyLights.jpg){: class="center medium clear"}
 
 My balcony garden is a work in progress, but it's growing! I still plan on adding a few things including solar lights for the planters and maybe even a few more plants. I'm really happy with the results so far though! What are your small space garden ideas? What elements make the back porch your favorite place to be? Leave a comment below to share your thoughts.
-
