@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 ![All this random furniture (and even some of the plants) were found for free.](/media/ContainerBalconyGardenNoLights.jpg){: class="medium clear"}
