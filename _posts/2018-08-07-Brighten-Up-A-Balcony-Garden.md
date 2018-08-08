@@ -2,7 +2,8 @@
 published: true
 ---
 
-![My Hippie Balcony!](/media/ContainerBalconyGardenNoLights.jpg){: class="center medium clear"}
+![All this random furniture (and even some of the plants) were found for free.](/media/ContainerBalconyGardenNoLights.jpg){: class="medium clear"}
+
 # Ideas hand picked from my garden garunteed to liven up any balcony or small porch.
 
 I've been cleaning up my balcony this summer. It was what could be expected of a small back porch - cluttered, dusty, and not very hospitable. A year ago, I set up some Halloween decorations and never took them all down. Then, my neighbor spilled a whole drink off their balcony and it got all over my seat cushions and chairs. All past attempts at plants had died during a surprise winter snow. Dead plants, weird stains. My balcony was a mess.
@@ -51,12 +52,12 @@ This time around, I tenatively sprayed a few coats of Polycrilic on the pots aft
 
 Here's a pot that has seen its better days. As you can see, the paint is starting to slowly chip off. Still, I think there's something intriuging about its aging process. How the dirt fills into the grooves of the original brush strokes, how the colors have darkened and changed over time, how twisted and gnarled the chipped paint looks. It all tells a story. Nature is adding her contribution to your artwork. 
 
-![Container Face]({{site.baseurl}}/media/ContainerBalconyGardenBattleDomePaintedFacePot.jpg){: class="center medium clear"} 
+![Container Face](/media/ContainerBalconyGardenBattleDomePaintedFacePot.jpg){: class="center medium clear"} 
 
 
 2. Colored Duct Tape
 A simple little craft especially if you can't afford fancy pots. Dress up cheap plastic pots (like the one your plant will come in) with some decorative duct tape. I took some of the extra pots and doubled them up before covering them with the tape to give them a little more structure. If you're trying to play the long game with your plants, you'll have to take them inside during harsh winter to avoid their roots from freezing. Plastic pots provide no insulation from the elements. But if you just want a few annuals to add a fun seasonal splash to your balcony, this is a quick craft to upgrade any plant's style even more. Use plastic pots to experiment with the other decoration ideas, too.
-![Duct Tape Pot hiding on shelf]({{site.baseurl}}/media/ContainerBalonyGardenDuctTape.jpg){: class="center medium clear"} 
+![Duct Tape Pot hiding on shelf](/media/ContainerBalonyGardenDuctTape.jpg){: class="center medium clear"} 
 
 
 3. Fabric Scraps
