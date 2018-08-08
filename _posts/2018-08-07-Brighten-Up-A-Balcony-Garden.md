@@ -13,5 +13,23 @@ I've always been somewhat of a late bloomer, so it's no surprise I didn't get su
 ![ContainerBalconyGardenBattleDomePaintedFacePot.jpg]({{site.baseurl}}/media/ContainerBalconyGardenBattleDomePaintedFacePot.jpg)
 ![ContainerBalconyGardenBirdNestPot.jpg]({{site.baseurl}}/media/ContainerBalconyGardenBirdNestPot.jpg)
 ![ContainerBalconyGardenCactiWearingHats.jpg]({{site.baseurl}}/media/ContainerBalconyGardenCactiWearingHats.jpg)
-****###
 
+![Before the reupholstering](/media/ContainerBalconyGardenEaselandGardenShelves.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenGalaxyStoneCrop.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenGrandmasPotSucculents.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenHairofDogPotDetail.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenHerbGardenShelfAndSucculents.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenIcePlant.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenJadePlantandServium.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenPeeledPaintonPot.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenShelfDetailHangingPot.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenStrawberryIvyPot.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenStrawberryIvyPotDetail.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenSunShelfCacti.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenTableplantsStonecropandVinca.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenVincaComicBookPot.jpg){: class="center medium clear"}
+![Before the reupholstering](/media/ContainerBalconyGardenVincaComic.jpg){: class="center medium clear"}
+
+
+
+****###
