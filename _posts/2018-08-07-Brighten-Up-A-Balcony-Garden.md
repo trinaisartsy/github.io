@@ -41,7 +41,7 @@ I have found so many cool things on curb alert- my favorites are easily these wo
 
 I made mine fancy, but a simple square pillow shape would be an excellent first timer's sewing project. The trick is either using a "weatherproofed" fabric, or like in my case, jumping through a few hoops to prepare regular fabric for being outdoors. **I "treated" the fabric with a light layer of gesso on the back to prevent the fabric from soaking up as much moisture**. It works against rain showers, but I don't trust leaving my cushions out in heavy rain! If it's storming I will usually stack them against my door or somewhere they won't get waterlogged. But hey... it was all free, and they're comfortable chairs, so it's worth the small sacrifice. 
 
-FYI: If this is a topic that interests you,[I wrote a previous article where my friend and I reupholstered this old ottoman](https://trina.coffee/blog/tutorial/2018/05/22/reupholstery-with-racheal/)she found, and the results were shocking. 
+FYI: If this is a topic that interests you,[I wrote a previous article where my friend and I reupholstered this old ottoman](https://trina.coffee/blog/tutorial/2018/05/22/reupholstery-with-racheal/) she found, and the results were shocking. 
 
 ![Cool Shelf I found](/media/ContainerBalconyGardenJadePlantandServium.jpg){: class="medium center clear"}
 
@@ -50,7 +50,7 @@ Another one of my favorite finds are these metal shelves. I think they're intend
 # Decorate those planters
 One of my main goals for my new balcony space was that I wanted it to have more color. I decided the best way to start would be to grab a few cheap terra cotta pots and get to decorating. Here's some of the various techniques I went with: 
 
-## Good Ol' Fashioned Paint: 
+## Good Ol' Fashioned Paint 
 There's nothing wrong with painting a few pots with regular paint! However, don't expect the paintings to last forever, especially left untreated. How harsh the elements are on your porch will determine how many years you can enjoy your painted pot without touching it up. [There's an elaborate wikihow article about how to properly seal and paint a terra cotta pot](https://www.wikihow.life/Paint-New-Terracotta-Pots), but I'm kind of of the shool of thought that as the decorated pot chips and ages, it grows character and interest. And honestly, the more I tried to "protect" the pot paintings, the more it ultimately peeled off or has otherwise not aged well. On the other hand, I still have a terra cotta pot my mom painted for one Halloween years ago with nothing but cheap acrylics, and even after being in the sun for years on end, the paint is still holding on fairly strong.   
 
 
@@ -69,7 +69,7 @@ Here's a pot that has seen its better days. As you can see, the paint is startin
 
 ## Colored Duct Tape
 A simple little craft especially if you can't afford fancy pots. Dress up cheap plastic pots (like the one your plant will come in) with some decorative duct tape. I took some of the extra pots and doubled them up before covering them with the tape to give them a little more structure. If you're trying to play the long game with your plants, you'll have to take them inside during harsh winter to avoid their roots from freezing. Plastic pots provide no insulation from the elements. But if you just want a few annuals to add a fun seasonal splash to your balcony, this is a quick craft to upgrade any plant's style even more. Use plastic pots to experiment with the other decoration ideas, too.
-![Duct Tape Pot hiding on shelf](/media/ContainerBalonyGardenDuctTape.jpg){: class="center medium clear"} 
+![Duct Tape Pot hiding on shelf](/media/ContainerBalonyGardenDuctTape.jpg){: class="small medium clear"} 
 
 
 ## Fabric Scraps
