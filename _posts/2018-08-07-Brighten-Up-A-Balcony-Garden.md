@@ -35,8 +35,51 @@ Another one of my favorite finds are these metal shelves. I think they're intend
 
 [DETAIL OF SHELVES HERE ///////////////////////////////////////////////]
 
+# Decorate those planters
+One of my main goals for my new balcony space was that I wanted it to have more color. I decided the best way to start would be to grab a few cheap terra cotta pots and get to decorating. Here's some of the various techniques I went with: 
+
+1. Good Ol' Fashioned Paint: 
+There's nothing wrong with painting a few pots with regular paint! However, don't expect the paintings to last forever, especially left untreated. How harsh the elements are on your porch will determine how many years you can enjoy your painted pot without touching it up. [There's an elaborate wikihow article about how to properly seal and paint a terra cotta pot](https://www.wikihow.life/Paint-New-Terracotta-Pots), but I'm kind of of the shool of thought that as the decorated pot chips and ages, it grows character and interest. And honestly, the more I tried to "protect" the pot paintings, the more it ultimately peeled off or has otherwise not aged well. On the other hand, I still have a terra cotta pot my mom painted for one Halloween years ago with nothing but cheap acrylics, and even after being in the sun for years on end, the paint is still holding on fairly strong.   
+
+![Before the reupholstering](/media/ContainerBalconyGardenGalaxyStoneCrop.jpg){: class="center medium clear"} ///////////////////////////////////////////////////////////// reupload 
+
+This time, I sprayed a few coats of Polycrilic on the pots after I was finished painting them. We'll see how long those paintings last. Here's one of my favorites from the new batch, a fun little galaxy scene that just looks stunning with this little Stonecrop plant growing in it.
+
+![ContainerBalconyGardenBattleDomePaintedFacePot.jpg]({{site.baseurl}}/media/ContainerBalconyGardenBattleDomePaintedFacePot.jpg) ////////// reupload
+
+Here's a pot that has seen its better days. As you can see, the paint is starting to slowly chip off. Still, I think there's something intriuging about its aging process. How the dirt fills into the grooves of the original brush strokes, how the colors have darkened and changed over time, how twisted and gnarled the chipped paint looks. It all kind of tells a story, if you ask me. Nature adding its contribution to your artwork. 
+
+2. Colored Duct Tape
+
+3. Fabric Scraps
+
+4. Paper Collage
+
+5. Colorful Rocks - There are multiple reasons you'd benefit from throwing a few decorative rocks in your garden pots. **Besides looking beautiful, did you know that your decorative rocks can help as a "defense" against squirrels and other pests?** Don't let their cute looks fool you - squirrels can be your number one enemey when it comes to growing plants in containers. They just _love_ to dig up that soft soil to bury their acorns in! Prized Posession Plants be damned. However, squirrels don't like shiny or reflective things, and they have a hard time moving rocks out of the way in order to dig. While it might not stop every fat greedy squirrel that comes along, adding these pretty preventative measures will help in keeping your plants from becoming an easy target for harassment.
+
+**Bonus tip: More squirrel repellant ideas.** Get some of those pointy wooden skewers and stick them down in your plant pots to make the dirt less desirable for digging. If the squirrels are being real jerks, you can always sprinkle a little cayenne pepper into the dirt... it won't hurt birds or plants, but the squirrels will absolutely hate it. I know it sounds mean, but you'll understand a lot better the first time a squirrel comes in and ransacks your hours of hard work with one casual fluffy swish of its tail!  
+
+# Cute Plant Labels
+
+# Silly Hats for Cacts! 
+
+
+
+
+#Recycled Planter Ideas - Bags, mattress bag, 
+
+#Lighting Effects
+
+
+#Plants as privacy
+
+#Do you have the essentials?
+Citronella Candle, Ash Tray, Lights,
+
+
+
 ![ContainerBalconyGardenBattleDome.jpg]({{site.baseurl}}/media/ContainerBalconyGardenBattleDome.jpg)
-![ContainerBalconyGardenBattleDomePaintedFacePot.jpg]({{site.baseurl}}/media/ContainerBalconyGardenBattleDomePaintedFacePot.jpg)
+
 ![ContainerBalconyGardenBirdNestPot.jpg]({{site.baseurl}}/media/ContainerBalconyGardenBirdNestPot.jpg)
 ![ContainerBalconyGardenCactiWearingHats.jpg]({{site.baseurl}}/media/ContainerBalconyGardenCactiWearingHats.jpg)
 
