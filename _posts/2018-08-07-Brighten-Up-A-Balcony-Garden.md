@@ -1,5 +1,16 @@
 ---
 published: false
+layout: post
+subtitle: null
+active: journal
+image: media/bannerhomedecor.jpg
+header-img: media/bannerhomedecor.jpg
+tags:
+  - artsy fartsy stuff
+  - tutorials
+categories:
+  - blog
+  - tutorial
 ---
 
 ![All this random furniture (and even some of the plants) were found for free.](/media/ContainerBalconyGardenNoLights.jpg){: class="medium clear"}
