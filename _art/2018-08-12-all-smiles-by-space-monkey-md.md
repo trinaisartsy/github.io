@@ -1,7 +1,7 @@
 ---
 layout: image
 published: true
-title: All_Smiles_by_space_monkey
+title: All_Smiles
 homepage: true
 image: All_Smiles_by_space_monkey.jpg
 ---
