@@ -1,7 +1,7 @@
 ---
 layout: image
 published: true
-title: Bob-Bomb Battlefield - Acrylic Paint
+title: Bob-omb Battlefield - Acrylic Paint
 image: art/Bobomb BattleField.jpg
 homepage: true
 ---
