@@ -1,6 +1,6 @@
 ---
 layout: image
-published: false
+published: true
 title: Inner Demons - Collage Drawing
 image: art/innerdemons.png
 homepage: true
