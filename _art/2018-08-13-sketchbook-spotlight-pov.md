@@ -1,6 +1,6 @@
 ---
 layout: image
-published: false
+published: true
 title: Sketchbook Spotlight - POV
 image: art/7200975182_67d8ac554d_o.jpg
 homepage: true
