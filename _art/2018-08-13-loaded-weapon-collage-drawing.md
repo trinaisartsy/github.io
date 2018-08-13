@@ -1,8 +1,8 @@
 ---
 layout: image
-published: false
+published: true
 title: Loaded Weapon - Collage Drawing
-price: 40
+price: '40'
 homepage: true
 image: art/loadedweapon.png
 ---
