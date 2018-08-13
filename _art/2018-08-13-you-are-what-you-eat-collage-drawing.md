@@ -1,8 +1,8 @@
 ---
 layout: image
-published: false
+published: true
 title: You Are What You Eat - Collage Drawing
-price: 40
+price: '40'
 image: art/YouAreWhatYouEat.png
 homepage: true
 ---
