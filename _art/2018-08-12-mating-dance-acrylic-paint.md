@@ -5,7 +5,7 @@ title: Mating Dance - Acrylic Paint
 image: art/BoobsinLove.jpg
 homepage: true
 ---
-I became intrigued with Blue Footed Boobies after reading the book "Galapagos" by Kurt Vonnegut. This was a companion painting to a long term project I was working on that involved an appliqued scene of two Blue Footed Boobies. 
+I became intrigued with Blue Footed Boobies after reading the book "Galapagos" by Kurt Vonnegut. This was a companion painting to a long term project I was working on that involved an appliqued scene with a pair of Blue Footed Boobies. 
 
 
 _"The courtship dance of the blue-footed boobies, which Mrs. Onassis suddenly wanted to see so much in person, has not changed one iota in a million years. Neither have these birds learned to be afraid of anything. Neither have they shown the slightest inclination to give up on aviation and become submarines._
