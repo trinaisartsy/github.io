@@ -1,10 +1,9 @@
 ---
 layout: image
-published: false
+published: true
 title: Mating Dance - Acrylic Paint
 image: art/BoobsinLove.jpg
 homepage: true
-price: ''
 ---
 I became intrigued with Blue Footed Boobies after reading the book "Galapagos" by Kurt Vonnegut. This was a companion painting to a long term project I was working on that involved an appliqued scene of two Blue Footed Boobies. 
 
