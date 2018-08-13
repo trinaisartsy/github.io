@@ -1,7 +1,7 @@
 ---
 layout: image
 published: true
-title: '"All Smiles"'
+title: All Smiles - Colored Pencil
 homepage: true
 image: All_Smiles_by_space_monkey.jpg
 ---
