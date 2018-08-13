@@ -1,6 +1,6 @@
 ---
 layout: image
-published: false
+published: true
 title: 'Bat Ghoul - The Ghoulish Girls Series '
 price: '60'
 homepage: true
