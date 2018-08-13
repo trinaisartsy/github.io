@@ -1,8 +1,8 @@
 ---
 layout: image
-published: false
+published: true
 title: 'Black and Blue - Collage Drawing '
-price: 40
+price: '40'
 homepage: true
 image: art/BlackandBlue.png
 ---
