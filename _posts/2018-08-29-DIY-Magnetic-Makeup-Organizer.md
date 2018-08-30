@@ -14,6 +14,8 @@ categories:
   - blog
   - tutorial
 ---
+ # Possibly the BEST Make up Organization Solution...
+ 
  Creative organization solutions are a fascination of mine. All over my house- a smattering of strange hangers, wall pockets, home made bags and plastic dollar store bins. Honestly, it's pretty awesome. However, there's one thing I had yet to get quite right...
  
  I was in desperate need of a handy way to store my makeup. I had the classic "crammed makeup bag" syndrome. Technically, everything fit in my bag, but only if I perfectly stacked everything back in a specific order and orientation, Tetris style. Just not very convenient when I'm in a hurry to finish my look before a night out and I have a pile of products strewn about, expecting to be tediously placed back in my bag before I leave. 
@@ -29,7 +31,7 @@ categories:
 <br>
 I'm all about being economic with my organizing solutions. One of my goals is always to spend as little as possible without sacrificing too much functionality. I am a _huge_ fan of the Dollar Tree and I check there often for clever odds and ends that they occasionally supply. It's no secret that they have great glassware, so I picked up this glass vase to keep my brushes in. In a divine moment of zen, I came across a jar with a lid that fit _perfectly_ on top of the vase, so I snagged that too. I had a few left over glass stones from a previous Dollar Store haul that I tossed in the vase as well, which styled things up and helped stabilize the brushes a little better.  <br> 
   
-<br> 
+<br> <br>
 ### Some other various supplies you should get from the dollar store:
 
 - **Decals and Stickers:** I found some adorable crystal themed wall decals that really helped bring my little organizing set all together. A simple embellishment can really make a difference in the finished look of your design. 
@@ -37,7 +39,7 @@ I'm all about being economic with my organizing solutions. One of my goals is al
 - **Amazing Office Supplies:** The Dollar Tree has some great scrapbooking and office supplies. Mounting tape, velcro, command hooks, vinyl, all for a fraction of what you'd pay at another store for nearly identical products. The quality can be touch and go, but for an every day craft, these are great options.  
 
 - **You can even get your magnetic pan there**. That's right, to make your crafty magnetic organizer, the dollar store even has cooking pans. Take a look here first before shelling out $10+ on a brand new baking pan or a giant metal sheet from the craft store. Just make sure it's actually magnetic!
-<br>
+<br><br>
 ![Repurposed Candle Jars](/media/blogmakeuporganize4minicup.jpg){: class="center medium clear"}
 I also saved a few bucks by repurposing some glass candle jars to keep my miscelaneous products. 
 <br>
