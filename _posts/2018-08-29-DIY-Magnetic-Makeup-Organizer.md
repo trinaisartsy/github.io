@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 subtitle: And other smart makeup organizing ideas
 active: journal
@@ -27,8 +27,8 @@ categories:
 ![Dollar Store Brush Holder](/media/blogmakeuporganize1brushes.jpg){: class="left medium"}
 I'm all about being economic with my organizing solutions. One of my goals is always to spend as little as possible without sacrificing too much functionality. I am a _huge_ fan of the Dollar Tree and I check there often for clever odds and ends that they occasionally supply. It's no secret that they have great glassware, so I picked up this glass vase to keep my brushes in. In a divine moment of zen, I came across a jar with a lid that fit _perfectly_ on top of the vase, so I snagged that too. I had a few left over glass stones from a previous Dollar Store haul that I tossed in the vase as well, which styled things up and helped stabilize the brushes a little better.  
 
-![Before the reupholstering](/media/blogmakeuporganize4minicup.jpg){: class="center medium clear"}
-I also saved a few bucks by repurposing some glass candle holders to keep my miscelaneous products. 
+![Repurposed Candle Jars](/media/blogmakeuporganize4minicup.jpg){: class="center medium clear"}
+I also saved a few bucks by repurposing some glass candle jars to keep my miscelaneous products. 
 
 ### Some other various supplies you should get from the dollar store:
 
@@ -50,7 +50,7 @@ Your experience may vary here - **have fun and experiment** with decorating your
 ## How to Attach the Magnets to your products
 
 **Hi, please put down the hot glue gun**. For Pete's sake, don't melt your makeup with glue the temperature of molten lava... can I suggest, instead, picking up some double stick mounting tape? As mentioned earlier, the Dollar Tree has good solutions for this, but it can be picked up at any craft store too and it's a much less drastic solution compared to attaching the magnets with hell's fury.
-![Before the reupholstering](/media/blogmakeuporganize6magnets.jpg){: class="center medium clear"}
+![USE DOUBLE STICK TAPE!!](/media/blogmakeuporganize6magnets.jpg){: class="center medium clear"}
 If you were wondering, I used a mix of flat magnetic sheets and round ceramic magnets (both from the craft store,) depending on the product I was trying to add to my board. The sticky rounds were from the dollar store of course, but if they end up not sticking long term I'll invest in some name brand mounting tape. 
 
 
@@ -59,6 +59,6 @@ If you were wondering, I used a mix of flat magnetic sheets and round ceramic ma
 Putting all those previously hard to get to products on this magnetic board was extremely satisfying. This idea appealed to me because I can just grab what I need without thinking about it, and all my favorite items are clearly displayed so I can remember to use them! I can't tell you how many times I forgot I had a certain shade of eye shadow or omitting a crucial step from my routine because the product was buried under other random items. **Those days are GONE!!!!!** Okay, maybe I'm a little bit _too_ excited. 
 
 
-![Before the reupholstering](/media/blogorganize5justpan2.jpg){: class="center medium clear"}
+![Finished Product](/media/blogorganize5justpan2.jpg){: class="center medium clear"}
 
 So if you completed this project, how'd it go? Let's see your best makeup organizers! Feel free to leave a comment and share what you think below.
