@@ -25,9 +25,11 @@ categories:
 
 # Go Cheap or Go Home!
 ![Dollar Store Brush Holder](/media/blogmakeuporganize1brushes.jpg){: class="left small"}
-I'm all about being economic with my organizing solutions. One of my goals is always to spend as little as possible without sacrificing too much functionality. I am a _huge_ fan of the Dollar Tree and I check there often for clever odds and ends that they occasionally supply. It's no secret that they have great glassware, so I picked up this glass vase to keep my brushes in. In a divine moment of zen, I came across a jar with a lid that fit _perfectly_ on top of the vase, so I snagged that too. I had a few left over glass stones from a previous Dollar Store haul that I tossed in the vase as well, which styled things up and helped stabilize the brushes a little better.  <br> <clear> 
+<br>
+<br>
+I'm all about being economic with my organizing solutions. One of my goals is always to spend as little as possible without sacrificing too much functionality. I am a _huge_ fan of the Dollar Tree and I check there often for clever odds and ends that they occasionally supply. It's no secret that they have great glassware, so I picked up this glass vase to keep my brushes in. In a divine moment of zen, I came across a jar with a lid that fit _perfectly_ on top of the vase, so I snagged that too. I had a few left over glass stones from a previous Dollar Store haul that I tossed in the vase as well, which styled things up and helped stabilize the brushes a little better.  <br> <br> <br> <br> <br> <clear> 
   
-![Repurposed Candle Jars](/media/blogmakeuporganize4minicup.jpg){: class="center small clear"}
+![Repurposed Candle Jars](/media/blogmakeuporganize4minicup.jpg){: class="center medium clear"}
 I also saved a few bucks by repurposing some glass candle jars to keep my miscelaneous products. 
 <br> 
 ### Some other various supplies you should get from the dollar store:
