@@ -14,7 +14,8 @@ categories:
   - blog
   - tutorial
 ---
- # Possibly the BEST Make up Organization Solution...
+<br> 
+# Possibly the BEST Make up Organization Solution...
  
  Creative organization solutions are a fascination of mine. All over my house- a smattering of strange hangers, wall pockets, home made bags and plastic dollar store bins. Honestly, it's pretty awesome. However, there's one thing I had yet to get quite right...
  
