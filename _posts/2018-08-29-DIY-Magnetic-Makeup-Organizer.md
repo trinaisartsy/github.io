@@ -27,10 +27,8 @@ categories:
 ![Dollar Store Brush Holder](/media/blogmakeuporganize1brushes.jpg){: class="left small"}
 <br>
 <br>
-I'm all about being economic with my organizing solutions. One of my goals is always to spend as little as possible without sacrificing too much functionality. I am a _huge_ fan of the Dollar Tree and I check there often for clever odds and ends that they occasionally supply. It's no secret that they have great glassware, so I picked up this glass vase to keep my brushes in. In a divine moment of zen, I came across a jar with a lid that fit _perfectly_ on top of the vase, so I snagged that too. I had a few left over glass stones from a previous Dollar Store haul that I tossed in the vase as well, which styled things up and helped stabilize the brushes a little better.  <br> <br> <br> <br> <br> <clear> 
+I'm all about being economic with my organizing solutions. One of my goals is always to spend as little as possible without sacrificing too much functionality. I am a _huge_ fan of the Dollar Tree and I check there often for clever odds and ends that they occasionally supply. It's no secret that they have great glassware, so I picked up this glass vase to keep my brushes in. In a divine moment of zen, I came across a jar with a lid that fit _perfectly_ on top of the vase, so I snagged that too. I had a few left over glass stones from a previous Dollar Store haul that I tossed in the vase as well, which styled things up and helped stabilize the brushes a little better.  <br> 
   
-![Repurposed Candle Jars](/media/blogmakeuporganize4minicup.jpg){: class="center medium clear"}
-I also saved a few bucks by repurposing some glass candle jars to keep my miscelaneous products. 
 <br> 
 ### Some other various supplies you should get from the dollar store:
 
@@ -40,7 +38,9 @@ I also saved a few bucks by repurposing some glass candle jars to keep my miscel
 
 - **You can even get your magnetic pan there**. That's right, to make your crafty magnetic organizer, the dollar store even has cooking pans. Take a look here first before shelling out $10+ on a brand new baking pan or a giant metal sheet from the craft store. Just make sure it's actually magnetic!
 <br>
-
+![Repurposed Candle Jars](/media/blogmakeuporganize4minicup.jpg){: class="center medium clear"}
+I also saved a few bucks by repurposing some glass candle jars to keep my miscelaneous products. 
+<br>
 # Making the Magnetic Makeup Organizer
 <br>
 ## Finding the perfect metal pan
@@ -52,7 +52,7 @@ Your experience may vary here - **have fun and experiment** with decorating your
 ## How to Attach the Magnets to your products
 
 **Hi, please put down the hot glue gun**. For Pete's sake, don't melt your makeup with glue the temperature of molten lava... can I suggest, instead, picking up some double stick mounting tape? As mentioned earlier, the Dollar Tree has good solutions for this, but it can be picked up at any craft store too and it's a much less drastic solution compared to attaching the magnets with hell's fury.
-![USE DOUBLE STICK TAPE!!](/media/blogmakeuporganize6magnets.jpg){: class="center small clear"}
+![USE DOUBLE STICK TAPE!!](/media/blogmakeuporganize6magnets.jpg){: class="center medium clear"}
 If you were wondering, I used a mix of flat magnetic sheets and round ceramic magnets (both from the craft store,) depending on the product I was trying to add to my board. The sticky rounds were from the dollar store of course, but if they end up not sticking long term I'll invest in some name brand mounting tape. 
 
 
