@@ -12,7 +12,7 @@ tags:
   - tutorial
 categories:
   - blog
-  - tutorial
+  - tutorials
 ---
 <br> 
 # Possibly the BEST Make up Organization Solution...
