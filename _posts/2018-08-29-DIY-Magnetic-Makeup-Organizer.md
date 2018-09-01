@@ -25,7 +25,7 @@ categories:
  
 ![Crystal Mermaid Unicorn Chic Magnetic Board and Organizers](/media/blogmakeuporganize3groupshot.jpg){: class="center medium clear"}
 <br>
-
+<!--more-->
 # Go Cheap or Go Home!
 ![Dollar Store Brush Holder](/media/blogmakeuporganize1brushes.jpg){: class="left small"}
 <br>
