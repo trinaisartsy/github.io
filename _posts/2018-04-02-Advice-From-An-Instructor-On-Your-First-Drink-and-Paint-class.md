@@ -27,8 +27,7 @@ But, I can confidently say that I never let a painter walk out of the studio wit
   
   
 
-1\. First of all, You are brave for putting yourself out there.
----------------------------------------------------------------
+## 1. First of all, You are brave for putting yourself out there.
 
 [![A little girl practices her class instruction skills](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s320/22007592_531506623853047_3592575859605165402_n.jpg)](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s1600/22007592_531506623853047_3592575859605165402_n.jpg){: class="left" } There is definitely an amount of vulnerability that comes with putting yourself in a new situation where you have to learn something on the fly. It can be scary stepping into the unknown.  
   
@@ -37,8 +36,8 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 (Pictured left: An "artist in training" practices for her future career as an instructor. )  
 <br><br>
 
-2\. Your painting doesn't have to turn out exactly like the example
--------------------------------------------------------------------
+## 2. Your painting doesn't have to turn out exactly like the example
+
 
 [![A painter shows off her customized skeleton swing painting](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s320/22046950_531505847186458_7576332721415401439_n.jpg)](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s1600/22046950_531505847186458_7576332721415401439_n.jpg){: class="left" }
 
@@ -50,8 +49,7 @@ Use the example as _inspiration_ for your copy- which will absolutely turn out u
   
   
 <br>
-3\. Dress like the artist not the model!
----------------------------------------------------------------
+## 3. Dress like the artist not the model!
 
 What I mean is, if you wear your Sunday's best to the art studio, dude, you're on you're own.  Yes, you do get an apron, but it doesn't cover everything. I can't tell you how many times I had painters come in wearing giant stiletto heels, beautiful designer dresses, or fancy expensive tennis shoes.  
   
@@ -68,7 +66,7 @@ Instead, wear something comfortable, perhaps an old work shirt and pants you don
 
   
 <br>
-4\. Arrive on time (or even better- a little early)
+## 4. Arrive on time (or even better- a little early)
 -------------------------------------------------------------------
 
 This was a pet peeve of mine as an instructor... folks arriving late for class, sometimes up to 20-30 minutes late. I've had painters arrive an hour late and had to break the bad news that they will not have enough time to finish their painting that night. Not only is arriving late cutting in to your painting time, it's also rude to the other patrons and the instructor! Don't be "that guy." Leave the house early if you have to, just don't be late!  
@@ -85,8 +83,8 @@ This is also true if your drink and paint party is located at a bar or restauran
 
 This lovely lady decided she liked my Dandelion painting but wanted palm trees instead. Sure, why not?
 
-5\. Most importantly, have a good attitude and a sense of humor
----------------------------------------------------------------
+## 5. Most importantly, have a good attitude and a sense of humor
+
 
 Don't be too afraid of messing up or looking foolish, just try your best. Being too hard on yourself for not being "perfect" is a guaranteed way to make painting stressful. Instead, try to have fun with it. Sometimes art is not about the finished product, but the process it took to get there.  
   
@@ -102,5 +100,5 @@ A shot from my first painting class. I couldn't believe I pulled it off. Artists
   
   
 
- Now go out there and paint your little heart out!
---------------------------------------------------
+# Now go out there and paint your little heart out!
+
