@@ -54,11 +54,10 @@ Knowing this morbid fact about the shells made me feel somewhat remorseful for u
 In a way, this truly is a bone wind chime because it is made from the "bones" of the unfortunate mollusks that didn't get to continue living their little clammy lives.
 <br>
 <br>   
-
+<br>
 
 [![Drift wood was used for the base of this wind chime.](https://3.bp.blogspot.com/-RuI9JsdcLyA/Uhrsg8Al2xI/AAAAAAAAC04/jFOuvixbaIs/s400/DSCF3664.jpg)](http://3.bp.blogspot.com/-RuI9JsdcLyA/Uhrsg8Al2xI/AAAAAAAAC04/jFOuvixbaIs/s1600/DSCF3664.jpg){: class="center clear" }
 
-Unconventional driftwood was used for the base of this wind chime.
 
 On a more positive note, I also found this beautiful piece of "driftwood" at Folly as well. I guess _technically_ it's driftwood- the beach didn't have much to offer when it came to traditional pieces of wood. This is actually a shard of palmetto leaf, which is plentiful around the Lowcountry.  When I found it, I thought it was a piece of a wooden dock that had somehow washed up on the beach. The surface of the branch's pale white color looks like it has been hand painted. I find it kind of beautiful how nature finds ways to mimic the artistic process, even if it's sort of harsh about it sometimes.  
   
