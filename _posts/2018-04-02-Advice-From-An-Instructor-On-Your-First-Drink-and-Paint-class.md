@@ -19,8 +19,8 @@ categories:
 
 So, you're thinking about taking a drink and paint class?
 
-I spent over a year as an art instructor at a popular drink and paint studio in Charleston, and I've seen it all. Big, rowdy parties, frustrated painters, massive paint / wine spills, and occasionally really drunk grandmas. And there's always that one poor soul who is hellbent on making their painting "just perfect." Most people have no idea what to expect from the experience and as a result they're really nervous at first, especially if they aren't experienced with painting.  
-But, I can confidently say that I never let a painter walk out of the studio without a smile on their face. So, before you walk in to your first drink and paint class as a neurotic mess and give your artist a big headache, let me try to work some of my "artsy magic" with this advice to make your experience at a drink and paint studio go more smoothly for everyone.  
+I spent over a year as an art instructor at a popular drink and paint studio in Charleston, and I've seen it all. Big, rowdy parties, frustrated painters, massive paint/wine spills, and occasionally really drunk grandmas. And there's always that one poor soul who is hellbent on making their painting "just perfect." Most people have no idea what to expect from the experience and as a result, they're really nervous at first, especially if they aren't experienced with painting.  
+But, I can confidently say that I never let a painter walk out of the studio without a smile on their face. So, before you walk into your first drink and paint class as a neurotic mess and give your artist a big headache, let me try to work some of my "artsy magic" with this advice to make your experience at a drink and paint studio go more smoothly for everyone.  
   
 <!--more-->
   
@@ -31,7 +31,7 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 
 [![A little girl practices her class instruction skills](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s320/22007592_531506623853047_3592575859605165402_n.jpg)](https://3.bp.blogspot.com/-RHcZjL1DzFM/WsJPdHFqpKI/AAAAAAAALbs/0KGIVRfvNMMnpH1ISWCa8k7CcQQ6YVQWQCLcBGAs/s1600/22007592_531506623853047_3592575859605165402_n.jpg){: class="left" } There is definitely an amount of vulnerability that comes with putting yourself in a new situation where you have to learn something on the fly. It can be scary stepping into the unknown.  
   
- I try to imagine myself in the shoes of a first time painter. A newbie still has to learn the ropes- and it may have been years since you last painted, for some their last time was in grade school or earlier! It takes bravery to try something again after that long. Give yourself a chance to try again without worrying too much about failure, and don't be afraid to ask questions!  
+ I try to imagine myself in the shoes of a first-time painter. A newbie still has to learn the ropes- and it may have been years since you last painted, for some their last time was in grade school or earlier! It takes bravery to try something again after that long. Give yourself a chance to try again without worrying too much about failure, and don't be afraid to ask questions!  
 <br>
 (Pictured left: An "artist in training" practices for her future career as an instructor. )  
 <br><br>
@@ -41,7 +41,7 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 
 [![A painter shows off her customized skeleton swing painting](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s320/22046950_531505847186458_7576332721415401439_n.jpg)](https://3.bp.blogspot.com/-fCTsJtFLLKE/WsJN104JN2I/AAAAAAAALbg/6_Jrq5WDKtcvjvezumvpFCOFV1vAE15RACLcBGAs/s1600/22046950_531505847186458_7576332721415401439_n.jpg){: class="left" }
 
-A lot of people get caught up in the idea that their painting has to look EXACTLY like the example they're copying from, and frankly that's just setting themselves up for trouble. I always tell painters this: If you could copy the painting exactly, you would have to literally be a copy machine. And you are not a machine, you're a human. You can't capture lightning in a bottle, but you can most certainly create your own light.  
+A lot of people get caught up in the idea that their painting has to look EXACTLY like the example they're copying from, and frankly, that's just setting themselves up for trouble. I always tell painters this: If you could copy the painting exactly, you would have to literally be a copy machine. And you are not a machine, you're a human. You can't capture lightning in a bottle, but you can most certainly create your own light.  
   
 Use the example as _inspiration_ for your copy- which will absolutely turn out uniquely you. Don't feel shy about asking your artist to change or add colors, they will be happy to tell you what exactly to mix to make specific colors, too. Anyways, I think it's better to have an original with personal touches includes rather than an exact copy, don't you?  
 <br><br> 
@@ -51,7 +51,7 @@ Use the example as _inspiration_ for your copy- which will absolutely turn out u
 
 What I mean is, if you wear your Sunday's best to the art studio, dude, you're on you're own.  Yes, you do get an apron, but it doesn't cover everything. I can't tell you how many times I had painters come in wearing giant stiletto heels, beautiful designer dresses, or fancy expensive tennis shoes.  
   
-Don't bring your genuine Louis Vuitton purse and expect paint not to get on it! (This actually happened once too.) The paint is a magnet to expensive stuff. And acrylic paint does not want to come out of your clothes. If you're wearing white, forget about it, you don't stand a chance. Accidents happen, so save yourself the potential meltdown and keep your nice stuff home.  
+Don't bring your genuine Louis Vuitton purse and expect paint not to get on it! (This actually happened once too.) The paint is a magnet for expensive stuff. And acrylic paint does not want to come out of your clothes. If you're wearing white, forget about it, you don't stand a chance. Accidents happen, so save yourself the potential meltdown and keep your nice stuff home.  
   
 Instead, wear something comfortable, perhaps an old work shirt and pants you don't care about. Don't wear crazy shoes either, please. Once, I dropped an entire paint bottle and it splashed on this guy's fancy shoes and I felt awful! Phones also often get dropped for some reason, so keep it in an (inexpensive) purse or in your pocket when possible.  
   
@@ -66,9 +66,9 @@ Instead, wear something comfortable, perhaps an old work shirt and pants you don
 ## 4. Arrive on time (or even better, a little early)
 
 
-This was a pet peeve of mine as an instructor... folks arriving late for class, sometimes up to 20-30 minutes late. I've had painters arrive an hour late and had to break the bad news that they will not have enough time to finish their painting that night. Not only is arriving late cutting in to your painting time, it's also rude to the other patrons and the instructor! Don't be "that guy." Leave the house early if you have to, just don't be late!  
+This was a pet peeve of mine as an instructor... folks arriving late for class, sometimes up to 20-30 minutes late. I've had painters arrive an hour late and had to break the bad news that they will not have enough time to finish their painting that night. Not only is arriving late cutting into your painting time, it's also rude to the other patrons and the instructor! Don't be "that guy." Leave the house early if you have to, just don't be late!  
   
-There are other reasons you might want to arrive to the class early. For example, many drink and paint studios are BYOB. But that also means, bring your own snacks! Typical classes run anywhere from an hour to two hours long and more times than not they're scheduled in the evening when you'd normally be having dinner. So, you might get a little hungry. It wouldn't hurt to bring a small lunchbox full of crackers, cheese and drinks, including non alcoholic drinks! Finger food is key - you won't have a lot of time to eat a complicated meal once class starts.  
+There are other reasons you might want to arrive at the class early. For example, many drink and paint studios are BYOB. But that also means, bring your own snacks! Typical classes run anywhere from an hour to two hours long and more times than not they're scheduled in the evening when you'd normally be having dinner. So, you might get a little hungry. It wouldn't hurt to bring a small lunchbox full of crackers, cheese and drinks, including non-alcoholic drinks! Finger food is key - you won't have a lot of time to eat a complicated meal once class starts.  
   
 This is also true if your drink and paint party is located at a bar or restaurant- you're going to want some time to scarf down a few snacks and at least a drink or two before class begins.  
   
