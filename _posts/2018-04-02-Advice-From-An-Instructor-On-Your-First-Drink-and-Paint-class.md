@@ -44,12 +44,10 @@ But, I can confidently say that I never let a painter walk out of the studio wit
 A lot of people get caught up in the idea that their painting has to look EXACTLY like the example they're copying from, and frankly that's just setting themselves up for trouble. I always tell painters this: If you could copy the painting exactly, you would have to literally be a copy machine. And you are not a machine, you're a human. You can't capture lightning in a bottle, but you can most certainly create your own light.  
   
 Use the example as _inspiration_ for your copy- which will absolutely turn out uniquely you. Don't feel shy about asking your artist to change or add colors, they will be happy to tell you what exactly to mix to make specific colors, too. Anyways, I think it's better to have an original with personal touches includes rather than an exact copy, don't you?  
-<br>
+<br><br> 
 (Pictured Above: A painter asked me to sketch out a little skeleton guy for her swing! Didn't he turn out lovely?)  
   
-  
-<br>
-## 3. Dress like the artist not the model!
+## 3. Dress like an artist... _not_ a model!
 
 What I mean is, if you wear your Sunday's best to the art studio, dude, you're on you're own.  Yes, you do get an apron, but it doesn't cover everything. I can't tell you how many times I had painters come in wearing giant stiletto heels, beautiful designer dresses, or fancy expensive tennis shoes.  
   
@@ -65,9 +63,8 @@ Instead, wear something comfortable, perhaps an old work shirt and pants you don
 (These guys get a pass for having the cutest matching bridesmaids shirts ever)
 
   
-<br>
-## 4. Arrive on time (or even better- a little early)
--------------------------------------------------------------------
+## 4. Arrive on time (or even better, a little early)
+
 
 This was a pet peeve of mine as an instructor... folks arriving late for class, sometimes up to 20-30 minutes late. I've had painters arrive an hour late and had to break the bad news that they will not have enough time to finish their painting that night. Not only is arriving late cutting in to your painting time, it's also rude to the other patrons and the instructor! Don't be "that guy." Leave the house early if you have to, just don't be late!  
   
