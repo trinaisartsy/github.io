@@ -1,10 +1,10 @@
 ---
-layout: "page"
 title: Visual Arts Services
+layout: page
 description: Info on how to book Trina for tutoring or commission work
-category: "services"
+category: services
 active: services
-header-img: "media/servicesbanner.jpg"
+header-img: media/servicesbanner.jpg
 ---
 
 Need an artist who will take pride in their work, follow through with projects and finish things in a timely manner? Look no further, I'm here to help. 

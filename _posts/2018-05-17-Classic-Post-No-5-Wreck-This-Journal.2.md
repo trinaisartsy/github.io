@@ -1,14 +1,21 @@
 ---
-published: true
+title: Classic Post No 5 Wreck This Journal.2
+date: 2018-05-17 00:00:00 Z
+categories:
+- Wreck This Journal
+- blog
+tags:
+- "-wtj"
+- "-wreck"
+- this
+- journal
+- "-keri"
+- smith
 layout: post
 subtitle: Part Two!
 active: journal
 image: art/WTJCoverchanges.jpg
 header-img: art/WTJCoverchanges.jpg
-tags: '-wtj -wreck this journal -keri smith'
-categories:
-  - Wreck This Journal
-  - blog
 ---
 
 [![The Front Cover of my Wreck This Journal by Keri Smith](https://1.bp.blogspot.com/-XutnyPh2N0U/T7cqB5Whw1I/AAAAAAAABAQ/oQkY4HLXDHo/s320/IMG_5073.jpg)](http://1.bp.blogspot.com/-XutnyPh2N0U/T7cqB5Whw1I/AAAAAAAABAQ/oQkY4HLXDHo/s1600/IMG_5073.jpg){: class="medium center" }

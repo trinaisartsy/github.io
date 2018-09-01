@@ -1,19 +1,21 @@
 ---
-published: true
+title: Diy Magnetic Makeup Organizer
+date: 2018-08-29 00:00:00 Z
+categories:
+- blog
+- tutorials
+tags:
+- artsy fartsy stuff
+- magnetic makeup board
+- make up
+- tutorial
 layout: post
 subtitle: And other smart makeup organizing ideas
 active: journal
 image: media/banner.jpg
 header-img: media/banner.jpg
-tags:
-  - artsy fartsy stuff
-  - magnetic makeup board
-  - make up
-  - tutorial
-categories:
-  - blog
-  - tutorials
 ---
+
 <br> 
 # Possibly the BEST Make up Organization Solution...
  

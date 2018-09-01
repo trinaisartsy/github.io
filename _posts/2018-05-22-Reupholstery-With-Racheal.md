@@ -1,17 +1,19 @@
 ---
-published: true
+title: Reupholstery With Racheal
+date: 2018-05-22 00:00:00 Z
+categories:
+- blog
+- tutorial
+tags:
+- artsy fartsy stuff
+- tutorials
 layout: post
 subtitle: Featuring artist Racheal B.
 active: journal
 image: media/bannerhomedecor.jpg
 header-img: media/bannerhomedecor.jpg
-tags:
-  - artsy fartsy stuff
-  - tutorials
-categories:
-  - blog
-  - tutorial
 ---
+
 ## Refurbishing tips for total newbies and beginners
 
 

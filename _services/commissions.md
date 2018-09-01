@@ -1,9 +1,9 @@
 ---
-layout: "page"
 title: Commissions
+layout: page
 description: Purchase an original artwork.
 active: services
-header-img: "media/servicescommissionsbutton2.jpg"
+header-img: media/servicescommissionsbutton2.jpg
 group: three
 offering-type: commissions
 ---

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Hire Trina as Your Artist Today!
-header-img: "media/aboutbanner.jpg"
+layout: page
+header-img: media/aboutbanner.jpg
 active: services
 img: media/Servicespictureofme.JPG
 group: top

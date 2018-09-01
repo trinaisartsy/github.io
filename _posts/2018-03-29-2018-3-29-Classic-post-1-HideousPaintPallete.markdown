@@ -1,16 +1,17 @@
 ---
-layout: post
 title: Classic Post No. 1 - The Hideous Paint Palette
+date: 2018-03-29 00:00:00 Z
+categories:
+- blog
+tags:
+- artsy fartsy stuff
+layout: post
 subtitle: The Horror!
 active: journal
-image: 'art/IMG_3020[1].jpg'
+image: art/IMG_3020[1].jpg
 header-img: media/IMG_3024.jpg
-tags:
-  - artsy fartsy stuff
-categories:
-  - blog
-published: true
 ---
+
 ![My hideous paint palette](https://3.bp.blogspot.com/-aVQAGoazzm0/T4osbRB7UzI/AAAAAAAAA2A/__QnxpcZQmM/s320/IMG_3013.jpg){: class="small right" }
 
 _Originally Published April 2012_

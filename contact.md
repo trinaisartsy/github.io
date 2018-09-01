@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Contact Trina Lyn
+layout: page
 description: Trina's Artist Statement
 active: contact
-header-img: "media/aboutbanner.jpg"
+header-img: media/aboutbanner.jpg
 ---
 
 ## Contact Information

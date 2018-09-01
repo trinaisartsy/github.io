@@ -1,18 +1,20 @@
 ---
-published: true
+title: Classic Post 4 Wreck This Journal.1
+date: 2018-04-21 00:00:00 Z
+categories:
+- Wreck This Journal
+- blog
+tags:
+- wreck this journal
+- wtj
+- keri smith
 layout: post
 subtitle: The post that started it all!
 active: journal
 image: media/bannerwtj.jpg
 header-img: media/bannerwtj.jpg
-tags:
-  - wreck this journal
-  - wtj
-  - keri smith
-categories:
-  - Wreck This Journal
-  - blog
 ---
+
 Wreck This Journal![]({{site.baseurl}}/art/WTJCoverchanges.jpg)
 
 _Originally Published 4 / 12_

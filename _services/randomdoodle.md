@@ -1,10 +1,10 @@
 ---
 title: Random Doodle Surprise!
-header-img: "media/aboutbanner.jpg"
+header-img: media/aboutbanner.jpg
 active: services
 img: media/servicesdoodle1.jpg
 group: bottom
-layout: "page"
+layout: page
 offering: commissions
 ---
 

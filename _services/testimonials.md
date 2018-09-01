@@ -1,12 +1,12 @@
 ---
 title: Testimonials
+categories:
+- services
 description: Information about the educational work that Trina offers
-category: "services"
 active: services
-header-img: "media/servicesbanner.jpg"
+header-img: media/servicesbanner.jpg
 group: testimonials
 ---
-
 
 * "I had seen some of Trina's artwork, so one day I asked her to paint me a lion because I have never been able to find one I liked enough to buy...I explained to her what I wanted, and when I saw the finished product, I couldn’t have been happier. He’s perfect. He’s beautiful. I told Trina how grateful I was and how he was exactly what I wanted. It’s one of those situations where it turned out better than I could have ever imagined. She told me she painted it with love and I believe her. I know she did. I can tell she did. That’s just the type of person she is. She puts her heart, and more importantly her soul, into everything she does."
 

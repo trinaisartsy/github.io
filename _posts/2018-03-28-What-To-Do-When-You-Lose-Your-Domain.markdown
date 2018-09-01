@@ -1,17 +1,19 @@
 ---
-published: true
+title: What To Do When You Lose Your Domain
+date: 2018-03-28 00:00:00 Z
+categories:
+- blog
+- tutorials
+tags:
+- tutorials
+- advice
 layout: post
 subtitle: aka A Letter To My Future Self
 active: journal
 image: art/IMG_20170417_124005414.jpg
 header-img: art/IMG_20170417_124005414.jpg
-tags:
-  - tutorials
-  - advice
-categories:
-  - blog
-  - tutorials
 ---
+
  ![Don't freak out](/media/IMG_20170417_124005414.jpg){: class="small right"}
 So, you're a content creator and let your website's domain name expire. Or, your blog has been unexpectedly deleted, or you've lost access to it. Maybe you were using it for years. Maybe it had tons of backlinks and SEO. But now it's gone. You dun goofed, and consequences will never be the same.
 

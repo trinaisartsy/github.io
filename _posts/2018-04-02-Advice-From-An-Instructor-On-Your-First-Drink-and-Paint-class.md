@@ -1,19 +1,17 @@
 ---
-published: true
+title: Advice From An Instructor On Your First Drink And Paint Class
+date: 2018-04-02 00:00:00 Z
+categories:
+- blog
+- tutorial
+tags:
+- tutorials
 layout: post
 subtitle: Taking your first drink and draw class.
 active: journal
 image: media/bannerwinedesign.jpg
 header-img: media/bannerwinedesign.jpg
-tags:
-  - tutorials
-categories:
-  - blog
-  - tutorial
 ---
-  
-
-  
 
 [![A painting class at my old studio, I'm in the far back row helping a painter](https://2.bp.blogspot.com/-Zkzb0SgV77Q/WsJIbz7J8uI/AAAAAAAALbQ/AJ151y6oupMgO50mut-DGkTApwf30_LiQCLcBGAs/s320/16831085_1300769456682379_1155257373786239318_n.jpg)](https://2.bp.blogspot.com/-Zkzb0SgV77Q/WsJIbz7J8uI/AAAAAAAALbQ/AJ151y6oupMgO50mut-DGkTApwf30_LiQCLcBGAs/s1600/16831085_1300769456682379_1155257373786239318_n.jpg){: class="left" }
 

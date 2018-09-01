@@ -1,13 +1,15 @@
 ---
-published: true
+title: Classic Post No.3 Seashell Windchime
+date: 2018-04-15 00:00:00 Z
+categories:
+- blog
 layout: post
 subtitle: Aka The Bone Chime
 active: journal
 image: media/bannersketchbook.png
 header-img: media/bannersketchbook.png
-categories:
-  - blog
 ---
+
 ### _AKA "The Bone Chime"_
 _Originally Published 8 / 13_
   

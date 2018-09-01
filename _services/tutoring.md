@@ -1,11 +1,12 @@
 ---
-layout: "page"
 title: Art Coaching & Tutoring
+categories:
+- services
+layout: page
 description: Ideal for art school auditions or newbies looking to learn the ropes
-category: "services"
 active: services
 offering-type: tutor
-header-img: "media/servicesapportfolioprepprev.jpg"
+header-img: media/servicesapportfolioprepprev.jpg
 group: three
 ---
 
