@@ -40,6 +40,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
+    mini_magick (4.9.2)
     nuggets (1.5.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
@@ -62,6 +63,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-tagging
+  mini_magick
 
 BUNDLED WITH
    1.11.2
