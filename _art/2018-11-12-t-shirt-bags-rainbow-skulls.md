@@ -1,10 +1,12 @@
 ---
-layout: image
-published: false
 title: T-shirt Bags - Rainbow Skulls
+date: 2018-11-12 00:00:00 Z
+published: false
+layout: image
 image: art/tshirtbagrainbowskull.jpg
 price: '10'
 ---
+
 ## T-shirt Bag series - "Rainbow Skulls"
 
 Do you know the legend of The Bag of Holding? It is said to be a magical bag that is capable of containing objects much larger than its own size. Some say the items are simply transported to another dimension entirely. This is my interpretation of a real-life Bag of Holding.
