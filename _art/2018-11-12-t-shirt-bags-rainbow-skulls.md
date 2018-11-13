@@ -1,6 +1,6 @@
 ---
 layout: image
-title: T-shirt Bags - Rainbow Skulls
+title: 2018-03-27-Tshirt-Bag-Rainbow-Skulls.md
 date: {}
 published: true
 image: art/tshirtbagrainbowskull.jpg
