@@ -1,9 +1,9 @@
 ---
-title: go together like a bear and trina
-image: art/tumblr_ojzfvvqKCH1vtqqcjo1_1280.jpg
-price: 199.99
-homepage: true
+title: Dynamic Duo - Acrylic Paint & Ink
 layout: image
-published: true
+image: art/tumblr_ojzfvvqKCH1vtqqcjo1_1280.jpg
+price: 20
+homepage: true
 ---
-I love my bear!
+
+This was a gift to my boyfriend for Christmas. Here we are, depicted as a giant furry bear and a tiny pixie person. 

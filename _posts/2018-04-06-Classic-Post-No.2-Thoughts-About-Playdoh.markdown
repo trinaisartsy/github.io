@@ -1,13 +1,14 @@
 ---
-published: true
+title: Classic Post No.2 Thoughts About Playdoh
+date: 2018-04-06 00:00:00 Z
+categories:
+- blog
+- tutorials
 layout: post
 subtitle: Tips and Tricks
 active: journal
 image: media/bannerplaydoh.jpg
 header-img: media/bannerplaydoh.jpg
-categories:
-  - blog
-  - tutorials
 ---
 
 ![Dried playdoh before and after - "Salted"](/media/mushroomsmall.jpg){: class="medium center" }

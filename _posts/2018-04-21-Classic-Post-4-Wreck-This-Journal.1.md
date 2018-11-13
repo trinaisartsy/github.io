@@ -1,28 +1,30 @@
 ---
-published: true
+title: Classic Post 4 Wreck This Journal.1
+date: 2018-04-21 00:00:00 Z
+categories:
+- Wreck This Journal
+- blog
+tags:
+- wreck this journal
+- wtj
+- keri smith
 layout: post
 subtitle: The post that started it all!
 active: journal
 image: media/bannerwtj.jpg
 header-img: media/bannerwtj.jpg
-tags:
-  - wreck this journal
-  - wtj
-  - keri smith
-categories:
-  - Wreck This Journal
-  - blog
 ---
+
 Wreck This Journal![]({{site.baseurl}}/art/WTJCoverchanges.jpg)
 
 _Originally Published 4 / 12_
 
-I admit it folks, I've hopped on the bandwagon. I am officially a Wreck This Journal junkie.  
+I admit it, folks, I've hopped on the bandwagon. I am officially a Wreck This Journal junkie.  
 If you didn't know yet, there is this book out there by [Keri Smith](http://www.kerismith.com/) that demands that you completely (yet artistically) trash it. Each page contains a series of directions on what to do with the book next in order to "_wreck_" it... all sorts of zany things from coloring outside the lines to making a drawing with pieces of hair. The book is slowly gaining a cult following. If you search the net, there are thousands of pictures and examples of very cool ways to complete the different pages.   
 
 [![](https://1.bp.blogspot.com/-CWVjmHWQfew/T354eLE4DGI/AAAAAAAAAxs/ZsRZ4SCn6Kk/s320/IMG_2529.jpg)](http://1.bp.blogspot.com/-CWVjmHWQfew/T354eLE4DGI/AAAAAAAAAxs/ZsRZ4SCn6Kk/s1600/IMG_2529.jpg)
    
-Soon after acquiring this book I was hooked. The concept is very freeing, and it's got me doing art more often and keeping my skills sharp, which is always good. Also, the idea that you create the art naturally and by chance is very exciting to me. The more you work with the book, the more it develops in an often unexpected direction.  
+Soon after acquiring this book I was hooked. The concept is very freeing, and it's got me doing art more often and keeping my skills sharp, which is always good. Also, the idea that you create the art naturally and by chance is very exciting for me. The more you work with the book, the more it develops in an often unexpected direction.  
   
 <!--more-->    
 
@@ -40,7 +42,7 @@ The instructions page, not yet in its final stage of development.
 
 [![](https://3.bp.blogspot.com/-HvrJ_l341_8/T356qz9fuII/AAAAAAAAAx8/2aPkqvnDxQk/s640/IMG_2531.jpg)](http://3.bp.blogspot.com/-HvrJ_l341_8/T356qz9fuII/AAAAAAAAAx8/2aPkqvnDxQk/s1600/IMG_2531.jpg)
 
- Speaking of incomplete metamorphosis, my journal is slowly shedding its cover like some sort of reptilian skin.  I can't decide if I want to salvage the cover or make a whole new one! Hmm... better work against my better judgement.
+ Speaking of an incomplete metamorphosis, my journal is slowly shedding its cover like some sort of reptilian skin.  I can't decide if I want to salvage the cover or make a whole new one! Hmm... better work against my better judgment.
   
   
 
@@ -72,7 +74,7 @@ The daunting "bring this book in the shower" page. I actually brought the book i
 
 [![](https://1.bp.blogspot.com/-k2-sDZTaVV4/T3-uRCFJrlI/AAAAAAAAAzs/OA5CvU8PqT4/s640/IMG_2591.jpg)](http://1.bp.blogspot.com/-k2-sDZTaVV4/T3-uRCFJrlI/AAAAAAAAAzs/OA5CvU8PqT4/s1600/IMG_2591.jpg)
 
-I didn't realize this at first, but there sure  are _a lot_ of four letter words.
+I didn't realize this at first, but there sure are _a lot_ of four letter words.
 
 [![](https://4.bp.blogspot.com/-aE-DY-7x6fU/T36AA_syALI/AAAAAAAAAys/pLWXXZjNr-w/s400/IMG_2568.jpg)](http://4.bp.blogspot.com/-aE-DY-7x6fU/T36AA_syALI/AAAAAAAAAys/pLWXXZjNr-w/s1600/IMG_2568.jpg)
 
@@ -85,7 +87,7 @@ The conjoining page requires me to sew through the paper, thus significantly cha
 
 [![](https://3.bp.blogspot.com/-iXuVZCWUlrM/T39zf0uRqVI/AAAAAAAAAy0/8GZdhr2yLqM/s640/IMG_2572.jpg)](http://3.bp.blogspot.com/-iXuVZCWUlrM/T39zf0uRqVI/AAAAAAAAAy0/8GZdhr2yLqM/s1600/IMG_2572.jpg)
 
-WTJ Zombies of mass destruction. Oh yeah, and for the record, I have made many sudden destructive movements with the journal. My favorite one so far is when I got my to boyfriend run it through with a pocket knife. On many of the pages (like this one) there is a stab mark directly in the center now.
+WTJ Zombies of mass destruction. Oh yeah, and for the record, I have made many sudden destructive movements with the journal. My favorite one so far is when I got my boyfriend run it through with a pocket knife. On many of the pages (like this one), there is a stab mark directly in the center now.
 
 [![](https://1.bp.blogspot.com/-hTJEAoodJkM/T39zv5rv8FI/AAAAAAAAAy8/Shf5Ywkf1Ww/s640/IMG_2575.jpg)](http://1.bp.blogspot.com/-hTJEAoodJkM/T39zv5rv8FI/AAAAAAAAAy8/Shf5Ywkf1Ww/s1600/IMG_2575.jpg)
 
@@ -93,7 +95,7 @@ Escape the nets of oppression!
 
 [![](https://3.bp.blogspot.com/-sY_tDyYSJa0/T390BU7A9lI/AAAAAAAAAzE/O6rWcpd5q2E/s640/IMG_2576.jpg)](http://3.bp.blogspot.com/-sY_tDyYSJa0/T390BU7A9lI/AAAAAAAAAzE/O6rWcpd5q2E/s1600/IMG_2576.jpg)
 
-"Glue random items on this page." One of my favorite ones I've worked on so far.. there are just so many random things in this world to be glued!
+"Glue random items on this page." One of my favorite ones I've worked on so far... there are just so many random things in this world to be glued!
 
   
 [](http://1.bp.blogspot.com/-k2-sDZTaVV4/T3-uRCFJrlI/AAAAAAAAAzs/OA5CvU8PqT4/s1600/IMG_2591.jpg)I checked out a lot of other Wreck This Journal stuff for inspiration and I came across the official WTJ blog written by the author. She has a lot to say about the philosophy behind this book. One thing she said particularly stuck in my mind. It was something along the lines of- "_While working in your journal, you will naturally come across pages that are harder to complete than others. This is normal, it all depends on your personal concept of destruction. However, the pages you avoid represent aspects of your creative process that you probably need to work on the most._"  
@@ -122,7 +124,7 @@ Check out all the supplies she got to work with! WTJ should always be worked on 
 
 She's using this book to "break" the habits of the common OCD idea that things must always be perfect. I think this is the most important aspect of  Wreck This Journal- learning to loosen up and appreciate things for the way they are.
 
-  I look forward to updating about the progress of my (and Tiffany's!) journal. There is still so much to do. Until then, does anyone else have a Wreck This Journal they would like to share? If you don't have one yet, go out and get one at the book store, you wont regret it. You can also get it online for pretty cheap, [just make sure to get it _used_!](http://www.amazon.com/gp/offer-listing/039953346X/ref=dp_olp_used?ie=UTF8&condition=used)  
+  I look forward to updating about the progress of my (and Tiffany's!) journal. There is still so much to do. Until then, does anyone else have a Wreck This Journal they would like to share? If you don't have one yet, go out and get one at the bookstore, you won't regret it. You can also get it online for pretty cheap, [just make sure to get it _used_!](http://www.amazon.com/gp/offer-listing/039953346X/ref=dp_olp_used?ie=UTF8&condition=used)  
   
 
 [![](https://2.bp.blogspot.com/-Ok2GVEJgdfE/T3-vFRAsGlI/AAAAAAAAAz0/BtzUsnIHe6A/s640/IMG_2593.jpg)](http://2.bp.blogspot.com/-Ok2GVEJgdfE/T3-vFRAsGlI/AAAAAAAAAz0/BtzUsnIHe6A/s1600/IMG_2593.jpg)

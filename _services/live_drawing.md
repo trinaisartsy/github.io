@@ -1,18 +1,15 @@
 ---
-layout: "page"
 title: Live Drawing
+categories:
+- services
+layout: page
 description: Hire a sketch artist for your next event!
-category: "services"
 active: services
 offering-type: live
 cta: booknow
-header-img: "media/servicesartschoolauditions2.jpg"
+header-img: media/servicesartschoolauditions2.jpg
 group: three
 ---
-
-
-
-
 
  ![Trina sketching a patron at the Flowertown "Science of Art" Gala](/media/trina drawing nikki.jpg){: class="small right"}
  
