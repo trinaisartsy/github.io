@@ -2,7 +2,6 @@
 title: Dynamic Duo - Acrylic Paint & Ink
 layout: image
 image: art/tumblr_ojzfvvqKCH1vtqqcjo1_1280.jpg
-price: 0
 homepage: true
 ---
 
