@@ -55,7 +55,11 @@ layout: default
     <div class="container">
         <div class="row">
                             {% if post.image %}
-                            <center><img src="{{ site.baseurl }}/{{ post.image }}" style="height: auto; max-width: 100%;"></center>
+
+                            {% capture thumbsrc %}{% thumbnail post.image 800x800 %}{% endcapture %}
+                            
+                            <center><img src="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}" /></center>
+
                             {% endif %}
 
 
