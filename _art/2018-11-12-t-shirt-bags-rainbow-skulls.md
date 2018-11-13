@@ -6,8 +6,6 @@ image: art/tshirtbagrainbowskull2.jpg
 price: 10
 published: true
 ---
-![tshirtbagrainbowskull2.jpg]({{site.baseurl}}/art/tshirtbagrainbowskull2.jpg)
-
 
 ## T-shirt Bag series - "Rainbow Skulls"
 
