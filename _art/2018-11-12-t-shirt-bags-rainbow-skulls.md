@@ -1,7 +1,7 @@
 ---
-layout: image
 title: 2018-03-27-Tshirt-Bag-Rainbow-Skulls.md
-published: true
+date: 2018-11-12 00:00:00 Z
+layout: image
 image: art/tshirtbagrainbowskull.jpg
 price: 10
 ---
