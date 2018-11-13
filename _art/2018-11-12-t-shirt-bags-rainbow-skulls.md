@@ -1,7 +1,7 @@
 ---
 layout: image
 title: Tshirt Bag "Rainbow Skull"
-date: {}
+date: 2018-11-12T00:00:00.000Z
 image: art/tshirtbagrainbowskull2.jpg
 price: 10
 published: true
