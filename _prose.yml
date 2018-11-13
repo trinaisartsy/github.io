@@ -18,7 +18,7 @@ prose:
       - name: "price"
         field: 
           element: "text"
-          label: "Price (empty to disable)"
+          label: "price (empty to disable)"
       - name: "layout"
         field:
           element: "hidden"
