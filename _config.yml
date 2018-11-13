@@ -38,13 +38,12 @@ comments:
   disqus:
     short_name: trinalyn
 nav:
-  - GALLERY: "/art/"  
-  - SHOP: "/shop/"  
-  - BLOG: "/blog/"
-  - TUTORIALS: "/tutorials/"
-  - SERVICES: "/services/"
-  - CONTACT: "/contact/"
-
+- GALLERY: "/art/"
+- SHOP: "/shop/"
+- BLOG: "/blog/"
+- TUTORIALS: "/tutorials/"
+- SERVICES: "/services/"
+- CONTACT: "/contact/"
 translations:
   permalink: "/404.html"
 destination: "./_site"
