@@ -17,7 +17,7 @@ prose:
           label: "relative path to image"
       - name: "price"
         field: 
-          element: "text"
+          element: "number"
           label: "price (empty to disable)"
       - name: "layout"
         field:
