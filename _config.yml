@@ -48,6 +48,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "/art/"  
+  - SHOP: "/shop/"  
   - BLOG: "/blog/"
   - TUTORIALS: "/tutorials/"
   - SERVICES: "/services/"
