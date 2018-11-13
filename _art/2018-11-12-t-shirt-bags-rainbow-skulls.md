@@ -1,10 +1,10 @@
 ---
-title: T-shirt Bags - Rainbow Skulls
-date: 2018-11-12 00:00:00 Z
-published: false
 layout: image
+title: T-shirt Bags - Rainbow Skulls
+date: {}
+published: true
 image: art/tshirtbagrainbowskull.jpg
-price: '10'
+price: 10
 ---
 
 ## T-shirt Bag series - "Rainbow Skulls"
