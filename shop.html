@@ -1,37 +1,44 @@
 ---
 layout: "page"
-title: Store
-description: Hire a professional artist for your next project or workshop needs.
+title: Shop
+description: Purchase artwork directly from the artist!
 category: "services"
 active: shop
 header-img: "media/servicesbanner.jpg"
 ---
-<div class="owl-gallery">
-{% include slider.html sliderpath="media/services-gallery" %}
-</div>
 
-<br clear="all" />
+{% for image in site.static_files %}
+{% assign price = "" %}
+{% assign title = "" %}
+{% assign url = "#" %}
+{% if image.path contains 'art/' %}				
+    {% unless image.path contains 'thumbs' %}
+        {% assign rendered = image.relative_path %}
+        {% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
+        {% for post in site.art %}
+            {% if image.path contains post.image %}	
+                {% assign price = post.price %}
+                {% assign title = post.title %}
+                {% assign url = post.url %}
+            {% endif %}
+        {% endfor %} 
+        {% if rendered != image.path %}	
+            {% capture thumbsrc %}{% thumbnail imagepath 800x800 %}{% endcapture %}
+            {% capture fullsrc %}{% thumbnail imagepath 1900x1900 %}{% endcapture %}		
+            {% if price != "" %}							
+   
+            <div class="shop item">
+                <a href="{{ url }}"><img src="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}" /></a>
+                <b><a href="{{ url }}">{{ title }}</a></b>
+                <i><a href="{{ url }}">${{ price }}</a></i>
+            </div>
 
+            {% endif %}
 
-{% include services-one.html group="top" %}
-<br clear="all" />
-
-
-<br clear="all" />
-{% include services-three.html group="three" %}
-
-<br clear="all" />
-<br clear="all" />
-<br clear="all" />
-{% include services-testimonials.html group="testimonials" %}
-
-<br clear="all" />
-
-<h2 class="center">Available Services</h2>
-{% include services-two.html group="bottom" %}
-<br clear="all" />    
-<br clear="all" />
-
+        {% endif %}				
+    {% endunless %}
+{% endif %}
+{% endfor %}
 
 
 <div id="header-booknow">

@@ -1,7 +1,7 @@
 ---
-title: "Butt Test"
+title: "Cheshire Cat"
 image: art/cheshirecat.jpg
-Price: 1939.99
+price: 1939.99
 layout: image
 
 ---

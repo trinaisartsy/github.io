@@ -795,3 +795,45 @@ ul#pager {
 	width: 50%;
 	float: left;
 }
+
+
+/* Shop */
+
+.shop.item {
+  display: block;
+  width: 24%;
+  float: left;
+  text-align: center;
+  padding: 20px;
+}
+
+.shop.item b, .shop.item i {
+  display: block;
+  clear: both;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+.shop.item img {
+  max-width: auto;
+  height: 300px;
+  margin: 5px auto;
+  padding-bottom: 20px;
+  object-fit: cover;
+}
+
+
+@media screen and (max-width: 780px) {
+  .shop.item {
+    display: block;
+    width: 100%;
+    border: 1px solid #614961;
+    margin: 5px;
+    float: left;
+    text-align: center;
+    padding: 20px;
+  }
+  
+}
