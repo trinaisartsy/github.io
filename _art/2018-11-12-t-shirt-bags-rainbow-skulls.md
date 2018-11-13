@@ -1,10 +1,9 @@
 ---
-layout: image
 title: Tshirt Bag "Rainbow Skull"
-date: 2018-11-12T00:00:00.000Z
+date: 2018-11-12 00:00:00 Z
+layout: image
 image: art/tshirtbagrainbowskull2.jpg
 price: 10
-published: true
 ---
 
 ## T-shirt Bag series - "Rainbow Skulls"
