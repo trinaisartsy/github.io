@@ -1,10 +1,9 @@
 ---
-layout: image
 title: Zombie Parade Sticker Pack
-date: 2019-03-11T00:00:00.000Z
-published: true
+date: 2019-03-11 00:00:00 Z
+layout: image
 price: 5
-image: /media/zombieparadestickerpack.jpg
+image: "/media/zombieparadestickerpack.jpg"
 homepage: true
 ---
 
