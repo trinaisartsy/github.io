@@ -9,7 +9,6 @@ image: /media/IMG_20181116_0906341.jpg
 
 ## Original "Heart Heads" Sticker Pack
 
-delete ![IMG_20181116_0906341.jpg]({{site.baseurl}}/media/IMG_20181116_0906341.jpg)
 
 ![clipart heartcreatures sample.png]({{site.baseurl}}/media/clipart heartcreatures sample.png)
 
