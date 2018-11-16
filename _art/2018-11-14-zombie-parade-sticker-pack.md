@@ -1,11 +1,12 @@
 ---
+title: Zombie Parade Sticker Pack
+date: 2019-03-11 00:00:00 Z
+published: false
 layout: image
 price: 5
-published: false
-title: Zombie Parade Sticker Pack
-image: /media/zombieparadestickerpack.jpg
-date: 2019-03-11T00:00:00.000Z
+image: "/media/zombieparadestickerpack.jpg"
 ---
+
 ## Original Zombie Parade Sticker Pack
 
 ![clipart zombie cartoon pack sample page.png]({{site.baseurl}}/media/clipart zombie cartoon pack sample page.png)
