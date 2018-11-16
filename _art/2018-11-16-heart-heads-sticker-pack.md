@@ -1,7 +1,7 @@
 ---
 layout: image
 title: Heart Heads Sticker Pack
-date: {}
+date: 2018-03-27T00:00:00.000Z
 price: 5
 image: /art/IMG_20181116_0906341 (1).jpg
 published: true
