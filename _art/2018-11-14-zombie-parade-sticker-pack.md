@@ -1,10 +1,11 @@
 ---
-title: Zombie Parade Sticker Pack
-date: 2018-03-27 00:00:00 Z
 layout: image
+title: Zombie Parade Sticker Pack
+date: {}
 price: 5
-image: "/art/zombieparadestickerpack.jpg"
+image: art/zombieparadestickerpack.jpg
 homepage: true
+published: true
 ---
 
 ## Original Zombie Parade Sticker Pack
