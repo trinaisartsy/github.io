@@ -7,8 +7,6 @@ image: /media/zombieparadestickerpack.jpg
 date: 2019-03-11T00:00:00.000Z
 ---
 ## Original Zombie Parade Sticker Pack
-delete: ![zombieparadestickerpack.jpg]({{site.baseurl}}/media/zombieparadestickerpack.jpg)
-
 
 ![clipart zombie cartoon pack sample page.png]({{site.baseurl}}/media/clipart zombie cartoon pack sample page.png)
 
