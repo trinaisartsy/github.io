@@ -1,11 +1,12 @@
 ---
+title: Heart Heads Sticker Pack
+date: 2018-10-10 00:00:00 Z
+published: false
 layout: image
 price: 5
-published: false
-title: Heart Heads Sticker Pack
-image: /media/IMG_20181116_0906341.jpg
-date: 2018-10-10T00:00:00.000Z
+image: "/media/IMG_20181116_0906341.jpg"
 ---
+
 ## Original "Heart Heads" Sticker Pack
 
 delete ![IMG_20181116_0906341.jpg]({{site.baseurl}}/media/IMG_20181116_0906341.jpg)
