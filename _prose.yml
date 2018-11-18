@@ -10,7 +10,7 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "Post Title"
+          label: "Title"
       - name: "image"
         field:
           element: "text"
@@ -18,7 +18,13 @@ prose:
       - name: "price"
         field: 
           element: "number"
-          label: "price (empty to disable)"
+          label: "Price"
+      - name: "homepage"
+        field:
+          element: "Button"
+          label: "Show on Homepage"
+          on: "true"
+          off: "false"
       - name: "layout"
         field:
           element: "hidden"
