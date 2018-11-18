@@ -8,6 +8,11 @@ prose:
   metadata:
 
     _posts:
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          help: "Displayed in the purple site header, below the header text."
       - name: "image"
         field:
           element: "text"
