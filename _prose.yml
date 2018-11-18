@@ -6,6 +6,34 @@ prose:
   
 
   metadata:
+
+    _posts:
+      - name: "image"
+        field:
+          element: "text"
+          label: "Header relative image path"
+
+      - name: "header-img"
+        field:
+          element: "text"
+          label: "Purplized header relative path"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "date"
+        field:
+          label: "Date"
+          element: "text"
+          value: CURRENT_DATETIME
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          alterable: true
+
+
+
     _art:
       - name: "image"
         field:
