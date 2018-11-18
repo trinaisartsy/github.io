@@ -6,7 +6,10 @@ prose:
   
 
   metadata:
-
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "post"
     _posts:
       - name: "subtitle"
         field:
@@ -17,7 +20,6 @@ prose:
         field:
           element: "text"
           label: "Header relative image path"
-
       - name: "header-img"
         field:
           element: "text"
