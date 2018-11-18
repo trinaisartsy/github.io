@@ -87,8 +87,9 @@ prose:
     - name: "active"
         field: 
           element: "hidden"
-          value: "page"          
-      - name: "services"
+          value: "services"          
+
+      - name: "layout"
         field: 
           element: "hidden"
           value: "page"
