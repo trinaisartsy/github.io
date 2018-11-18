@@ -1,8 +1,7 @@
 ---
-layout: image
 title: T-shirt Bag - Skull and Roses
-date: 2018-11-18T00:00:00.000Z
-published: true
+date: 2018-11-18 00:00:00 Z
+layout: image
 price: 12
 image: media/tshirtbagskullandroses.jpg
 ---
