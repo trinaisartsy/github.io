@@ -77,39 +77,7 @@ prose:
         field:
           element: "checkbox"
           label: "Display on Homepage"
-    _services:
-      - name: "header-img"
-        field:
-          element: "text"
-          label: "Header relative image path"
-      - name: "active"
-        field: 
-          element: "hidden"
-          value: "page"          
-      - name: "services"
-        field: 
-          element: "hidden"
-          value: "page"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "image"
-      - name: "description"
-        field:
-          label: "Description"
-          element: "textarea"
-       - name: "group"
-        field:
-          element: "select"
-          label: "Group"
-          help: "Which logical grouping?"
-          options:
-          - name: 'One'
-            value: 'one'
-          - name: 'Two'
-            value: 'two'
-          - name: 'Three'
-            value: 'three'            
+  
   ignore:
     - index.md
     - _config.yml
