@@ -2,6 +2,10 @@ Trina is Artsy
 ==============
 A portfolio website built from Jekyll. Based on [photorama](https://sunbliss.github.io/photorama/ "Photorama Demo"), heavily modified. 
 
+## Usage questions?
+
+Check out the [Usage Guide](https://trinaisartsy.github.io/github.io/)! 
+
 ## Local Development
 
 There's some work you just can't do on the web, for this we must build the site locally:
