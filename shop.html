@@ -11,7 +11,7 @@ header-img: media/servicesbanner.jpg
 {% assign price = false %}
 {% assign title = "" %}
 {% assign url = "#" %}
-{% if image.path contains 'art/' %}				
+{% if image.path contains 'art/' or image.path contains 'media/' %}				
     {% unless image.path contains 'thumbs' %}
         {% assign rendered = image.relative_path %}
         {% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
@@ -22,10 +22,11 @@ header-img: media/servicesbanner.jpg
                 {% assign url = post.url %}
             {% endif %}
         {% endfor %} 
+        {% if price != false %}
         {% if rendered != image.path %}	
             {% capture thumbsrc %}{% thumbnail imagepath 800x800 %}{% endcapture %}
             {% capture fullsrc %}{% thumbnail imagepath 1900x1900 %}{% endcapture %}		
-            {% if price != false %}
+
           
             <div class="shop item">
                 <a href="{{ url }}"><img src="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}" /></a>
