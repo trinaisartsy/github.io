@@ -7,10 +7,6 @@ prose:
 
   metadata:
     _art:
-      - name: "homepage"
-        field:
-          element: "checkbox"
-          label: "Display on Homepage"
       - name: "image"
         field:
           element: "text"
@@ -28,6 +24,10 @@ prose:
           label: "Date"
           element: "text"
           value: CURRENT_DATETIME
+      - name: "homepage"
+        field:
+          element: "checkbox"
+          label: "Display on Homepage"
   ignore:
     - index.md
     - _config.yml
