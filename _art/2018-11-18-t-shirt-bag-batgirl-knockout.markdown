@@ -1,10 +1,9 @@
 ---
+title: " T-shirt Bag Batgirl Knockout"
+date: 2018-11-18 00:00:00 Z
 layout: image
-title: ' T-shirt Bag Batgirl Knockout'
-date: 2018-11-18T00:00:00.000Z
-published: true
 price: 12
-image: /media/tshirt bag batgirl.jpg
+image: "/media/tshirt bag batgirl.jpg"
 ---
 
 ## T-shirt Bag series - "Batgirl Knockout"
