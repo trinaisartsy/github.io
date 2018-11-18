@@ -3,11 +3,10 @@ layout: image
 price: 12
 date: '2018-11-18 15:00 -0500'
 homepage: false
-published: false
+published: true
 image: /media/tshirtbagfoxriderdetail.jpg
 ---
 ## T-shirt Bag series - "Fox Rider"
-![tshirtbagfoxriderdetail.jpg]({{site.baseurl}}/media/tshirtbagfoxriderdetail.jpg)
 
 ![tshirtbagfoxriderhanging.jpg]({{site.baseurl}}/media/tshirtbagfoxriderhanging.jpg)
 
