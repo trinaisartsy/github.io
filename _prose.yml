@@ -90,7 +90,11 @@ prose:
         field:
           element: "hidden"
           value: "page"
-  
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+          help: "Description of services, please be somewhat brief and check the page styling afterwards."  
   ignore:
     - index.md
     - _config.yml
