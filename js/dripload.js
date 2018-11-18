@@ -17,13 +17,15 @@ var dripload = {
                 this.left = true;
             }
             
-            pricecallout = '';
+            pricecallout = '<b>'+data.title+'</b>';
+
             if(data.price) {
-                pricecallout = '<div>Buy now for</div>';
-            }
+                pricecallout += ' &#160;&#160;&#160; Trina sells these directly!  &#160;&#160 <a href=\''+data.url+'\'>Buy now for $'+data.price+'</a>';
+             }
+
 
             $(image).appendTo(
-                $('<a href="'+data.href+'" title="'+data.title+'" data-caption="'+data.caption+'" data-price="'+data.price+'">'+pricecallout+'</a>')
+                $('<a href="'+data.href+'" title="'+pricecallout+'"></a>')
             ).closest('a').appendTo(append);
 
             this.generateImage();

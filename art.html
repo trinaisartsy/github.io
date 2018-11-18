@@ -23,6 +23,8 @@ header-img: media/banner3.jpg
 					{% if image.path contains post.image %}	
 						{% assign title = post.title %}
 						{% assign url = post.url %}
+						{% assign description = post.description %}
+						{% assign price = post.price %}
 					{% endif %}
 				{% endfor %} 
 				{% if rendered != image.path %}	
@@ -34,6 +36,8 @@ header-img: media/banner3.jpg
 						data-url="{{ url }}"
 						data-thumbnail="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}"
 						data-caption="<a href='{{ url }}'><b>Learn More</b></a>"
+						data-description="{{ description }}" 
+						data-price="{{ price }}" 
 					></article>
 				{% endif %}				
 			{% endunless %}
