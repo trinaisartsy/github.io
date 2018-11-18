@@ -10,7 +10,7 @@ tags:
 - keri smith
 layout: post
 subtitle: The post that started it all!
-active: journal
+active: blog
 image: media/bannerwtj.jpg
 header-img: media/bannerwtj.jpg
 ---

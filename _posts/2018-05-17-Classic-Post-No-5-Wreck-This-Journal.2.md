@@ -13,7 +13,7 @@ tags:
 - smith
 layout: post
 subtitle: Part Two!
-active: journal
+active: blog
 image: art/WTJCoverchanges.jpg
 header-img: art/WTJCoverchanges.jpg
 ---

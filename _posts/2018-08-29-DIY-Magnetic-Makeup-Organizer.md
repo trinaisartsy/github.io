@@ -11,7 +11,7 @@ tags:
 - tutorial
 layout: post
 subtitle: And other smart makeup organizing ideas
-active: journal
+active: blog
 image: media/banner.jpg
 header-img: media/banner.jpg
 ---

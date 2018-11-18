@@ -5,7 +5,7 @@ categories:
 - blog
 layout: post
 subtitle: Aka The Bone Chime
-active: journal
+active: blog
 image: media/bannersketchbook.png
 header-img: media/bannersketchbook.png
 ---

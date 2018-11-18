@@ -7,7 +7,7 @@ tags:
 - artsy fartsy stuff
 layout: post
 subtitle: The Horror!
-active: journal
+active: blog
 image: art/IMG_3020[1].jpg
 header-img: media/IMG_3024.jpg
 ---

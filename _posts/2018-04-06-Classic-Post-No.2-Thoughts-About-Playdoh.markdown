@@ -6,7 +6,7 @@ categories:
 - tutorials
 layout: post
 subtitle: Tips and Tricks
-active: journal
+active: blog
 image: media/bannerplaydoh.jpg
 header-img: media/bannerplaydoh.jpg
 ---

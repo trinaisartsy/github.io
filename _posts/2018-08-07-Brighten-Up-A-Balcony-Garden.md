@@ -9,7 +9,7 @@ tags:
 - tutorials
 layout: post
 subtitle: 
-active: journal
+active: blog
 image: media/bannerhomedecor.jpg
 header-img: media/bannerhomedecor.jpg
 ---

@@ -9,7 +9,7 @@ tags:
 - advice
 layout: post
 subtitle: aka A Letter To My Future Self
-active: journal
+active: blog
 image: art/IMG_20170417_124005414.jpg
 header-img: art/IMG_20170417_124005414.jpg
 ---

@@ -8,7 +8,7 @@ tags:
 - tutorials
 layout: post
 subtitle: Taking your first drink and draw class.
-active: journal
+active: blog
 image: media/bannerwinedesign.jpg
 header-img: media/bannerwinedesign.jpg
 ---
