@@ -116,4 +116,10 @@ prose:
     - /package.json
     - /search.html
     - /search.json
+    - /googleef51959ab863b4ee.html
+    - _plugins
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - uploads
  
