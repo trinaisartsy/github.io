@@ -24,12 +24,7 @@ prose:
         field: 
           element: "number"
           label: "Price"
-      - name: "homepage"
-        field:
-          element: "button"
-          label: "Show on Homepage"
-          on: "true"
-          off: "false"
+
       - name: "layout"
         field:
           element: "hidden"
