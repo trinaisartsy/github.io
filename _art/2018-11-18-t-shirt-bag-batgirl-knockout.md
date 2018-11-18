@@ -9,7 +9,6 @@ homepage: false
 ---
 
 ## T-shirt Bag series - "Batgirl Knockout"
-![tshirtbagbatgirllarge.jpg]({{site.baseurl}}/media/tshirtbagbatgirllarge.jpg)
 
 ![tshirt bag batgirl hanging.jpg]({{site.baseurl}}/media/tshirt bag batgirl hanging.jpg)
 
