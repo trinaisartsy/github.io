@@ -55,7 +55,8 @@ layout: default
     <div class="container">
         <div class="row">
         {% if post.image %}
-            {% capture imgpath %}{{ post.image | replace: '/art', 'art' }}{% endcapture %}
+            {% capture imgpath %}{{ post.image | replace: '/art/', 'art/' }}{% endcapture %}
+            {% capture imgpath %}{{ imgpath | replace: '/media/', 'media/' }}{% endcapture %}
             {% capture thumbsrc %}{% thumbnail imgpath 800x800 %}{% endcapture %}                            
             <center><img src="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}" /></center>
         {% endif %}
