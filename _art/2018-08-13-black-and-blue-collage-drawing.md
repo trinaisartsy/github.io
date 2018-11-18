@@ -1,7 +1,7 @@
 ---
 layout: image
 title: 'Black and Blue - Collage Drawing '
-date: {}
+date: 2018-08-13T01:01:01.001Z
 price: 40
 homepage: true
 image: art/BlackandBlue.png
