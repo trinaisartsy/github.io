@@ -32,7 +32,11 @@ prose:
           label: "Tags"
           alterable: true
 
-
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Categories"
+          alterable: true
 
     _art:
       - name: "image"
