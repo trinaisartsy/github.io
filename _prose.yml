@@ -20,8 +20,9 @@ prose:
         field:
           element: "hidden"
           value: "image"
-      - name: "Date"
+      - name: "date"
         field:
+          label: "Date"
           element: "text"
           value: CURRENT_DATETIME
   ignore:
