@@ -31,13 +31,30 @@ prose:
           element: "multiselect"
           label: "Tags"
           alterable: true
-
       - name: "categories"
         field:
           element: "multiselect"
           label: "Categories"
           alterable: true
 
+      - name: "active"
+        field:
+          element: "select"
+          label: "Active Section"
+          help: "When this page is active, which entry in the main menu should be highlighted?"
+          options:
+          - name: 'Gallery'
+            value: 'gallery'
+          - name:   'Shop'
+            value: 'shop'
+          - name:   'Blog'
+            value: 'blog'            
+          - name:   'Tutorials'
+            value: 'tutorials'
+          - name:   'Services'
+            value: 'services'
+          - name:   'Contact'
+            value: 'contact'            
     _art:
       - name: "image"
         field:
