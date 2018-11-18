@@ -20,6 +20,10 @@ prose:
         field:
           element: "hidden"
           value: "image"
+      - name: "Date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
   ignore:
     - index.md
     - _config.yml
