@@ -54,19 +54,15 @@ layout: default
 
     <div class="container">
         <div class="row">
-                            {% if post.image %}
-
-                            {% capture thumbsrc %}{% thumbnail post.image 800x800 %}{% endcapture %}
-                            
-                            <center><img src="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}" /></center>
-
-                            {% endif %}
-
-
-                            {{ content }}
-                               
-
-{% if post.price %}                    
+        {% if post.image %}
+            {% capture imgpath %}{{ post.image | replace: '/art', 'art' }}{% endcapture %}
+            {% capture thumbsrc %}{% thumbnail imgpath 800x800 %}{% endcapture %}                            
+            <center><img src="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}" /></center>
+        {% endif %}
+        
+        {{ content }}
+        
+        {% if post.price %}                    
 <!-- BEGIN PAYPAL BUTTON --> 
 <br>
 <center>

@@ -3,7 +3,7 @@ title: Heart Heads Sticker Pack
 date: 2018-03-27 00:00:00 Z
 layout: image
 price: 5
-image: "/art/IMG_20181116_0906341 (1).jpg"
+image: "/art/IMG_20181116_0906341.jpg"
 ---
 
 ## Original "Heart Heads" Sticker Pack
