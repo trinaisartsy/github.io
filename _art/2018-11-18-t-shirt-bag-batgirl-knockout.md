@@ -7,7 +7,6 @@ image: "/media/tshirt bag batgirl.jpg"
 ---
 
 ## T-shirt Bag series - "Rainbow Skulls"
-del ![tshirt bag made out of a batgirl tank top]({{site.baseurl}}/media/tshirt bag batgirl.jpg)
 
 ![tshirt bag batgirl hanging.jpg]({{site.baseurl}}/media/tshirt bag batgirl hanging.jpg)
 
