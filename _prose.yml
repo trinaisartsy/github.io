@@ -90,6 +90,10 @@ prose:
         field:
           element: "hidden"
           value: "page"
+      - name: "active"
+        field:
+          element: "hidden"
+          value: "services"          
       - name: "description"
         field:
           element: "textarea"
