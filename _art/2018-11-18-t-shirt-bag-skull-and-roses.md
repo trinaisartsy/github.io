@@ -4,6 +4,7 @@ date: 2018-11-18 00:00:00 Z
 layout: image
 price: 12
 image: media/tshirtbagskullandroses.jpg
+published: true
 ---
 
 ## T-shirt Bag series - "Skull and Roses"
