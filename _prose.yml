@@ -14,7 +14,7 @@ prose:
       - name: "image"
         field:
           element: "text"
-          label: "relative path to image"
+          label: "Header relative image path"
       - name: "price"
         field: 
           element: "number"
