@@ -83,14 +83,6 @@ prose:
         field:
           element: "text"
           label: "Header relative image path"
-      - name: "active"
-          field: 
-            element: "hidden"
-            value: "services"          
-      - name: "layout"
-        field: 
-          element: "hidden"
-          value: "page"
 
   
   ignore:
