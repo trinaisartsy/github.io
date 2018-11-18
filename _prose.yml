@@ -111,6 +111,18 @@ prose:
             value: 'two'
           - name:   'Three'
             value: 'three'                      
+      - name: "offering-type"
+        field:
+          element: "select"
+          label: "Offering Type"
+          help: "What offering does this post fall under?"
+          options:
+          - name: 'Commissions'
+            value: 'commissions'
+          - name:   'Live'
+            value: 'live'
+          - name:   'Tutor'
+            value: 'tutor'              
   ignore:
     - index.md
     - _config.yml
