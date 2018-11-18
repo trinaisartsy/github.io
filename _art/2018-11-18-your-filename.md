@@ -1,11 +1,12 @@
 ---
+title: Untitled
+date: 2018-11-18 00:00:00 Z
+published: false
 layout: image
 price: 12
-published: false
-title: Untitled
-image: /media/tshirt bag batgirl.jpg
-date: 2018-11-18T00:00:00.000Z
+image: "/media/tshirt bag batgirl.jpg"
 ---
+
 ## T-shirt Bag series - "Rainbow Skulls"
 del ![tshirt bag made out of a batgirl tank top]({{site.baseurl}}/media/tshirt bag batgirl.jpg)
 
