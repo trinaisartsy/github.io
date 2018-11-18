@@ -7,24 +7,15 @@ prose:
 
   metadata:
     _art:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
+
       - name: "image"
         field:
           element: "text"
           label: "Header relative image path"
-     - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          value: CURRENT_DATETIME
       - name: "price"
         field: 
           element: "number"
           label: "Price"
-
       - name: "layout"
         field:
           element: "hidden"
