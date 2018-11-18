@@ -1,11 +1,12 @@
 ---
+title: T-shirt Bag - Skull and Roses
+date: 2018-11-18 00:00:00 Z
+published: false
 layout: image
 price: 12
-published: false
-title: T-shirt Bag - Skull and Roses
 image: media/tshirtbagskullandroses.jpg
-date: 2018-11-18T00:00:00.000Z
 ---
+
 ## T-shirt Bag series - "Batgirl Knockout"
 ![tshirtbagskullandroses.jpg]({{site.baseurl}}/media/tshirtbagskullandroses.jpg)
 ![Skull and Roses Tshirt Bag]({{site.baseurl}}/media/tshirtbagskullandroseshanging.jpg)
