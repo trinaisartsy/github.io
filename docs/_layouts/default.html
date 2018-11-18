@@ -17,34 +17,16 @@
       <div class="inner">
 
         <header>
-          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
         <section id="downloads" class="clearfix">
             <h2>Table of Contents</h2>
-            <ul style="margin-left: 20px">
+            <ul style="padding-left: 50px">
                 <li><a href="https://trinaisartsy.github.io/github.io/">Main Page</a></li>
                 <li><a href="https://trinaisartsy.github.io/github.io/usage">Usage Guide</a></li>
             </ul>
-
-
-            {%- for post in site.posts -%}
-            <li>
-              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-              <span class="post-meta">{{ post.date | date: date_format }}</span>
-              <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                  {{ post.title | escape }}
-                </a>
-              </h3>
-              {%- if site.show_excerpts -%}
-                {{ post.excerpt }}
-              {%- endif -%}
-            </li>
-            {%- endfor -%}
-
-
-            <br clear="both"><br clear="both"><br clear="both">
+            <br clear="both"><br clear="both">
 
           {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
