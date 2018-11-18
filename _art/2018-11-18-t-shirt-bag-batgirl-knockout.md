@@ -1,7 +1,6 @@
 ---
 title: T-shirt Bag "Batgirl Knockout"
 date: 2018-11-18 00:00:00 Z
-published: true
 layout: image
 price: 12
 image: "/media/tshirt bag batgirl.jpg"
