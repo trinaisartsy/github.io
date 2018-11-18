@@ -3,12 +3,13 @@ layout: image
 title: T-shirt Bag "Batgirl Knockout"
 date: 'Sat Nov 17 2018 19:00:00 GMT-0500 (Eastern Standard Time)'
 price: 12
-image: /media/tshirt bag batgirl large.jpg
+image: /media/tshirtbagbatgirllarge.jpg
 published: true
 homepage: false
 ---
 
 ## T-shirt Bag series - "Batgirl Knockout"
+![tshirtbagbatgirllarge.jpg]({{site.baseurl}}/media/tshirtbagbatgirllarge.jpg)
 
 ![tshirt bag batgirl hanging.jpg]({{site.baseurl}}/media/tshirt bag batgirl hanging.jpg)
 
