@@ -99,6 +99,18 @@ prose:
           element: "textarea"
           label: "Description"
           help: "Description of services, please be somewhat brief and check the page styling afterwards."  
+      - name: "group"
+        field:
+          element: "select"
+          label: "Grouping"
+          help: "What logical grouping does this item display in? Check frontend after deployment to confirm proper placement."
+          options:
+          - name: 'One'
+            value: 'one'
+          - name:   'Two'
+            value: 'two'
+          - name:   'Three'
+            value: 'three'                      
   ignore:
     - index.md
     - _config.yml
