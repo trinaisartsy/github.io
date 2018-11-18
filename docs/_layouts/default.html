@@ -21,19 +21,18 @@
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
         <section id="downloads" class="clearfix">
-            <ul>
-                <li><a href="https://github.com/trinaisartsy/github.io/">Github</a></li>
-                <li><a href="https://app.netlify.com/sites/trinaisartsy">Netlify</a></li>
-                <li><a href="https://prose.io/#trinaisartsy/github.io">Prose</a></li>
-                <li><a href="/usage">Usage Guide</a></li>
-            </ul>
+            <h2>Table of Contents</h2>
+            <a href="/usage">Usage Guide</a>
+            
           {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
           <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
           {% endif %}
 	
           <a href="https://github.com/trinaisartsy/github.io" id="view-on-github" class="button"><span>View on GitHub</span></a>
-	  
+          <a href="https://prose.io/#trinaisartsy/github.io" id="view-on-github" class="button"><span>View with Prose</span></a>
+          <a href="https://app.netlify.com/sites/trinaisartsy" id="view-on-github" class="button"><span>Manage on Netlify</span></a>
+
 	
         </section>
         <hr>
