@@ -1,10 +1,7 @@
 prose:
   rooturl: ''
   siteurl: 'https://trina.coffee'
- # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
-  
-
   metadata:
     _posts:
       - name: "subtitle"
@@ -80,7 +77,6 @@ prose:
         field:
           element: "checkbox"
           label: "Display on Homepage"
-
     _services:
       - name: "header-img"
         field:
@@ -139,10 +135,8 @@ prose:
     - /weblog
     - /.gitignore
     - /CNAME
-    - /Gruntfile.js
     - /LICENSE
     - /_prose.yml
-    - /bower.json
     - /favicon.ico
     - /feed.xml
     - /img/logo.png
@@ -160,5 +154,4 @@ prose:
     - index.html
     - services.html
     - shop.html
-    - docs/
- 
+    - /docs
