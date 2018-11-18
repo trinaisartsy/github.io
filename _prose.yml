@@ -77,6 +77,12 @@ prose:
         field:
           element: "checkbox"
           label: "Display on Homepage"
+
+    _services:
+      - name: "header-img"
+        field:
+          element: "text"
+          label: "Header relative image path"
   
   ignore:
     - index.md
