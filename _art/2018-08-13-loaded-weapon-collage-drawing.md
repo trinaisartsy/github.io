@@ -1,7 +1,7 @@
 ---
 layout: image
 title: Loaded Weapon - Collage Drawing
-date: {}
+date: 2018-08-13T00:00:00.000Z
 price: 40
 homepage: true
 image: art/loadedweapon.png
