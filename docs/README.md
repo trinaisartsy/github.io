@@ -1,4 +1,6 @@
-# Trina is Artsy
+This blog is a Jekyll-based website with a few gems to help keep things running well on the web. We use tagging and thumbnailing gems to add pagination and to reduce download sizes, making the site incompatible with github pages. We use Netlify, which supports these gems, to generate and host the static files. 
+
+Trina doesn't like using markdown and github very much, so we have been using Prose to make content management easier. Check out the _prose.yml file to see the custom configuration, the goal is to expose all functionality in it.
 
 ## Local Development
 
