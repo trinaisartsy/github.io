@@ -3,11 +3,10 @@ layout: image
 price: 12
 date: '2018-11-18 15:03 -0500'
 homepage: false
-published: false
+published: true
 image: /media/tshirtbagsalmonstripesdetail.jpg
 ---
 ## T-shirt Bag series - "Salmon Stripes"
-![tshirtbagsalmonstripesdetail.jpg]({{site.baseurl}}/media/tshirtbagsalmonstripesdetail.jpg)
 ![tshirtbagsalmonstripeshanging.jpg]({{site.baseurl}}/media/tshirtbagsalmonstripeshanging.jpg)
 
 
