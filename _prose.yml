@@ -122,4 +122,9 @@ prose:
     - Gemfile.lock
     - README.md
     - uploads
+    - 404.html
+    - art.html
+    - index.html
+    - services.html
+    - shop.html
  
