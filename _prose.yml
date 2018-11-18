@@ -15,6 +15,11 @@ prose:
         field:
           element: "text"
           label: "Header relative image path"
+     - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: CURRENT_DATETIME
       - name: "price"
         field: 
           element: "number"
