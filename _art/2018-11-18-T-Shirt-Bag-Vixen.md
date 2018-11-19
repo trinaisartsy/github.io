@@ -3,10 +3,10 @@ layout: image
 price: 12
 date: '2018-11-18 20:24 -0500'
 homepage: false
-published: false
+published: true
 image: media/tshirtbagvixendetail.jpg
 ---
-![tshirtbagvixendetail.jpg]({{site.baseurl}}/media/tshirtbagvixendetail.jpg)
+
 ![tshirtbagvixenhanging.jpg]({{site.baseurl}}/media/tshirtbagvixenhanging.jpg)
 
 
