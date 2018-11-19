@@ -4,7 +4,7 @@ price: 12
 date: '2018-11-18 20:21 -0500'
 homepage: false
 published: true
-image: /media/tshirtbagpeacedetail.jpg
+image: media/tshirtbagpeacehanging.jpg
 ---
 ![tshirtbagpeacehanging.jpg]({{site.baseurl}}/media/tshirtbagpeacehanging.jpg)
 
