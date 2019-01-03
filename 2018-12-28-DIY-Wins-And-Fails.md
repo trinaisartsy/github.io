@@ -25,6 +25,10 @@ I'm calling this little project a win because we still use these baskets for sto
 
 Best Project This Year: The Website
 
+Repurposing Old Fabrics
+
+Another theme this year for me was sustainability. I'm particuarlly obsessed with ways to combat fast fashion by repurposing old clothes in useful ways. 
+
 Pillow Cases out of Tshirts
 
 Shitty DIY candles
