@@ -4,7 +4,7 @@ price: 5
 date: '2019-01-07 10:07 -0500'
 homepage: false
 published: true
-image: /media/surprisemestickerpacknophoto.png
+image: media/surprisemestickerpacknophoto.png
 ---
 ## Original Surprise Sticker Pack
 
