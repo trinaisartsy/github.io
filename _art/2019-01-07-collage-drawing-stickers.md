@@ -3,7 +3,7 @@ layout: image
 price: 5
 date: '2019-01-07 11:41 -0500'
 homepage: false
-published: false
+published: true
 ---
 ![]({{site.baseurl}}/media/clipart%20collagedrawing%20sample.png)
 
