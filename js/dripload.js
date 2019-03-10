@@ -20,7 +20,8 @@ var dripload = {
             pricecallout = '<b>'+data.title+'</b>';
 
             if(data.price) {
-                pricecallout += ' &#160;&#160;&#160; Trina sells these directly!  &#160;&#160 <a href=\''+data.url+'\'>Buy now for $'+data.price+'</a>';
+                pricecallout += ' &#160;&#160;&#160;   &#160;&#160 <a href=\''+data.url+'\'>
+    Learn more about this piece</a>';
              }
 
 
