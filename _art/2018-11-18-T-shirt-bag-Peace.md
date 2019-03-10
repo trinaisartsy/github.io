@@ -5,6 +5,7 @@ date: '2018-11-18 20:21 -0500'
 homepage: false
 published: true
 image: media/tshirtbagpeacehanging.jpg
+show_in_gallery: false
 ---
 ![tshirtbagpeacehanging.jpg]({{site.baseurl}}/media/tshirtbagpeacehanging.jpg)
 
