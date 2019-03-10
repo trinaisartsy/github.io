@@ -4,7 +4,7 @@ price: 5
 date: '2019-01-07 10:25 -0500'
 homepage: false
 published: true
-image: art/houseplantssitcker.png
+image: art/houseplantsstickerpack.png
 ---
 ![House Plants Sticker Pack Sample]({{site.baseurl}}/media/House Plants Stickers.png)
 
