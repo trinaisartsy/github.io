@@ -20,8 +20,7 @@ var dripload = {
             pricecallout = '<b>'+data.title+'</b>';
 
             if(data.price) {
-                pricecallout += ' &#160;&#160;&#160;   &#160;&#160 <a href=\''+data.url+'\'>
-    Learn more about this piece</a>';
+                pricecallout += ' &#160;&#160;&#160;<a href=\''+data.url+'\'>Learn more about this piece</a>';
              }
 
 
