@@ -5,6 +5,7 @@ date: '2018-11-18 20:24 -0500'
 homepage: false
 published: true
 image: media/tshirtbagvixendetail.jpg
+show_in_gallery: false
 ---
 
 ![tshirtbagvixenhanging.jpg]({{site.baseurl}}/media/tshirtbagvixenhanging.jpg)
