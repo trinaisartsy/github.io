@@ -1,9 +1,12 @@
 ---
-title: Heart Heads Sticker Pack
-date: 2018-03-27 00:00:00 Z
 layout: image
+title: Heart Heads Sticker Pack
+date: 'Mon Mar 26 2018 20:00:00 GMT-0400 (Eastern Daylight Time)'
 price: 5
-image: "/art/IMG_20181116_0906341.jpg"
+image: /art/IMG_20181116_0906341.jpg
+published: true
+homepage: false
+show_in_gallery: false
 ---
 
 ## Original "Heart Heads" Sticker Pack
