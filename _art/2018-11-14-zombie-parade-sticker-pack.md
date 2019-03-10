@@ -1,10 +1,12 @@
 ---
-title: Zombie Parade Sticker Pack
-date: 2018-03-27 00:00:00 Z
 layout: image
+title: Zombie Parade Sticker Pack
+date: 'Mon Mar 26 2018 20:00:00 GMT-0400 (Eastern Daylight Time)'
 price: 5
 image: art/zombieparadestickerpack.jpg
 homepage: true
+published: true
+show_in_gallery: false
 ---
 
 ## Original Zombie Parade Sticker Pack
