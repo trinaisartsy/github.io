@@ -5,6 +5,7 @@ date: '2019-01-07 10:07 -0500'
 homepage: false
 published: true
 image: art/surprisemestickerpack.png
+show_in_gallery: false
 ---
 ## Original Surprise Sticker Pack
 

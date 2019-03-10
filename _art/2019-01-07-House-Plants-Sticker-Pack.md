@@ -5,6 +5,7 @@ date: '2019-01-07 10:25 -0500'
 homepage: false
 published: true
 image: art/houseplantsstickerpack.png
+show_in_gallery: false
 ---
 ![House Plants Sticker Pack Sample]({{site.baseurl}}/media/House Plants Stickers.png)
 

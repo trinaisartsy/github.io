@@ -77,6 +77,10 @@ prose:
         field:
           element: "checkbox"
           label: "Display on Homepage"
+      - name: "show_in_gallery"
+        field:
+          element: "checkbox"
+          label: "Show in Gallery"
     _services:
       - name: "header-img"
         field:

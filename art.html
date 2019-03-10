@@ -20,25 +20,30 @@ header-img: media/banner3.jpg
 				{% assign rendered = image.relative_path %}
 				{% capture imagepath %}{{ image.path | replace_first: '/', '' }}{% endcapture %}
 				{% for post in site.art %}
+
 					{% if image.path contains post.image %}	
 						{% assign title = post.title %}
 						{% assign url = post.url %}
 						{% assign description = post.description %}
 						{% assign price = post.price %}
+						{% assign show_in_gallery = post.show_in_gallery %}
 					{% endif %}
 				{% endfor %} 
-				{% if rendered != image.path %}	
-					{% capture thumbsrc %}{% thumbnail imagepath 800x800 %}{% endcapture %}
-					{% capture fullsrc %}{% thumbnail imagepath 1900x1900 %}{% endcapture %}									
-					<article 
-						data-href="/{{ fullsrc | replace: "<img src='", "" |  replace: "' />", "" }}"
-						data-title="{{ title }}"
-						data-url="{{ url }}"
-						data-thumbnail="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}"
-						data-caption="<a href='{{ url }}'><b>Learn More</b></a>"
-						data-description="{{ description }}" 
-						data-price="{{ price }}" 
-					></article>
+				{% if show_in_gallery != false %}
+					{% if rendered != image.path %}	
+						{% capture thumbsrc %}{% thumbnail imagepath 800x800 %}{% endcapture %}
+						{% capture fullsrc %}{% thumbnail imagepath 1900x1900 %}{% endcapture %}									
+						<article 
+							data-href="/{{ fullsrc | replace: "<img src='", "" |  replace: "' />", "" }}"
+							data-title="{{ title }}"
+							data-url="{{ url }}"
+							data-thumbnail="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}"
+							data-caption="<a href='{{ url }}'><b>Learn More</b></a>"
+							data-description="{{ description }}" 
+							data-price="{{ price }}" 
+							
+						></article>
+					{% endif %}
 				{% endif %}				
 			{% endunless %}
 		{% endif %}
