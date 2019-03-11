@@ -5,7 +5,7 @@ date: 'Sat Aug 11 2018 20:00:00 GMT-0400 (Eastern Daylight Time)'
 image: art/Bobomb BattleField.jpg
 homepage: true
 published: true
-price: 0
+price: 200
 show_in_gallery: true
 ---
 
