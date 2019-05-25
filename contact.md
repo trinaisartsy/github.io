@@ -7,7 +7,7 @@ header-img: media/aboutbanner.jpg
 published: true
 ---
 
-![It's Trina Lyn!]({{site.baseurl}}/media/itme.png){: class="medium left"}
+![It's Trina Lyn!]({{site.baseurl}}/media/itme.png){: class="center clear"}
 
 ## The Basics:
 My name is Trina Lyn and I'm a coffee-fueled visual artist based out of Charleston, SC. I'm spunky, weird and colorful- qualities that often shine through in my artwork. I like to take pride in my undertakings and never go into a project half-hearted. I'm always looking for ways to bring new twists or fun concepts to the table while trying to learn a little bit about myself in the process.
