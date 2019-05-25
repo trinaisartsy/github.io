@@ -4,7 +4,7 @@ price: 300
 date: '2019-05-25 01:44 -0400'
 homepage: true
 show_in_gallery: true
-published: false
+published: true
 image: art/cobbledheartphoenixsm.png
 ---
 I gravitate towards the symbol of the phoenix often. I love how it completely burns down into ash before it is reborn into a new creature. I relate to this bird - I've burned myself up and rebuilt from scratch more than once in my life. To me, the phoenix not only represents rebirth, but unshakable strength in the face of adversity, and I deeply admire that quality.
