@@ -57,7 +57,15 @@ layout: default
         {% if post.image %}
             {% capture imgpath %}{{ post.image | replace: '/art/', 'art/' }}{% endcapture %}
             {% capture imgpath %}{{ imgpath | replace: '/media/', 'media/' }}{% endcapture %}
-            {% capture thumbsrc %}{% thumbnail imgpath 800x800 %}{% endcapture %}                            
+
+            {% for static_file in site.static_files %}
+                {% if static_file.path == imgpath %}
+                    {% capture thumbsrc %}{% thumbnail imgpath 800x800 %}{% endcapture %}    
+                {% endif %}
+            {% endfor %}
+
+
+                                   
             <img class="productimg" src="/{{ thumbsrc | replace: "<img src='", "" |  replace: "' />", "" }}" />
         {% endif %}
         
