@@ -1,8 +1,8 @@
 ---
-title: About
+title: contact
 layout: page
 description: Artist Statement
-active: About
+active: contact
 header-img: media/aboutbanner.jpg
 published: true
 ---
