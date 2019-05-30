@@ -1,9 +1,16 @@
 ---
 layout: post
 date: '2019-05-30 12:01 -0400'
-active: gallery
+active: blog
 published: true
 subtitle: An artist sounding off
+image: media/banner.jpg
+header-img: media/banner.jpg
+tags:
+  - musings
+  - sustainability
+categories:
+  - blog
 ---
 Somethig's been on my mind lately.
 Why is buying sustainable and ethically sourced items important? 
