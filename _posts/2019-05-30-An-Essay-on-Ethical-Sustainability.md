@@ -2,7 +2,7 @@
 layout: post
 date: '2019-05-30 12:01 -0400'
 active: gallery
-published: false
+published: true
 subtitle: An artist sounding off
 ---
 Somethig's been on my mind lately.
@@ -25,4 +25,3 @@ And neither should you. Not only is it more ethical to buy from a fine artist, i
 
 
 P.S Are you an artist? Got a website or something to promote? Comment below with the info - any place your link can go is an extra little boost for your business- and I whole heartedly support that, too.
-
